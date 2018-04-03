@@ -44,15 +44,36 @@
 
 
 #######################################货币转换
-inp = input()
-# print(type(inp))
-if inp[0:3] in ['RMB']:
-    print('USD',end='')
-    Ft = eval(inp[3:])/6.78
-    print("%.2f" % Ft)
-else:
-    print('RMB',end='')
-    Ct = eval(inp[3:])*6.78
-    # print("%.2f" % Ct)
-    ct1 = '{:.2f}'.format(Ct)
-    print(ct1)
+# inp = input()
+# # print(type(inp))
+# if inp[0:3] in ['RMB']:
+#     print('USD',end='')
+#     Ft = eval(inp[3:])/6.78
+#     print("%.2f" % Ft)
+# else:
+#     print('RMB',end='')
+#     Ct = eval(inp[3:])*6.78
+#     # print("%.2f" % Ct)
+#     ct1 = '{:.2f}'.format(Ct)
+#     print(ct1)
+
+
+import turtle
+
+# turtle.fd(100)
+# turtle.circle(50,180)
+# turtle.fd(100)
+# turtle.circle(-50,-180)
+# turtle.fd(100)
+# turtle.seth(45)
+# turtle.fd(100)
+#
+# turtle.seth(-90)
+# turtle.fd(100)
+
+turtle.fd(130)
+turtle.right(135)
+turtle.fd(200)
+turtle.left(135)
+turtle.fd(130)
+turtle.done()

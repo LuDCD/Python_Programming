@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 # -*- coding:utf8 -*-
 
 # 字典，Python唯一的映射类型

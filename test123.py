@@ -13,3 +13,20 @@
 
 print(round(0.1+0.2,1) == 0.3)
 print(4**0.5)
+
+
+lis2= [i for i in range(5)]
+print(lis2)
+
+#
+# n = int( input() )
+# upYear = (1 + n*0.001)**365
+# dwYear= (1 - n*0.001)**365
+# print("{:.2f},{:.2f},{:d}".format( upYear,dwYear,int( upYear/dwYear) ) )
+
+
+s='PYTHON'
+print("{0:3}".format(s))
+
+name="Python语言程序设计课程"
+print(name[0],name[2:-2],name[-1])

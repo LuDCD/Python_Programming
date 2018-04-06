@@ -30,3 +30,7 @@ print("{0:3}".format(s))
 
 name="Python语言程序设计课程"
 print(name[0],name[2:-2],name[-1])
+
+import math
+print(math.pi)
+print( help(math) )

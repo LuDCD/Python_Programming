@@ -25,12 +25,12 @@ print(lis2)
 # print("{:.2f},{:.2f},{:d}".format( upYear,dwYear,int( upYear/dwYear) ) )
 
 
-s='PYTHON'
-print("{0:3}".format(s))
 
-name="Python语言程序设计课程"
-print(name[0],name[2:-2],name[-1])
+def foo(num,base):
+    if(num >= base):
+        foo(num // base, base)
+        print(num % base, end = ' ')
 
-import math
-print(math.pi)
-print( help(math) )
+numA = int(input())
+numB = int(input())
+foo(numA,numB)

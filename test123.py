@@ -25,12 +25,13 @@ print(lis2)
 # print("{:.2f},{:.2f},{:d}".format( upYear,dwYear,int( upYear/dwYear) ) )
 
 
+def f(x,l=[]):
+    for i in range(x):
+        l.append(i*i)
+    print(l)
 
-def foo(num,base):
-    if(num >= base):
-        foo(num // base, base)
-        print(num % base, end = ' ')
-
-numA = int(input())
-numB = int(input())
-foo(numA,numB)
+f(2)
+f(3,[3,2,1])
+f(3)[0, 1]
+[3, 2, 1, 0, 1, 4]
+[0, 1, 0, 1, 4]

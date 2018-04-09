@@ -25,3 +25,7 @@ print( aList )
 t = frozenset( ['b', 'e', 'r'] )    # 不可变集合（不能增删改）
 print( type(t) )
 
+setA = set('Hello, World!')
+setB = set('Hello, Python!')
+print(setA - setB)
+print(setA ^ setB)

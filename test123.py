@@ -1,37 +1,13 @@
 #!/usr/bin/python
 # -*- coding:utf8 -*-
 
+# import numpy as np
+# a = np.array([(1, 2, 3), (4, 5, 6), (7, 8, 9)])
+# print( a.shape )
+# print(a[[2]].sum())
 
-# def fact(x): # 求阶乘 factorial.py
-#     factorial = 1
-#     for i in range(x): # [0,x)
-#         factorial = factorial*(i+1)
-#     return factorial  # 我是注释
-#
-# n = int( input('请输入一个数：'))
-# print( '%d的阶乘为%d.' % (n, fact(n)) )
+words = ["abcd", "dcba", "lls", "s", "sssll"]
 
-print(round(0.1+0.2,1) == 0.3)
-print(4**0.5)
-
-
-lis2= [i for i in range(5)]
-print(lis2)
-
-#
-# n = int( input() )
-# upYear = (1 + n*0.001)**365
-# dwYear= (1 - n*0.001)**365
-# print("{:.2f},{:.2f},{:d}".format( upYear,dwYear,int( upYear/dwYear) ) )
-
-
-def f(x,l=[]):
-    for i in range(x):
-        l.append(i*i)
-    print(l)
-
-f(2)
-f(3,[3,2,1])
-f(3)[0, 1]
-[3, 2, 1, 0, 1, 4]
-[0, 1, 0, 1, 4]
+a = words[0][::-1]
+print(a)
+print(a == words[1], a+words[0])

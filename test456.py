@@ -5,6 +5,10 @@
 # ss = os.getcwd()
 # print(ss)
 
-a = input()
-print(a*4)
-print(type(a))
+l = ['f1', 'f2']
+
+def ff( s, l= [] ):
+    l.append(s)
+
+ff('X')
+print(l)

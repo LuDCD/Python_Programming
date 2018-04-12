@@ -14,5 +14,7 @@ def functionName(self,arg1):
 
     pass
 
-#
+# 测试
+if __name__ == "__main__":
+    pass
 

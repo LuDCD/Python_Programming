@@ -11,7 +11,8 @@ class Solution:
     pass
 
 def test():
-    pass
+    s = Solution()
+
 
 if __name__ == "__main__":
     test()

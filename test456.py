@@ -5,10 +5,6 @@
 # ss = os.getcwd()
 # print(ss)
 
-l = ['f1', 'f2']
-
-def ff( s, l= [] ):
-    l.append(s)
-
-ff('X')
-print(l)
+s = "Let's take LeetCode contest"
+sList = s.split(' ')
+print(len(sList) )

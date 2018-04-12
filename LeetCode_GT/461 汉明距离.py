@@ -28,4 +28,21 @@ class Solution:
         :type y: int
         :rtype: int
         """
+        a = x ^ y   # x异或y
+        bina = bin(a)
+
+        n = 0
+        for i in range(2, len(bina) ):
+            n = n + eval(bina[i])
+
+        return n
+
+
+def test():
+    x = 1;      y = 4
+    s = Solution()
+    print( s.hammingDistance(x, y) )
+
+if __name__ == "__main__":
+    test()
 

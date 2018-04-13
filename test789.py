@@ -2,13 +2,15 @@
 # -*- coding:utf8 -*-
 
 
-nums = [ [1,2], [3,4] ]
+nums = [1,1,0,1,0,1]
 
-m = len(nums)
-n = len( nums[0] )
 
-newNum = []
-for i in range(m):
-    newNum += nums[i]
+sNum = ''
 
-print(newNum)
+l = len(nums)
+for i in range(l):
+    sNum += str( nums.pop() )
+
+nList = sNum.split('0')
+
+print(set (nList) )

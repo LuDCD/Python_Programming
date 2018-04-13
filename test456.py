@@ -5,6 +5,8 @@
 # ss = os.getcwd()
 # print(ss)
 
-s = "Let's take LeetCode contest"
-sList = s.split(' ')
-print(len(sList) )
+s = "abcdefg"
+reList = []
+t = s[0:4]
+reList = reList + list( ''.join(t)[::-1] )
+print(reList)

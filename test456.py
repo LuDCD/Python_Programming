@@ -5,8 +5,11 @@
 # ss = os.getcwd()
 # print(ss)
 
-s = "abcdefg"
-reList = []
-t = s[0:4]
-reList = reList + list( ''.join(t)[::-1] )
-print(reList)
+mylist = [[1,5,6],[2,7,8],[3,9,10],[4,11,12]]
+list1 = []
+list2 = []
+for l in mylist:
+    list1 += [l[0]]
+    list2 += l[1:]
+print(list1)
+print(list2)

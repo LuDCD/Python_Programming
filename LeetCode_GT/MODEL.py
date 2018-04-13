@@ -13,6 +13,8 @@ class Solution:
 def test():
     sol = Solution()
 
+    print(  )
+
 
 if __name__ == "__main__":
     test()

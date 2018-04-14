@@ -70,6 +70,7 @@ def test():
 if __name__ == "__main__":
     test()
 '''
+https://leetcode-cn.com/problems/next-greater-element-ii/description/
 超时，再议。
 思路：
 1、找出一个比他大的。排序预处理。

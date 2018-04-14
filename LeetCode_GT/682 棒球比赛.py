@@ -49,19 +49,45 @@ class Solution:
         :rtype: int
         """
 
+        # print( ops )
+
         l = len( ops )
         for i in range( l ):
             t = ops[i]
             if t not in ['C', 'D', '+']:
                 ops[i] = eval(t)
 
+        newops = []     # 存放有效回合分数的list
+
+        for k in ops:
+            if k not in ['C', 'D', '+']:
+                newops.append(k)
+            elif k == 'C':
+                newops.pop()
+            elif k == 'D':
+                newops.append( 2*newops[-1] )
+            else:
+                newops.append( newops[-2] + newops[-1] )
+
+        # print( newops )
+
+        return sum( newops )
+
+
 
 def test():
     sol = Solution()
-    ops = ["5","-2","4","C","D","9","+","+"]
+    # ops = ["5","-2","4","C","D","9","+","+"]
+    ops = ["5","2","C","D","+"]
     print( sol.calPoints(ops) )
 
 
 if __name__ == "__main__":
     test()
 
+'''
+【总结】
+在既要对列表元素进行遍历，又要进行操作的问题上。我们可以建立一个新的容器（列表）来存放有效（操作后）的元素。
+这样既不会影响遍历，以便于算法分析和设计。逻辑、条理清晰。
+即，减少不必要的耦合（关联），方便算法设计和理解。
+'''

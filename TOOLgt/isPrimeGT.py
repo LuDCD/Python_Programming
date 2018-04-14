@@ -21,9 +21,9 @@ def isPrime(num):
                 flag = 0
                 break
 
-    if flag == 1:
-        return True
-    else:
-        return False
+    return bool( flag )     # 简介写法
 
-# print( isPrime(99) )
+
+
+if __name__ == "__main__":
+    pass

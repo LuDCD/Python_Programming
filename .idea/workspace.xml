@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a70dec5c-c084-463e-9c94-db65365afe49" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TOOLgt/file22listGT.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetCode_GT/389 找不同.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TOOLgt/alphabetListGT.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TOOLgt/str22listGT.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LeetCode_GT/520 检测大写字母.py" afterPath="$PROJECT_DIR$/LeetCode_GT/520 检测大写字母.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TOOLgt/__init__.py" afterPath="$PROJECT_DIR$/TOOLgt/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PracticePY/test456.py" afterPath="$PROJECT_DIR$/PracticePY/test456.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Programming.iws" />
@@ -38,6 +43,7 @@
     <SUITE FILE_PATH="coverage/Programming$file22listGT__1_.coverage" NAME="file22listGT (1) Coverage Results" MODIFIED="1523694725108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TOOLgt" />
     <SUITE FILE_PATH="coverage/Programming$qq.coverage" NAME="qq Coverage Results" MODIFIED="1469437765943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Programming$notebook.coverage" NAME="notebook Coverage Results" MODIFIED="1477208482664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/parent_directory" />
+    <SUITE FILE_PATH="coverage/Programming$str22listGT.coverage" NAME="str22listGT Coverage Results" MODIFIED="1523870371820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TOOLgt" />
     <SUITE FILE_PATH="coverage/Programming$range__.coverage" NAME="range() Coverage Results" MODIFIED="1470141497419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Programming$053_.coverage" NAME="053爬虫_翻译 Coverage Results" MODIFIED="1470702103927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Programming$762_.coverage" NAME="762 二进制表示中质数个计算置位 Coverage Results" MODIFIED="1523695952493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
@@ -51,7 +57,8 @@
     <SUITE FILE_PATH="coverage/Programming$476_.coverage" NAME="476 数字的补数 Coverage Results" MODIFIED="1523537852140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
     <SUITE FILE_PATH="coverage/Programming$344_.coverage" NAME="344 反转字符串 Coverage Results" MODIFIED="1523585800399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
     <SUITE FILE_PATH="coverage/Programming$463_.coverage" NAME="463 岛屿的周长 Coverage Results" MODIFIED="1523600534157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
-    <SUITE FILE_PATH="coverage/Programming$test456.coverage" NAME="test456 Coverage Results" MODIFIED="1523861974549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PracticePY" />
+    <SUITE FILE_PATH="coverage/Programming$test456.coverage" NAME="test456 Coverage Results" MODIFIED="1523869714355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PracticePY" />
+    <SUITE FILE_PATH="coverage/Programming$389_.coverage" NAME="389 找不同 Coverage Results" MODIFIED="1523872273526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
     <SUITE FILE_PATH="coverage/Programming$766_.coverage" NAME="766 托普利茨矩阵 Coverage Results" MODIFIED="1523607203677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
     <SUITE FILE_PATH="coverage/Programming$811_.coverage" NAME="811 子域名访问计数 Coverage Results" MODIFIED="1523620625715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
     <SUITE FILE_PATH="coverage/Programming$566_.coverage" NAME="566 重塑矩阵 Coverage Results" MODIFIED="1523590490890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
@@ -60,6 +67,7 @@
     <SUITE FILE_PATH="coverage/Programming$.coverage" NAME="两数之和 Coverage Results" MODIFIED="1523523706837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/Programming$test456__1_.coverage" NAME="test456 (1) Coverage Results" MODIFIED="1523861292074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PracticePY" />
     <SUITE FILE_PATH="coverage/Programming$Creating_maze.coverage" NAME="Creating_maze Coverage Results" MODIFIED="1478998719704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Maze" />
+    <SUITE FILE_PATH="coverage/Programming$520_.coverage" NAME="520 检测大写字母 Coverage Results" MODIFIED="1523871781119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
     <SUITE FILE_PATH="coverage/Programming$hanoi.coverage" NAME="hanoi Coverage Results" MODIFIED="1469931566358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Programming$485_1.coverage" NAME="485 最大连续1的个数 Coverage Results" MODIFIED="1523622743592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
     <SUITE FILE_PATH="coverage/Programming$GUI_demo1.coverage" NAME="GUI编程入门_demo1 Coverage Results" MODIFIED="1470056961160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -89,6 +97,7 @@
     <SUITE FILE_PATH="coverage/Programming$for_demo.coverage" NAME="for_demo Coverage Results" MODIFIED="1470140051471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Programming$OS.coverage" NAME="OS模块 Coverage Results" MODIFIED="1470029273974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Programming$n.coverage" NAME="寻找第n个默尼森数 Coverage Results" MODIFIED="1523248263130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BIT_MOOC-Python" />
+    <SUITE FILE_PATH="coverage/Programming$alphabetListGT.coverage" NAME="alphabetListGT Coverage Results" MODIFIED="1523870673110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TOOLgt" />
     <SUITE FILE_PATH="coverage/Programming$036.coverage" NAME="036类和对象 Coverage Results" MODIFIED="1470116874360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Programming$pickle.coverage" NAME="pickle模块 Coverage Results" MODIFIED="1470036212151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Programming$461_.coverage" NAME="461 汉明距离 Coverage Results" MODIFIED="1523533677520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
@@ -125,17 +134,7 @@
         <entry file="file://$PROJECT_DIR$/PracticePY/test456.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="file22listGT.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/TOOLgt/file22listGT.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.48434925">
-              <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -155,7 +154,47 @@
         <entry file="file://$PROJECT_DIR$/LeetCode_GT/520 检测大写字母.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+              <caret line="42" column="27" selection-start-line="26" selection-start-column="0" selection-end-line="42" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="389 找不同.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode_GT/389 找不同.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.540146">
+              <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TOOLgt/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="11" column="81" selection-start-line="11" selection-start-column="81" selection-end-line="11" selection-end-column="81" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="alphabetListGT.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TOOLgt/alphabetListGT.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="str22listGT.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TOOLgt/str22listGT.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -176,11 +215,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LeetCode_GT/292 Nim游戏.py" />
-        <option value="$PROJECT_DIR$/LeetCode_GT/561 数组拆分 I.py" />
-        <option value="$PROJECT_DIR$/LeetCode_GT/104 二叉树的最大深度.py" />
-        <option value="$PROJECT_DIR$/LeetCode_GT/A104 二叉树的最大深度.py" />
-        <option value="$PROJECT_DIR$/LeetCode_GT/371 两整数之和.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/566 重塑矩阵.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/575 分糖果.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/MODEL.py" />
@@ -218,15 +252,20 @@
         <option value="$PROJECT_DIR$/LeetCode_GT/696 testData.txt" />
         <option value="$PROJECT_DIR$/LeetCode_GT/696 计数二进制子串.py" />
         <option value="$PROJECT_DIR$/test456.py" />
-        <option value="$PROJECT_DIR$/LeetCode_GT/520 检测大写字母.py" />
         <option value="$PROJECT_DIR$/TOOLgt/README.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/README.py" />
         <option value="$PROJECT_DIR$/SortGT/QuickSort.py" />
         <option value="$PROJECT_DIR$/TOOLgt/sortGT.py" />
         <option value="$PROJECT_DIR$/PracticePY/README.py" />
-        <option value="$PROJECT_DIR$/PracticePY/test456.py" />
-        <option value="$PROJECT_DIR$/TOOLgt/__init__.py" />
         <option value="$PROJECT_DIR$/TOOLgt/file22listGT.py" />
+        <option value="$PROJECT_DIR$/PracticePY/test456.py" />
+        <option value="$PROJECT_DIR$/TOOLgt/string22listGT.py" />
+        <option value="$PROJECT_DIR$/TOOLgt/str22listGT.py" />
+        <option value="$PROJECT_DIR$/TOOLgt/alphabetGT.py" />
+        <option value="$PROJECT_DIR$/TOOLgt/alphabetListGT.py" />
+        <option value="$PROJECT_DIR$/TOOLgt/__init__.py" />
+        <option value="$PROJECT_DIR$/LeetCode_GT/520 检测大写字母.py" />
+        <option value="$PROJECT_DIR$/LeetCode_GT/389 找不同.py" />
       </list>
     </option>
   </component>
@@ -299,6 +338,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Programming" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python_Programming" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LeetCode_GT" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -339,7 +392,7 @@
       <recent name="D:\zhouheng\Programming\Python\Programming\装饰器模式" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test456">
+  <component name="RunManager" selected="Python.389 找不同">
     <configuration default="false" name="test456" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -354,6 +407,78 @@
       <module name="Programming" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PracticePY/test456.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="str22listGT" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TOOLgt" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Programming" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TOOLgt/str22listGT.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="alphabetListGT" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TOOLgt" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Programming" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TOOLgt/alphabetListGT.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="520 检测大写字母" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode_GT" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Programming" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode_GT/520 检测大写字母.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="389 找不同" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode_GT" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Programming" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode_GT/389 找不同.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -546,12 +671,20 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="1">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.test456" />
+      <item index="1" class="java.lang.String" itemvalue="Python.str22listGT" />
+      <item index="2" class="java.lang.String" itemvalue="Python.alphabetListGT" />
+      <item index="3" class="java.lang.String" itemvalue="Python.520 检测大写字母" />
+      <item index="4" class="java.lang.String" itemvalue="Python.389 找不同" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.test456" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.389 找不同" />
+        <item index="1" class="java.lang.String" itemvalue="Python.520 检测大写字母" />
+        <item index="2" class="java.lang.String" itemvalue="Python.alphabetListGT" />
+        <item index="3" class="java.lang.String" itemvalue="Python.str22listGT" />
+        <item index="4" class="java.lang.String" itemvalue="Python.test456" />
       </list>
     </recent_temporary>
   </component>
@@ -716,7 +849,13 @@
       <option name="project" value="LOCAL" />
       <updated>1523863761986</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;README.md&#10;">
+      <created>1523864011339</created>
+      <option name="number" value="00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1523864011339</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -729,7 +868,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3081761" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3081761" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18667643" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -785,28 +924,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode_GT/520 检测大写字母.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PracticePY/README.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PracticePY/028一个任务_改进版.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode_GT/500 键盘行.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1111,14 +1228,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode_GT/520 检测大写字母.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PracticePY/test123.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1127,10 +1236,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TOOLgt/__init__.py">
+    <entry file="file://$PROJECT_DIR$/TOOLgt/file22listGT.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34596375">
-          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        <state vertical-scroll-proportion="0.48434925">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
           <folding />
         </state>
       </provider>
@@ -1138,15 +1247,47 @@
     <entry file="file://$PROJECT_DIR$/PracticePY/test456.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TOOLgt/file22listGT.py">
+    <entry file="file://$PROJECT_DIR$/TOOLgt/str22listGT.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48434925">
-          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TOOLgt/alphabetListGT.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TOOLgt/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="81" selection-start-line="11" selection-start-column="81" selection-end-line="11" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode_GT/520 检测大写字母.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="42" column="27" selection-start-line="26" selection-start-column="0" selection-end-line="42" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode_GT/389 找不同.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.540146">
+          <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
           <folding />
         </state>
       </provider>

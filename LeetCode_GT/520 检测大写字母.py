@@ -6,9 +6,9 @@
 
 我们定义，在以下情况时，单词的大写用法是正确的：
 
-全部字母都是大写，比如"USA"。
-单词中所有字母都不是大写，比如"leetcode"。
-如果单词不只含有一个字母，只有首字母大写， 比如 "Google"。
+1 全部字母都是大写，比如"USA"。
+2 单词中所有字母都不是大写，比如"leetcode"。
+3 如果单词不只含有一个字母，只有首字母大写， 比如 "Google"。
 否则，我们定义这个单词没有正确使用大写字母。
 
 示例 1:
@@ -24,9 +24,36 @@
 @author: ZHOU Heng
 """
 
+class Solution:
+    def detectCapitalUse(self, word):
+        """
+        :type word: str
+        :rtype: bool
+        """
+        # 思路判断有几个大写字母
+        flag = 0    # 显示word是否符合条件。默认不符合。
+        num = 0
+        for w in word:
+            if 'A' <= w <= 'Z':
+                num += 1
+
+        if num == 1 and 'A' <= word[0] <= 'Z' or num == 0 or num == len(word):
+            flag = 1
+
+        return bool( flag )
+
+
+
+
+
+
 
 def test():
-    pass
+    word = "FlaG"
+    # wList = str22listGT.str2list(word)
+    # print( wList )
+    sol = Solution()
+    print( sol.detectCapitalUse(word) )
 
 
 if __name__ == "__main__":

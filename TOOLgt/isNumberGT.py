@@ -2,15 +2,20 @@
 # -*- coding:utf8 -*-
 
 """
-判断一个数是否为素数
+判断一个数是否为某些有特殊的数（比如素数等）
 
 @author: ZHOU Heng
 """
 
 import math
 
-def isPrime(num):
-    ' 判断一个数是否为素数 '
+def isPrime( num ):
+    '''
+    判断一个数是否为素数
+    :type num: int
+    :rtype: bool
+    '''
+
     flag = 0
     if num in [2, 3, 5]:
         flag = 1

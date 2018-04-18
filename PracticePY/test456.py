@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # -*- coding:utf8 -*-
 
-def reverse (s):
-   return  reverse  (s[1:])+s[0]
-
-a = 'abcdefghij'
-print( list(a) )
+a = []
+print( id(a) )
+# a += [1]
+a.append( 1 )
+print(a,id(a))

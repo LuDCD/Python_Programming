@@ -22,8 +22,7 @@ def count_words(s, n):
     sList = s.split(sep = ' ')      # 拆分字符串，得到单词列表
     # sList.sort()        # 按字母顺序排序
 
-    top_n = []
-    top = dict()
+    top = dict()        # 单词：次数 字典
     sSet = set(sList)
     for word in sSet:
         word_n = 0      # word 出现的次数
@@ -32,15 +31,17 @@ def count_words(s, n):
                 word_n += 1
             top[word] = word_n
 
-    print(top)
+    # print(top)
+    topAll = list( top.items() )          # topAll 是列表类型
 
-    topAll = sorted( top.items(), key = lambda x:x[1], reverse = True )
-    # topAll 是列表类型
-    print(type(topAll), topAll)
+    # 按出现次数排序。如果出现次数相同，则按字母顺序排列。
+    # topAll.sort( key = lambda x: x[1] , reverse = True )
+    topAll.sort( key = lambda x:( -x[1], x[0]) )
+    # 成功了！！！！
 
+    # print(type(topAll), topAll)
 
-
-    return top_n
+    return topAll
 
 
 def test_run():
@@ -49,9 +50,6 @@ def test_run():
     print( count_words("betty bought a bit of butter but the butter was bitter", 3) )
     print( count_words('london bridge is falling down falling down falling down london bridge is falling down my fair lady', 5))
 
-    # count_words("cat bat mat cat bat cat", 3)
-    # count_words("betty bought a bit of butter but the butter was bitter", 3)
-    # count_words('london bridge is falling down falling down falling down london bridge is falling down my fair lady', 5)
 
 if __name__ == '__main__':
     test_run()

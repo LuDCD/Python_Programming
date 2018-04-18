@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a70dec5c-c084-463e-9c94-db65365afe49" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Programming.iml" afterPath="$PROJECT_DIR$/.idea/Programming.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BOOK-MLinActionGTpy35/kNNGT.py" afterPath="$PROJECT_DIR$/BOOK-MLinActionGTpy35/kNNGT.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BIT_MOOC-Python/统计词频.py" afterPath="$PROJECT_DIR$/BIT_MOOC-Python/统计词频.py" />
     </list>
     <ignored path="Programming.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,7 +25,7 @@
     <SUITE FILE_PATH="coverage/Programming$053.coverage" NAME="053爬虫 Coverage Results" MODIFIED="1470287615655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Programming$time.coverage" NAME="time库的使用 Coverage Results" MODIFIED="1522840109411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BIT_MOOC-Python" />
     <SUITE FILE_PATH="coverage/Programming$File2ListandList2File.coverage" NAME="File2ListandList2File Coverage Results" MODIFIED="1523691449098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BIT_MOOC-Python" />
-    <SUITE FILE_PATH="coverage/Programming$kNNGT.coverage" NAME="kNNGT Coverage Results" MODIFIED="1524058684859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOOK-MLinActionGTpy35" />
+    <SUITE FILE_PATH="coverage/Programming$kNNGT.coverage" NAME="kNNGT Coverage Results" MODIFIED="1524059409145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOOK-MLinActionGTpy35" />
     <SUITE FILE_PATH="coverage/Programming$1.coverage" NAME="恺撒密码1 Coverage Results" MODIFIED="1522907444115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BIT_MOOC-Python" />
     <SUITE FILE_PATH="coverage/Programming$682_.coverage" NAME="682 棒球比赛 Coverage Results" MODIFIED="1523675089903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
     <SUITE FILE_PATH="coverage/Programming$test123.coverage" NAME="test123 Coverage Results" MODIFIED="1523599486459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -69,7 +70,7 @@
     <SUITE FILE_PATH="coverage/Programming$485_1.coverage" NAME="485 最大连续1的个数 Coverage Results" MODIFIED="1523622743592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
     <SUITE FILE_PATH="coverage/Programming$GUI_demo1.coverage" NAME="GUI编程入门_demo1 Coverage Results" MODIFIED="1470056961160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Programming$557__III.coverage" NAME="557 反转字符串中的单词 III Coverage Results" MODIFIED="1523540289562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
-    <SUITE FILE_PATH="coverage/Programming$test789.coverage" NAME="test789 Coverage Results" MODIFIED="1524033605491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PracticePY" />
+    <SUITE FILE_PATH="coverage/Programming$test789.coverage" NAME="test789 Coverage Results" MODIFIED="1524058947778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PracticePY" />
     <SUITE FILE_PATH="coverage/Programming$053__.coverage" NAME="053爬虫_隐藏_代理 Coverage Results" MODIFIED="1470296311470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Programming$else.coverage" NAME="再谈else Coverage Results" MODIFIED="1470052335472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Programming$turtle.coverage" NAME="turtle同切圆绘制 Coverage Results" MODIFIED="1522810367715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BIT_MOOC-Python" />
@@ -143,7 +144,7 @@
         <entry file="file://$PROJECT_DIR$/PracticePY/test789.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+              <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -152,10 +153,10 @@
       <file leaf-file-name="kNNGT.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BOOK-MLinActionGTpy35/kNNGT.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.43382353">
-              <caret line="59" column="54" selection-start-line="59" selection-start-column="54" selection-end-line="59" selection-end-column="54" />
+            <state vertical-scroll-proportion="-1.3382353">
+              <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
               <folding>
-                <element signature="e#89#107#0" expanded="true" />
+                <element signature="e#91#109#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -196,7 +197,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LeetCode_GT/766 托普利茨矩阵.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/693 交替位二进制数.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/811 子域名访问计数.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/485 最大连续1的个数.py" />
@@ -246,6 +246,7 @@
         <option value="$PROJECT_DIR$/LeetCode_GT/169 求众数.py" />
         <option value="$PROJECT_DIR$/PracticePY/test789.py" />
         <option value="$PROJECT_DIR$/BIT_MOOC-Python/统计词频.py" />
+        <option value="$PROJECT_DIR$/BOOK-MLinActionGTpy35/123.py" />
         <option value="$PROJECT_DIR$/BOOK-MLinActionGTpy35/kNNGT.py" />
       </list>
     </option>
@@ -274,6 +275,9 @@
     <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="1" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -287,6 +291,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -335,7 +340,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -648,8 +652,8 @@
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Python.kNNGT" />
-        <item index="1" class="java.lang.String" itemvalue="Python.统计词频" />
-        <item index="2" class="java.lang.String" itemvalue="Python.test789" />
+        <item index="1" class="java.lang.String" itemvalue="Python.test789" />
+        <item index="2" class="java.lang.String" itemvalue="Python.统计词频" />
         <item index="3" class="java.lang.String" itemvalue="Python.test456" />
         <item index="4" class="java.lang.String" itemvalue="Python.169 求众数" />
       </list>
@@ -834,7 +838,13 @@
       <option name="project" value="LOCAL" />
       <updated>1523939523497</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="20180418-4">
+      <created>1524058705330</created>
+      <option name="number" value="00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1524058705330</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -887,7 +897,8 @@
     <MESSAGE value="20180415" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;README.md&#10;" />
     <MESSAGE value="20180416" />
-    <option name="LAST_COMMIT_MESSAGE" value="20180416" />
+    <MESSAGE value="20180418-4" />
+    <option name="LAST_COMMIT_MESSAGE" value="20180418-4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -904,13 +915,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode_GT/804 唯一摩尔斯密码词.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="55" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode_GT/A104 二叉树的最大深度.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1156,14 +1160,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PracticePY/test123.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TOOLgt/text22listGT.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.48434925">
@@ -1243,14 +1239,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PracticePY/test789.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/统计词频.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1259,12 +1247,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/PracticePY/test789.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PracticePY/test123.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/BOOK-MLinActionGTpy35/kNNGT.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.43382353">
-          <caret line="59" column="54" selection-start-line="59" selection-start-column="54" selection-end-line="59" selection-end-column="54" />
+        <state vertical-scroll-proportion="-1.3382353">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
           <folding>
-            <element signature="e#89#107#0" expanded="true" />
+            <element signature="e#91#109#0" expanded="true" />
           </folding>
         </state>
       </provider>

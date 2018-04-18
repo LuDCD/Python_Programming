@@ -36,7 +36,7 @@ def count_words(s, n):
 
     # 按出现次数排序。如果出现次数相同，则按字母顺序排列。
     # topAll.sort( key = lambda x: x[1] , reverse = True )
-    topAll.sort( key = lambda x:( -x[1], x[0]) )
+    topAll.sort( key = lambda x:( -x[1], x[0] ) )
     # 成功了！！！！
 
     # print(type(topAll), topAll)

@@ -1,8 +1,5 @@
 #!/usr/bin/env python
 # -*- coding:utf8 -*-
 
-a = []
-print( id(a) )
-# a += [1]
-a.append( 1 )
-print(a,id(a))
+a = [1,2,3,4,5]
+print( a.index(6) )

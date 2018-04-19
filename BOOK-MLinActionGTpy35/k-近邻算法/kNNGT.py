@@ -19,7 +19,7 @@ def creatDataSet():
 
 
 # k-近邻算法
-def classify0(X, dataSet, labels, k):
+def classify0( X, dataSet, labels, k ):
     '''
     :type X:行向量（ 1*n ）
     :type dataSet:矩阵（ m*n ），和 X 列数相同
@@ -64,10 +64,41 @@ def classify0(X, dataSet, labels, k):
     return labFreq[0][0]
 
 
+def file2matrix( filename ):
+    '''
+    处理文本文件。每行有4个元素，3个特征 + 一个标签
+    :type filename:str
+    :return:训练样本矩阵 和 类标签向量
+    '''
+    with open( filename ) as f:
+        # 读取文本文件的每一行数据，返回一个 一行作为一个元素 的列表
+        listOfLines  = f.readlines()
+
+    numberOfLine = len( listOfLines )
+    reMatrix = np.zeros( (numberOfLine, 3) )        # 训练样本矩阵
+    labelVector = []       # 类标签向量
+
+    # 遍历 行元素 列表的每一元素
+    for i in range( numberOfLine ):
+        line = listOfLines[i]
+        line = line.strip()         # 除掉收尾空白字符
+        tlist = line.split('\t')    # 以水平制表符来切分字符串，返回切分后的元素列表
+        reMatrix[i:] = tlist[0:3]
+        labelVector.append( tlist[-1] )
+
+    return reMatrix, labelVector
+
+
+
+
 
 def test():
     group, labels = creatDataSet()
     print( classify0( [0, 0], group, labels, 3))
+
+    # 获得约会数据
+    datingDataMat, datingLabels = file2matrix( 'datingTestSet2.txt' )
+    # print( datingDataMat, datingLabels)
 
 if __name__ == '__main__':
     test()

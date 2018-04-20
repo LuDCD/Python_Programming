@@ -146,6 +146,25 @@ def datingClassTest():
     return orrorNum / float(numTestData)
 
 
+# 把图像数据转换成向量
+def img2vector( filename ):
+    '''
+    :type filename: 图像数据(已知为：32*32 矩阵)文件名字符串 '0_1.txt'
+    :return:向量
+    '''
+    reVector = np.zeros( (1, 32*32) )
+
+    with open(filename) as fp:
+        for i in range( 32 ):
+            strNum = fp.readline()
+            for j in range(32):
+                reVector[0, 32*i+j] = eval( strNum[j] )
+
+    return reVector
+
+
+
+
 def test():
     # group, labels = creatDataSet()
     # print( classify0( [0, 0], group, labels, 3))
@@ -174,9 +193,14 @@ def test():
 
 
     # 查看错误率
-    orrorRatio = datingClassTest()
-    print( orrorRatio )
+    # orrorRatio = datingClassTest()
+    # print( orrorRatio )
 
+
+
+    numVector = img2vector('testDigits/0_13.txt')
+    # print( numVector )
+    # print( type(numVector) )
 
 
 if __name__ == '__main__':

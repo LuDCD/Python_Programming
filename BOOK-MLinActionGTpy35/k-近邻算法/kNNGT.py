@@ -9,6 +9,7 @@
 """
 
 import numpy as np
+import os
 
 import matplotlib
 import matplotlib.pyplot as plt
@@ -163,6 +164,45 @@ def img2vector( filename ):
     return reVector
 
 
+# 手写数字识别系统
+def handwritingClassTest():
+    fileNameList = os.listdir('trainingDigits')     # 获得这个文件夹下的文件名(如：'9_11.txt')列表
+    m = len( fileNameList )     # 有多少个文件
+    trainData = np.zeros( (m,32*32) )   # 创建一个m行32*32列的矩阵，用来存放这m个图像数据
+
+    classNumLabels = []
+    for i in range(m):
+        fileNameStr = fileNameList[i]
+        fileStr = fileNameStr.split('.')[0]        # '9_11'
+        # 标记是哪个数字
+        numLabel = eval( fileStr.split('_')[0] )    # 9
+        classNumLabels.append( numLabel )
+        # 这个数字的图像数据
+        trainData[i,:] = img2vector('trainingDigits/{}.txt'.format(fileStr))
+
+    error = 0
+    # 如法炮制，来测试数据
+    testFileNameList = os.listdir('testDigits')     # 获得这个文件夹下的文件名(如：'9_11.txt')列表
+    tm = len( testFileNameList )
+    for i in range(tm):
+        fileNameStr2 = testFileNameList[i]
+        fileStr2 = fileNameStr2.split('.')[0]   # '0_3'
+        num2 = eval( fileStr2.split('_')[0] )   # 0
+
+        # 获得测试图像数据
+        X = img2vector('testDigits/{}.txt'.format(fileStr2))
+        # 使用 k-近邻算法
+        k_NNclassNum = classify0( X, trainData, classNumLabels, 3 )
+
+        # print('数字为{}'.format(num2),'{}是分类结果'.format(k_NNclassNum) )
+
+        # 统计错误数
+        if k_NNclassNum != num2:
+            error += 1
+
+
+    print('错误率：{}'.format(error/tm))
+
 
 
 def test():
@@ -198,9 +238,13 @@ def test():
 
 
 
-    numVector = img2vector('testDigits/0_13.txt')
+    # 图像数据转换为向量
+    # numVector = img2vector('testDigits/0_13.txt')
     # print( numVector )
     # print( type(numVector) )
+
+    handwritingClassTest()
+
 
 
 if __name__ == '__main__':

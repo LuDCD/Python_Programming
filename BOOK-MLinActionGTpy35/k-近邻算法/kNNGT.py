@@ -104,7 +104,8 @@ def drawData( x, y , labels):
     '''
     fig = plt.figure()
     ax = fig.add_subplot(111)
-    ax.scatter( x, y, 15.0*np.array(labels), 15.0*np.array(labels) )
+    ax.scatter( x, y, s=15.0*np.array(labels), c=15.0*np.array(labels) )    # size, color
+
     plt.show()
 
 
@@ -212,9 +213,9 @@ def test():
 
 
     # 获得约会数据
-    # datingDataMat, datingLabels = file2matrix( 'datingTestSet2.txt' )
-    # for i in range( len(datingLabels) ):
-    #     datingLabels[i] = eval( datingLabels[i] )
+    datingDataMat, datingLabels = file2matrix( 'datingTestSet2.txt' )
+    for i in range( len(datingLabels) ):
+        datingLabels[i] = eval( datingLabels[i] )
 
     # 我知道 datingTestSet2.txt 里面的数据的label 是数字，
     # 由于file2matrix,转换之后的全是字符，所以我们要变数字字符为数字，因为后面用到数字的值
@@ -223,7 +224,7 @@ def test():
 
 
     # 可视化
-    # drawData( datingDataMat[:,0], datingDataMat[:,1], datingLabels)
+    drawData( datingDataMat[:,0], datingDataMat[:,1], datingLabels)
 
 
 
@@ -243,7 +244,10 @@ def test():
     # print( numVector )
     # print( type(numVector) )
 
-    handwritingClassTest()
+
+
+    # 手写测试系统
+    # handwritingClassTest()
 
 
 

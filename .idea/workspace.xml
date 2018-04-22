@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a70dec5c-c084-463e-9c94-db65365afe49" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetCode_GT/191 汉明重量（位1的个数）.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetCode_GT/598 范围求和 II.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetCode_GT/599 两个列表的最小索引总和.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetCode_GT/9 回文数.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PracticePY/test456.py" afterPath="$PROJECT_DIR$/PracticePY/test456.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PracticePY/test789.py" afterPath="$PROJECT_DIR$/PracticePY/test789.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BOOK-MLinActionGTpy35/决策树/treesGT.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Programming.iws" />
@@ -70,6 +65,7 @@
     <SUITE FILE_PATH="coverage/Programming$kNNGT.coverage" NAME="kNNGT Coverage Results" MODIFIED="1524302144695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOOK-MLinActionGTpy35/k-近邻算法" />
     <SUITE FILE_PATH="coverage/Programming$682_.coverage" NAME="682 棒球比赛 Coverage Results" MODIFIED="1523675089903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
     <SUITE FILE_PATH="coverage/Programming$test123.coverage" NAME="test123 Coverage Results" MODIFIED="1523599486459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Programming$treesGT.coverage" NAME="treesGT Coverage Results" MODIFIED="1524382663009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOOK-MLinActionGTpy35/决策树" />
     <SUITE FILE_PATH="coverage/Programming$PythonDraw.coverage" NAME="PythonDraw Coverage Results" MODIFIED="1522721003169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Programming$menu.coverage" NAME="menu Coverage Results" MODIFIED="1477295683837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/parent_directory" />
     <SUITE FILE_PATH="coverage/Programming$575_.coverage" NAME="575 分糖果 Coverage Results" MODIFIED="1523591052748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
@@ -161,21 +157,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="599 两个列表的最小索引总和.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode_GT/599 两个列表的最小索引总和.py">
+      <file leaf-file-name="treesGT.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BOOK-MLinActionGTpy35/决策树/treesGT.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="50" column="30" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="30" />
-              <folding />
+            <state vertical-scroll-proportion="0.7754569">
+              <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+              <folding>
+                <element signature="e#153#621#0" expanded="false" />
+                <element signature="e#656#869#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="9 回文数.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LeetCode_GT/9 回文数.py">
+      <file leaf-file-name="598 范围求和 II.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode_GT/598 范围求和 II.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.27415144">
-              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="37" selection-end-column="25" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="64" column="0" selection-start-line="64" selection-start-column="0" selection-end-line="70" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -196,7 +195,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test789.py" />
         <option value="$PROJECT_DIR$/BIT_MOOC-Python/File2ListandList2File.py" />
         <option value="$PROJECT_DIR$/BIT_MOOC-Python/isPrime.py" />
         <option value="$PROJECT_DIR$/TOOLgt/FileandListGT.py" />
@@ -247,6 +245,7 @@
         <option value="$PROJECT_DIR$/LeetCode_GT/599 两个列表的最小索引总和.py" />
         <option value="$PROJECT_DIR$/PracticePY/test789.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/9 回文数.py" />
+        <option value="$PROJECT_DIR$/BOOK-MLinActionGTpy35/决策树/treesGT.py" />
       </list>
     </option>
   </component>
@@ -323,6 +322,38 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Programming" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python_Programming" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BOOK-MLinActionGTpy35" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="决策树" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Programming" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python_Programming" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BOOK-MLinActionGTpy35" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope">
@@ -363,7 +394,7 @@
       <recent name="D:\zhouheng\Programming\Python\Programming\装饰器模式" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.9 回文数">
+  <component name="RunManager" selected="Python.treesGT">
     <configuration default="false" name="test789" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -378,24 +409,6 @@
       <module name="Programming" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PracticePY/test789.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="191 汉明重量（位1的个数）" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode_GT" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Programming" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode_GT/191 汉明重量（位1的个数）.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -450,6 +463,24 @@
       <module name="Programming" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode_GT/9 回文数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="treesGT" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOOK-MLinActionGTpy35/决策树" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Programming" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOOK-MLinActionGTpy35/决策树/treesGT.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -644,18 +675,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.test789" />
-      <item index="1" class="java.lang.String" itemvalue="Python.191 汉明重量（位1的个数）" />
-      <item index="2" class="java.lang.String" itemvalue="Python.599 两个列表的最小索引总和" />
-      <item index="3" class="java.lang.String" itemvalue="Python.test456" />
-      <item index="4" class="java.lang.String" itemvalue="Python.9 回文数" />
+      <item index="1" class="java.lang.String" itemvalue="Python.599 两个列表的最小索引总和" />
+      <item index="2" class="java.lang.String" itemvalue="Python.test456" />
+      <item index="3" class="java.lang.String" itemvalue="Python.9 回文数" />
+      <item index="4" class="java.lang.String" itemvalue="Python.treesGT" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.9 回文数" />
-        <item index="1" class="java.lang.String" itemvalue="Python.test789" />
-        <item index="2" class="java.lang.String" itemvalue="Python.599 两个列表的最小索引总和" />
-        <item index="3" class="java.lang.String" itemvalue="Python.test456" />
-        <item index="4" class="java.lang.String" itemvalue="Python.191 汉明重量（位1的个数）" />
+        <item index="0" class="java.lang.String" itemvalue="Python.treesGT" />
+        <item index="1" class="java.lang.String" itemvalue="Python.9 回文数" />
+        <item index="2" class="java.lang.String" itemvalue="Python.test789" />
+        <item index="3" class="java.lang.String" itemvalue="Python.599 两个列表的最小索引总和" />
+        <item index="4" class="java.lang.String" itemvalue="Python.test456" />
       </list>
     </recent_temporary>
   </component>
@@ -863,7 +894,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18667643" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19912152" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -928,13 +959,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode_GT/463 岛屿的周长.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="29" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode_GT/766 托普利茨矩阵.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1241,24 +1265,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="105" column="13" selection-start-line="105" selection-start-column="13" selection-end-line="105" selection-end-column="13" />
-          <folding>
-            <element signature="e#91#109#0" expanded="false" />
-            <element signature="e#197#322#0" expanded="false" />
-            <element signature="e#378#1544#0" expanded="false" />
-            <element signature="e#1597#2300#0" expanded="false" />
-            <element signature="e#2624#3066#0" expanded="false" />
-            <element signature="e#3103#3753#0" expanded="false" />
-            <element signature="e#3801#4126#0" expanded="false" />
-            <element signature="e#4172#5395#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode_GT/598 范围求和 II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="61" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1266,14 +1272,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="21" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PracticePY/test456.py">
+    <entry file="file://$PROJECT_DIR$/LeetCode_GT/9 回文数.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        <state vertical-scroll-proportion="1.3146622">
+          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1294,11 +1299,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode_GT/9 回文数.py">
+    <entry file="file://$PROJECT_DIR$/PracticePY/test456.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.27415144">
-          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="37" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode_GT/598 范围求和 II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="64" column="0" selection-start-line="64" selection-start-column="0" selection-end-line="70" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BOOK-MLinActionGTpy35/决策树/treesGT.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7754569">
+          <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding>
+            <element signature="e#153#621#0" expanded="false" />
+            <element signature="e#656#869#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

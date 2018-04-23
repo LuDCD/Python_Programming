@@ -116,6 +116,7 @@ def test():
     # print( splitDataSet(dataSet, 0, 0) )
 
 
+
     # 最好的分组特征
     bestFeature = chooseBestFeatureToSplite(dataSet)
     print( bestFeature )

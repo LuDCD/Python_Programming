@@ -36,7 +36,8 @@ def isLowletters( x ):
 
     return bool( flag )
 
-def ispperletters( x ):
+
+def isUpperletters( x ):
     '''
     判断是否为大写字母
     :type x: str
@@ -47,6 +48,7 @@ def ispperletters( x ):
         flag = 1
 
     return bool( flag )
+
 
 def isLetters( x ):
     '''
@@ -60,8 +62,23 @@ def isLetters( x ):
 
     return bool( flag )
 
+
+def latterSet():
+    '''
+    :return: 字母（大小写）集合
+    '''
+    aSet = set(['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H',
+                'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P',
+                'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z',
+                'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h',
+                'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p',
+                'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'
+                ])
+
+    return aSet
+
 def test():
-    A = AlphabetList()
+    A = latterSet()
     print( A )
 
 

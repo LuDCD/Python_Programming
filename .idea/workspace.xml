@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a70dec5c-c084-463e-9c94-db65365afe49" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode_GT/784 字母大小写全排列.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Programming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Programming.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode_GT/35 搜索插入位置.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TOOLgt/alphabetListGT.py" beforeDir="false" afterPath="$PROJECT_DIR$/TOOLgt/alphabetListGT.py" afterDir="false" />
     </list>
     <ignored path="Programming.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,7 +24,7 @@
     <SUITE FILE_PATH="coverage/Programming$682_.coverage" NAME="682 棒球比赛 Coverage Results" MODIFIED="1523675089903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
     <SUITE FILE_PATH="coverage/Programming$13_.coverage" NAME="13 罗马数字转整数 Coverage Results" MODIFIED="1523597646944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
     <SUITE FILE_PATH="coverage/Programming$lambda.coverage" NAME="lambda表达式 Coverage Results" MODIFIED="1469883138216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Programming$treesGT.coverage" NAME="treesGT Coverage Results" MODIFIED="1524463490892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOOK-MLinActionGTpy35/决策树" />
+    <SUITE FILE_PATH="coverage/Programming$treesGT.coverage" NAME="treesGT Coverage Results" MODIFIED="1524554594885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOOK-MLinActionGTpy35/决策树" />
     <SUITE FILE_PATH="coverage/Programming$PythonDraw.coverage" NAME="PythonDraw Coverage Results" MODIFIED="1522721003169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Programming$036.coverage" NAME="036类和对象 Coverage Results" MODIFIED="1470116874360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Programming$test123.coverage" NAME="test123 Coverage Results" MODIFIED="1523599486459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -151,8 +148,8 @@
       <file leaf-file-name="treesGT.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BOOK-MLinActionGTpy35/决策树/treesGT.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="330">
+              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
               <folding>
                 <element signature="e#88#99#0" expanded="true" />
                 <element signature="e#173#645#0" />
@@ -163,20 +160,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="784 字母大小写全排列.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LeetCode_GT/784 字母大小写全排列.py">
+      <file leaf-file-name="35 搜索插入位置.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode_GT/35 搜索插入位置.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="24" selection-start-line="24" selection-end-line="70" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="alphabetListGT.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TOOLgt/alphabetListGT.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="543">
-              <caret line="83" selection-start-line="83" selection-end-line="83" />
+            <state relative-caret-position="186">
+              <caret line="28" selection-start-line="28" selection-end-line="41" />
             </state>
           </provider>
         </entry>
@@ -196,7 +184,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/TOOLgt/isPrimeGT.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/762 二进制表示中质数个计算置位.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/38 报数.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/349 两个数组的交集.py" />
@@ -232,7 +219,6 @@
         <option value="$PROJECT_DIR$/LeetCode_GT/136 只出现一次的数字.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/268 缺失数字.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/788 旋转数字.py" />
-        <option value="$PROJECT_DIR$/BOOK-MLinActionGTpy35/k-近邻算法/kNNGT.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/598 范围求和 II.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/191 位1的个数（汉明重量）.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/191 汉明重量（位1的个数）.py" />
@@ -247,6 +233,8 @@
         <option value="$PROJECT_DIR$/LeetCode_GT/409 最长回文串.py" />
         <option value="$PROJECT_DIR$/TOOLgt/alphabetListGT.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/784 字母大小写全排列.py" />
+        <option value="$PROJECT_DIR$/BOOK-MLinActionGTpy35/k-近邻算法/kNNGT.py" />
+        <option value="$PROJECT_DIR$/LeetCode_GT/35 搜索插入位置.py" />
       </list>
     </option>
   </component>
@@ -259,7 +247,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
@@ -287,7 +275,7 @@
             <path>
               <item name="Programming" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Programming" type="462c0819:PsiDirectoryNode" />
-              <item name="TOOLgt" type="462c0819:PsiDirectoryNode" />
+              <item name="LeetCode_GT" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -305,15 +293,16 @@
     <property name="settings.editor.selected.configurable" value="Console" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\zhouheng\Programming\Python\Programming\BIT_MOOC-Python" />
-      <recent name="D:\zhouheng\Programming\Python\Programming" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\zhouheng\Python_Programming\BOOK-MLinActionGTpy35\k-近邻算法" />
       <recent name="D:\zhouheng\Programming\Python\Programming\TOOLgt" />
       <recent name="D:\zhouheng\Programming\Python\Programming\BIT_MOOC-Python" />
       <recent name="D:\zhouheng\Programming\Python\Programming\装饰器模式" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\zhouheng\Python_Programming\BOOK-MLinActionGTpy35\k-近邻算法" />
+      <recent name="D:\zhouheng\Programming\Python\Programming\BIT_MOOC-Python" />
+      <recent name="D:\zhouheng\Programming\Python\Programming" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -328,8 +317,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.784 字母大小写全排列">
-    <configuration name="409 最长回文串" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.35 搜索插入位置">
+    <configuration name="35 搜索插入位置" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -342,9 +331,9 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode_GT/409 最长回文串.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode_GT/35 搜索插入位置.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
@@ -405,6 +394,25 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="kNNGT" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOOK-MLinActionGTpy35/k-近邻算法" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOOK-MLinActionGTpy35/k-近邻算法/kNNGT.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="treesGT" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -419,25 +427,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOOK-MLinActionGTpy35/决策树/treesGT.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="useAPI" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Programming" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PracticePY" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PracticePY/useAPI.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -614,18 +603,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.treesGT" />
-      <item itemvalue="Python.useAPI" />
-      <item itemvalue="Python.409 最长回文串" />
       <item itemvalue="Python.alphabetListGT" />
       <item itemvalue="Python.784 字母大小写全排列" />
+      <item itemvalue="Python.kNNGT" />
+      <item itemvalue="Python.35 搜索插入位置" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.35 搜索插入位置" />
+        <item itemvalue="Python.kNNGT" />
         <item itemvalue="Python.784 字母大小写全排列" />
-        <item itemvalue="Python.alphabetListGT" />
-        <item itemvalue="Python.409 最长回文串" />
         <item itemvalue="Python.treesGT" />
-        <item itemvalue="Python.useAPI" />
+        <item itemvalue="Python.alphabetListGT" />
       </list>
     </recent_temporary>
   </component>
@@ -897,12 +886,12 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Python Console" order="8" weight="0.32913387" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" side_tool="true" visible="true" weight="0.33070865" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" side_tool="true" visible="true" weight="0.31968504" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18887262" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" x="359" y="171" width="811" height="484" id="SciView" order="3" type="WINDOWED" weight="0.3557833" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.27515724" />
@@ -967,28 +956,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/BOOK-MLinActionGTpy35/决策树/treesGT.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1512">
-          <caret line="93" column="29" selection-start-line="93" selection-start-column="29" selection-end-line="93" selection-end-column="29" />
-          <folding>
-            <element signature="e#88#99#0" expanded="true" />
-            <element signature="e#173#645#0" />
-            <element signature="e#680#895#0" />
-            <element signature="e#958#1226#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PracticePY/test789.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BOOK-MLinActionGTpy35/决策树/treesGT.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1767">
-          <caret line="93" column="29" selection-start-line="93" selection-start-column="29" selection-end-line="93" selection-end-column="29" />
+        <state relative-caret-position="396">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
           <folding>
             <element signature="e#88#99#0" expanded="true" />
             <element signature="e#173#645#0" />
@@ -1292,13 +1261,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BOOK-MLinActionGTpy35/k-近邻算法/kNNGT.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1408">
-          <caret line="105" column="13" selection-start-line="105" selection-start-column="13" selection-end-line="105" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode_GT/409 最长回文串.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
@@ -1313,10 +1275,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/TOOLgt/alphabetListGT.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="83" selection-start-line="83" selection-end-line="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BOOK-MLinActionGTpy35/k-近邻算法/datingTestSet.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-330" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BOOK-MLinActionGTpy35/k-近邻算法/kNNGT.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-662">
+          <caret line="216" column="40" lean-forward="true" selection-start-line="216" selection-start-column="40" selection-end-line="216" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode_GT/784 字母大小写全排列.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="33" column="21" lean-forward="true" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/BOOK-MLinActionGTpy35/决策树/treesGT.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="330">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
           <folding>
             <element signature="e#88#99#0" expanded="true" />
             <element signature="e#173#645#0" />
@@ -1326,17 +1314,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TOOLgt/alphabetListGT.py">
+    <entry file="file://$PROJECT_DIR$/LeetCode_GT/35 搜索插入位置.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="543">
-          <caret line="83" selection-start-line="83" selection-end-line="83" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode_GT/784 字母大小写全排列.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="24" selection-start-line="24" selection-end-line="70" />
+        <state relative-caret-position="186">
+          <caret line="28" selection-start-line="28" selection-end-line="41" />
         </state>
       </provider>
     </entry>

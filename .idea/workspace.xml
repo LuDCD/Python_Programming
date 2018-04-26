@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a70dec5c-c084-463e-9c94-db65365afe49" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode_GT/35 搜索插入位置.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode_GT/217 存在重复.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticePY/test456.py" beforeDir="false" afterPath="$PROJECT_DIR$/PracticePY/test456.py" afterDir="false" />
     </list>
     <ignored path="Programming.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -130,8 +131,8 @@
       <file leaf-file-name="test456.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PracticePY/test456.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="66">
+              <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -148,8 +149,8 @@
       <file leaf-file-name="treesGT.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BOOK-MLinActionGTpy35/决策树/treesGT.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+            <state relative-caret-position="22">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
               <folding>
                 <element signature="e#88#99#0" expanded="true" />
                 <element signature="e#173#645#0" />
@@ -160,11 +161,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="35 搜索插入位置.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LeetCode_GT/35 搜索插入位置.py">
+      <file leaf-file-name="217 存在重复.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode_GT/217 存在重复.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="28" selection-start-line="28" selection-end-line="41" />
+            <state relative-caret-position="406">
+              <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -184,7 +185,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LeetCode_GT/762 二进制表示中质数个计算置位.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/38 报数.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/349 两个数组的交集.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/123.py" />
@@ -229,12 +229,13 @@
         <option value="$PROJECT_DIR$/PracticePY/useAPI.py" />
         <option value="$APPLICATION_HOME_DIR$/helpers/packaging_tool.py" />
         <option value="$PROJECT_DIR$/BOOK-MLinActionGTpy35/决策树/treesGT.py" />
-        <option value="$PROJECT_DIR$/PracticePY/test456.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/409 最长回文串.py" />
         <option value="$PROJECT_DIR$/TOOLgt/alphabetListGT.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/784 字母大小写全排列.py" />
         <option value="$PROJECT_DIR$/BOOK-MLinActionGTpy35/k-近邻算法/kNNGT.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/35 搜索插入位置.py" />
+        <option value="$PROJECT_DIR$/LeetCode_GT/217 存在重复.py" />
+        <option value="$PROJECT_DIR$/PracticePY/test456.py" />
       </list>
     </option>
   </component>
@@ -264,7 +265,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -281,6 +281,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -317,7 +318,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.35 搜索插入位置">
+  <component name="RunManager" selected="Python.test456">
     <configuration name="35 搜索插入位置" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -375,25 +376,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="alphabetListGT" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Programming" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TOOLgt" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TOOLgt/alphabetListGT.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="kNNGT" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -408,6 +390,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOOK-MLinActionGTpy35/k-近邻算法/kNNGT.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="test456" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PracticePY" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PracticePY/test456.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -603,18 +604,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.treesGT" />
-      <item itemvalue="Python.alphabetListGT" />
       <item itemvalue="Python.784 字母大小写全排列" />
       <item itemvalue="Python.kNNGT" />
       <item itemvalue="Python.35 搜索插入位置" />
+      <item itemvalue="Python.test456" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test456" />
         <item itemvalue="Python.35 搜索插入位置" />
         <item itemvalue="Python.kNNGT" />
         <item itemvalue="Python.784 字母大小写全排列" />
         <item itemvalue="Python.treesGT" />
-        <item itemvalue="Python.alphabetListGT" />
       </list>
     </recent_temporary>
   </component>
@@ -874,7 +875,14 @@
       <option name="project" value="LOCAL" />
       <updated>1524466642194</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="20180425-1">
+      <created>1524625429998</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1524625429998</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -938,7 +946,8 @@
     <MESSAGE value="20180419" />
     <MESSAGE value="20180422-3" />
     <MESSAGE value="20180423-2" />
-    <option name="LAST_COMMIT_MESSAGE" value="20180423-2" />
+    <MESSAGE value="20180425-1" />
+    <option name="LAST_COMMIT_MESSAGE" value="20180425-1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -954,19 +963,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BOOK-MLinActionGTpy35/决策树/treesGT.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
-          <folding>
-            <element signature="e#88#99#0" expanded="true" />
-            <element signature="e#173#645#0" />
-            <element signature="e#680#895#0" />
-            <element signature="e#958#1226#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode_GT/MODEL.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1254,13 +1250,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PracticePY/test456.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode_GT/409 最长回文串.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
@@ -1301,10 +1290,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode_GT/35 搜索插入位置.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/BOOK-MLinActionGTpy35/决策树/treesGT.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        <state relative-caret-position="22">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
           <folding>
             <element signature="e#88#99#0" expanded="true" />
             <element signature="e#173#645#0" />
@@ -1314,10 +1310,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode_GT/35 搜索插入位置.py">
+    <entry file="file://$PROJECT_DIR$/PracticePY/test456.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="28" selection-start-line="28" selection-end-line="41" />
+        <state relative-caret-position="66">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode_GT/217 存在重复.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
         </state>
       </provider>
     </entry>

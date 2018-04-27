@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a70dec5c-c084-463e-9c94-db65365afe49" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/BIT_MOOC-Python/热量转换 I.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode_GT/231 2的幂.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode_GT/326 3的幂.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode_GT/342 4的幂.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TOOLgt/isPowerOfK.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="Programming.iws" />
@@ -145,20 +148,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test789.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="test789.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PracticePY/test789.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="66">
               <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="热量转换 I.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/热量转换 I.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="661">
-              <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -193,10 +187,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/BIT_MOOC-Python/Python函数的参数传递.py" />
-        <option value="$PROJECT_DIR$/LeetCode_GT/696 testData.txt" />
-        <option value="$PROJECT_DIR$/LeetCode_GT/696 计数二进制子串.py" />
-        <option value="$PROJECT_DIR$/test456.py" />
         <option value="$PROJECT_DIR$/TOOLgt/README.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/README.py" />
         <option value="$PROJECT_DIR$/SortGT/QuickSort.py" />
@@ -244,6 +234,10 @@
         <option value="$PROJECT_DIR$/LeetCode_GT/242 有效的字母异位词.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/167 两数之和 II - 输入有序数组.py" />
         <option value="$PROJECT_DIR$/BIT_MOOC-Python/热量转换 I.py" />
+        <option value="$PROJECT_DIR$/LeetCode_GT/342 4的幂.py" />
+        <option value="$PROJECT_DIR$/LeetCode_GT/231 2的幂.py" />
+        <option value="$PROJECT_DIR$/LeetCode_GT/326 3的幂.py" />
+        <option value="$PROJECT_DIR$/TOOLgt/isPowerOfK.py" />
       </list>
     </option>
   </component>
@@ -273,7 +267,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -284,12 +277,18 @@
             <path>
               <item name="Programming" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Programming" type="462c0819:PsiDirectoryNode" />
-              <item name="BIT_MOOC-Python" type="462c0819:PsiDirectoryNode" />
+              <item name="LeetCode_GT" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Programming" type="462c0819:PsiDirectoryNode" />
+              <item name="TOOLgt" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -326,7 +325,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.热量转换 I">
+  <component name="RunManager" selected="Python.isPowerOfK">
     <configuration name="热量转换 I" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -365,7 +364,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="242 有效的字母异位词" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="231 2的幂" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -378,13 +377,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="F:\zhouheng\Python_Programming\LeetCode_GT\B242 有效的字母异位词.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode_GT/231 2的幂.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="537 复数乘法" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="342 4的幂" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -397,26 +396,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode_GT/537 复数乘法.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="78 子集" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Programming" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode_GT" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="F:\zhouheng\Python_Programming\LeetCode_GT\B78 子集.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode_GT/342 4的幂.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -436,6 +416,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="isPowerOfK" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TOOLgt" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TOOLgt/isPowerOfK.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -611,19 +610,19 @@
       <pass-parent-envs>true</pass-parent-envs>
     </configuration>
     <list>
-      <item itemvalue="Python.537 复数乘法" />
-      <item itemvalue="Python.78 子集" />
-      <item itemvalue="Python.242 有效的字母异位词" />
       <item itemvalue="Python.167 两数之和 II - 输入有序数组" />
       <item itemvalue="Python.热量转换 I" />
+      <item itemvalue="Python.342 4的幂" />
+      <item itemvalue="Python.231 2的幂" />
+      <item itemvalue="Python.isPowerOfK" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.isPowerOfK" />
+        <item itemvalue="Python.231 2的幂" />
+        <item itemvalue="Python.342 4的幂" />
         <item itemvalue="Python.热量转换 I" />
         <item itemvalue="Python.167 两数之和 II - 输入有序数组" />
-        <item itemvalue="Python.242 有效的字母异位词" />
-        <item itemvalue="Python.78 子集" />
-        <item itemvalue="Python.537 复数乘法" />
       </list>
     </recent_temporary>
   </component>
@@ -987,34 +986,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode_GT/27 移除元素.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="56" column="48" selection-start-line="56" selection-start-column="48" selection-end-line="56" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/Python函数的参数传递.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode_GT/696 计数二进制子串.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="88" selection-start-line="88" selection-end-line="88" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TOOLgt/README.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode_GT/README.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1334,17 +1305,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/热量转换 I.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode_GT/231 2的幂.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="10" selection-start-line="10" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode_GT/326 3的幂.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="13" selection-start-line="13" selection-end-line="28" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TOOLgt/isPowerOfK.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="29" column="23" lean-forward="true" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode_GT/342 4的幂.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="35" column="14" lean-forward="true" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/PracticePY/test789.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/热量转换 I.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="661">
-          <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
         </state>
       </provider>
     </entry>

@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a70dec5c-c084-463e-9c94-db65365afe49" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode_GT/537 复数乘法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode_GT/167 两数之和 II - 输入有序数组.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode_GT/B242 有效的字母异位词.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode_GT/B78 子集.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="Programming.iws" />
@@ -157,17 +159,38 @@
       <file leaf-file-name="506 相对名次.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode_GT/506 相对名次.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
+            <state relative-caret-position="264">
               <caret line="12" column="56" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="537 复数乘法.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LeetCode_GT/537 复数乘法.py">
+      <file leaf-file-name="B78 子集.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode_GT/B78 子集.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="44" selection-end-column="58" />
+            <state relative-caret-position="428">
+              <caret line="67" column="4" selection-start-line="67" selection-start-column="4" selection-end-line="67" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="B242 有效的字母异位词.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode_GT/B242 有效的字母异位词.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="57" column="2" selection-start-line="57" selection-start-column="2" selection-end-line="57" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="167 两数之和 II - 输入有序数组.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode_GT/167 两数之和 II - 输入有序数组.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="155">
+              <caret line="61" column="32" selection-start-line="61" selection-start-column="32" selection-end-line="61" selection-end-column="32" />
+              <folding>
+                <element signature="e#413#624#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -202,10 +225,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LeetCode_GT/496 下一个更大元素 I.py" />
-        <option value="$PROJECT_DIR$/LeetCode_GT/503 下一个更大元素 II.py" />
-        <option value="$PROJECT_DIR$/LeetCode_GT/13 罗马数字转整数.py" />
-        <option value="$PROJECT_DIR$/LeetCode_GT/27 移除元素.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/26 删除排序数组中的重复项.py" />
         <option value="$PROJECT_DIR$/BIT_MOOC-Python/Python函数的参数传递.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/696 testData.txt" />
@@ -253,6 +272,10 @@
         <option value="$PROJECT_DIR$/PracticePY/test123.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/506 相对名次.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/537 复数乘法.py" />
+        <option value="$PROJECT_DIR$/LeetCode_GT/78 子集.py" />
+        <option value="$PROJECT_DIR$/LeetCode_GT/B78 子集.py" />
+        <option value="$PROJECT_DIR$/LeetCode_GT/242 有效的字母异位词.py" />
+        <option value="$PROJECT_DIR$/LeetCode_GT/167 两数之和 II - 输入有序数组.py" />
       </list>
     </option>
   </component>
@@ -335,8 +358,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.537 复数乘法">
-    <configuration name="35 搜索插入位置" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.167 两数之和 II - 输入有序数组">
+    <configuration name="167 两数之和 II - 输入有序数组" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -349,7 +372,26 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode_GT/35 搜索插入位置.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode_GT/167 两数之和 II - 输入有序数组.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="242 有效的字母异位词" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode_GT" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="F:\zhouheng\Python_Programming\LeetCode_GT\B242 有效的字母异位词.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -393,6 +435,25 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="78 子集" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode_GT" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="F:\zhouheng\Python_Programming\LeetCode_GT\B78 子集.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -407,44 +468,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="kNNGT" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Programming" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOOK-MLinActionGTpy35/k-近邻算法" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOOK-MLinActionGTpy35/k-近邻算法/kNNGT.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="test456" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Programming" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PracticePY" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PracticePY/test456.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -620,19 +643,19 @@
       <pass-parent-envs>true</pass-parent-envs>
     </configuration>
     <list>
-      <item itemvalue="Python.kNNGT" />
-      <item itemvalue="Python.35 搜索插入位置" />
-      <item itemvalue="Python.test456" />
       <item itemvalue="Python.506 相对名次" />
       <item itemvalue="Python.537 复数乘法" />
+      <item itemvalue="Python.78 子集" />
+      <item itemvalue="Python.242 有效的字母异位词" />
+      <item itemvalue="Python.167 两数之和 II - 输入有序数组" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.167 两数之和 II - 输入有序数组" />
+        <item itemvalue="Python.242 有效的字母异位词" />
+        <item itemvalue="Python.78 子集" />
         <item itemvalue="Python.537 复数乘法" />
         <item itemvalue="Python.506 相对名次" />
-        <item itemvalue="Python.test456" />
-        <item itemvalue="Python.35 搜索插入位置" />
-        <item itemvalue="Python.kNNGT" />
       </list>
     </recent_temporary>
   </component>
@@ -906,7 +929,14 @@
       <option name="project" value="LOCAL" />
       <updated>1524704618147</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="20180426-2">
+      <created>1524745565064</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1524745565064</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -918,7 +948,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Python Console" order="8" weight="0.32913387" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" side_tool="true" visible="true" weight="0.3984252" />
+      <window_info anchor="bottom" id="Run" order="2" side_tool="true" weight="0.36062992" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18887262" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
@@ -972,7 +1002,8 @@
     <MESSAGE value="20180423-2" />
     <MESSAGE value="20180425-1" />
     <MESSAGE value="20180426" />
-    <option name="LAST_COMMIT_MESSAGE" value="20180426" />
+    <MESSAGE value="20180426-2" />
+    <option name="LAST_COMMIT_MESSAGE" value="20180426-2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -988,27 +1019,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode_GT/13 罗马数字转整数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="25" column="3" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode_GT/762 二进制表示中质数个计算置位.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="80" column="95" selection-start-line="80" selection-start-column="95" selection-end-line="80" selection-end-column="95" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode_GT/503 下一个更大元素 II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="65" selection-start-line="65" selection-end-line="65" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode_GT/26 删除排序数组中的重复项.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1335,17 +1345,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode_GT/537 复数乘法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="32" column="33" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode_GT/506 相对名次.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
+        <state relative-caret-position="264">
           <caret line="12" column="56" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode_GT/537 复数乘法.py">
+    <entry file="file://$PROJECT_DIR$/LeetCode_GT/B78 子集.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="44" selection-end-column="58" />
+        <state relative-caret-position="428">
+          <caret line="67" column="4" selection-start-line="67" selection-start-column="4" selection-end-line="67" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode_GT/B242 有效的字母异位词.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="57" column="2" selection-start-line="57" selection-start-column="2" selection-end-line="57" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode_GT/167 两数之和 II - 输入有序数组.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="61" column="32" selection-start-line="61" selection-start-column="32" selection-end-line="61" selection-end-column="32" />
+          <folding>
+            <element signature="e#413#624#0" />
+          </folding>
         </state>
       </provider>
     </entry>

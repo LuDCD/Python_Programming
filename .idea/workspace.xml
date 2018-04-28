@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a70dec5c-c084-463e-9c94-db65365afe49" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode_GT/455 分发饼干.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode_GT/717 1比特与2比特字符.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode_GT/198 打家劫舍.py" afterDir="false" />
     </list>
     <ignored path="Programming.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -147,11 +145,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test789.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test789.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PracticePY/test789.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="220">
               <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="198 打家劫舍.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode_GT/198 打家劫舍.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="79" column="3" lean-forward="true" selection-start-line="79" selection-start-column="3" selection-end-line="79" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -186,7 +193,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/TOOLgt/sortGT.py" />
         <option value="$PROJECT_DIR$/PracticePY/README.py" />
         <option value="$PROJECT_DIR$/TOOLgt/file22listGT.py" />
         <option value="$PROJECT_DIR$/TOOLgt/string22listGT.py" />
@@ -237,6 +243,7 @@
         <option value="$PROJECT_DIR$/LeetCode_GT/383 赎金信.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/455 分发饼干.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/717 1比特与2比特字符.py" />
+        <option value="$PROJECT_DIR$/LeetCode_GT/198 打家劫舍.py" />
       </list>
     </option>
   </component>
@@ -266,7 +273,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -288,6 +294,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -324,8 +331,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.717 1比特与2比特字符">
-    <configuration name="231 2的幂" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.198 打家劫舍">
+    <configuration name="198 打家劫舍" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -338,7 +345,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode_GT/231 2的幂.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode_GT/198 打家劫舍.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -609,19 +616,19 @@
       <pass-parent-envs>true</pass-parent-envs>
     </configuration>
     <list>
-      <item itemvalue="Python.231 2的幂" />
       <item itemvalue="Python.isPowerOfK" />
       <item itemvalue="Python.383 赎金信" />
       <item itemvalue="Python.455 分发饼干" />
       <item itemvalue="Python.717 1比特与2比特字符" />
+      <item itemvalue="Python.198 打家劫舍" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.198 打家劫舍" />
         <item itemvalue="Python.717 1比特与2比特字符" />
         <item itemvalue="Python.455 分发饼干" />
         <item itemvalue="Python.383 赎金信" />
         <item itemvalue="Python.isPowerOfK" />
-        <item itemvalue="Python.231 2的幂" />
       </list>
     </recent_temporary>
   </component>
@@ -914,7 +921,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Python Console" order="8" weight="0.32913387" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.50073206" side_tool="true" weight="0.36535433" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.50073206" side_tool="true" weight="0.23622048" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18887262" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
@@ -985,13 +992,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PracticePY/README.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode_GT/500 键盘行.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1337,6 +1337,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode_GT/198 打家劫舍.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="79" column="3" lean-forward="true" selection-start-line="79" selection-start-column="3" selection-end-line="79" selection-end-column="3" />
         </state>
       </provider>
     </entry>

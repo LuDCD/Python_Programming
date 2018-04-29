@@ -29,6 +29,7 @@ class Solution(object):
         """
         :type nums: List[int]
         :rtype: int
+        初级思想!!!!无法实现！！！！！
         """
         # 先对 nums 进行排序
         numsSorted = sorted( nums, reverse=True )
@@ -56,21 +57,48 @@ class Solution(object):
                 elif nums[i-1] != None and nums[i+1] != None:
                     tSum += k
                     nums[i] = None
+            for i in range(1,leng-1):
+                if nums[i-1] == None or nums[i+1] == None:  # 取过的置为 None
+                    nums[i] = -1    # 不能取的置为 -1
+
 
         maxSum = max( tSum, maxSum )
 
         return maxSum
 
+    def rob2(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        网上 别人的代码！！
+        """
+        n = len(nums)
 
+        ll = [0 for i in range(n)]
+        if n == 0:
+            return 0
+        if n == 1:
+            return nums[0]
+        if n == 2:
+            return max(nums)
+        else:
+            ll[0] = nums[0]
+            ll[1] = max(nums[0],nums[1])
+        for i in range(2,len(nums)):
+            ll[i] = max(ll[i-2] + nums[i],ll[i-1])
+
+        return ll[n-1]
 
 def test():
     # nums = [5,6,5,1]
-    # nums = [10,1,1,10,1]
+    # nums = [10,1,1,10,1]  # 20
     # nums = [0]
-    nums = [6,3,10,8,2,10,3,5,10,5,3]
+    # nums = [6,3,10,8,2,10,3,5,10,5,3]   # 39
     # nums = []
+    # nums = [2,2,4,3,2,5]  # 11
+    nums = [8,9,9,4,10,5,6,9,7,9]   # 45
     sol = Solution()
-    print( sol.rob(nums) )
+    print( sol.rob2(nums) )
 
 
 if __name__ == "__main__":

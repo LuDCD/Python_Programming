@@ -104,7 +104,7 @@ def test():
 if __name__ == "__main__":
     test()
 '''
-算法有问题，明天再调！good, night!
+要学习动态规划！！！
 '''
 
 

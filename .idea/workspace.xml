@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a70dec5c-c084-463e-9c94-db65365afe49" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode_GT/263 丑数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode_GT/A264 丑数 II.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticePY/README.py" beforeDir="false" afterPath="$PROJECT_DIR$/PracticePY/README.py" afterDir="false" />
+    <list default="true" id="a70dec5c-c084-463e-9c94-db65365afe49" name="Default" comment="2018030-4">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="Programming.iws" />
@@ -149,11 +145,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test789.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test789.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PracticePY/test789.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="88">
               <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -250,9 +255,9 @@
         <option value="$PROJECT_DIR$/LeetCode_GT/66 加一.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/67 二进制求和.py" />
         <option value="$PROJECT_DIR$/PracticePY/README.py" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/LeetCode_GT/263 丑数.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/264 丑数 II.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -289,11 +294,6 @@
             <path>
               <item name="Programming" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Programming" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_Programming" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCode_GT" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -920,7 +920,21 @@
       <option name="project" value="LOCAL" />
       <updated>1524968687766</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="2018030-3">
+      <created>1525068915226</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1525068915226</updated>
+    </task>
+    <task id="LOCAL-00041" summary="2018030-3">
+      <created>1525069061453</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1525069061453</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -988,7 +1002,8 @@
     <MESSAGE value="20180426" />
     <MESSAGE value="20180426-2" />
     <MESSAGE value="20180429-1" />
-    <option name="LAST_COMMIT_MESSAGE" value="20180429-1" />
+    <MESSAGE value="2018030-3" />
+    <option name="LAST_COMMIT_MESSAGE" value="2018030-3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1310,13 +1325,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PracticePY/README.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
@@ -1352,6 +1360,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
         </state>
       </provider>
     </entry>

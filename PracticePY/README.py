@@ -9,7 +9,11 @@
 
 # ################################   关于函数
 def functionName(self,arg1):
-    ' 我是函数的说明。要使用单引号 '
+    '''
+    :param self:
+    :param arg1:
+    :return:
+    '''
     # print(functionName.__doc__)
 
     pass

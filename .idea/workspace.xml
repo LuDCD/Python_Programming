@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a70dec5c-c084-463e-9c94-db65365afe49" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode_GT/205 同构字符串.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode_GT/387 字符串中的第一个唯一字符.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="Programming.iws" />
@@ -155,12 +155,37 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="205 同构字符串.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="205 同构字符串.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode_GT/205 同构字符串.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="100">
               <caret line="28" selection-start-line="28" selection-end-line="60" selection-end-column="25" />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="350 两个数组的交集 II.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode_GT/350 两个数组的交集 II.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="21" selection-start-line="21" selection-end-line="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="387 字符串中的第一个唯一字符.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode_GT/387 字符串中的第一个唯一字符.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="34" selection-start-line="34" selection-end-line="50" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="349 两个数组的交集.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode_GT/349 两个数组的交集.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-396" />
           </provider>
         </entry>
       </file>
@@ -194,8 +219,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LeetCode_GT/796 旋转字符串.py" />
-        <option value="$PROJECT_DIR$/LeetCode_GT/169 求众数.py" />
         <option value="$PROJECT_DIR$/BIT_MOOC-Python/统计词频.py" />
         <option value="$PROJECT_DIR$/BOOK-MLinActionGTpy35/123.py" />
         <option value="$PROJECT_DIR$/BOOK-MLinActionGTpy35/kNNGT.py" />
@@ -245,6 +268,8 @@
         <option value="$PROJECT_DIR$/LeetCode_GT/628 三个数的最大乘积.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/394 字符串解码.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/205 同构字符串.py" />
+        <option value="$PROJECT_DIR$/LeetCode_GT/350 两个数组的交集 II.py" />
+        <option value="$PROJECT_DIR$/LeetCode_GT/387 字符串中的第一个唯一字符.py" />
       </list>
     </option>
   </component>
@@ -327,7 +352,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.205 同构字符串">
+  <component name="RunManager" selected="Python.387 字符串中的第一个唯一字符">
     <configuration name="205 同构字符串" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -385,7 +410,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="66 加一" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="350 两个数组的交集 II" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -398,13 +423,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode_GT/66 加一.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode_GT/350 两个数组的交集 II.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="67 二进制求和" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="387 字符串中的第一个唯一字符" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -417,7 +442,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode_GT/67 二进制求和.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode_GT/387 字符串中的第一个唯一字符.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -612,19 +637,19 @@
       <pass-parent-envs>true</pass-parent-envs>
     </configuration>
     <list>
-      <item itemvalue="Python.66 加一" />
-      <item itemvalue="Python.67 二进制求和" />
       <item itemvalue="Python.263 丑数" />
       <item itemvalue="Python.264 丑数 II" />
       <item itemvalue="Python.205 同构字符串" />
+      <item itemvalue="Python.350 两个数组的交集 II" />
+      <item itemvalue="Python.387 字符串中的第一个唯一字符" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.387 字符串中的第一个唯一字符" />
+        <item itemvalue="Python.350 两个数组的交集 II" />
         <item itemvalue="Python.205 同构字符串" />
         <item itemvalue="Python.264 丑数 II" />
         <item itemvalue="Python.263 丑数" />
-        <item itemvalue="Python.67 二进制求和" />
-        <item itemvalue="Python.66 加一" />
       </list>
     </recent_temporary>
   </component>
@@ -940,7 +965,21 @@
       <option name="project" value="LOCAL" />
       <updated>1525069259012</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="2018030-3">
+      <created>1525146069650</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1525146069650</updated>
+    </task>
+    <task id="LOCAL-00045" summary="20180501-2">
+      <created>1525146406015</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1525146406015</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -952,7 +991,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Python Console" order="8" weight="0.32913387" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.50073206" side_tool="true" visible="true" weight="0.38267717" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.50073206" side_tool="true" visible="true" weight="0.26929134" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18887262" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
@@ -1009,7 +1048,8 @@
     <MESSAGE value="20180426-2" />
     <MESSAGE value="20180429-1" />
     <MESSAGE value="2018030-3" />
-    <option name="LAST_COMMIT_MESSAGE" value="2018030-3" />
+    <MESSAGE value="20180501-2" />
+    <option name="LAST_COMMIT_MESSAGE" value="20180501-2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1025,27 +1065,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode_GT/169 求众数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Program Files (x86)/Python35-32/Lib/site-packages/matplotlib/axes/_axes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="3963" selection-start-line="3963" selection-end-line="3963" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode_GT/268 缺失数字.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="27" column="11" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode_GT/136 只出现一次的数字.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1377,6 +1396,25 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="28" selection-start-line="28" selection-end-line="60" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode_GT/349 两个数组的交集.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-396" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode_GT/350 两个数组的交集 II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="21" selection-start-line="21" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode_GT/387 字符串中的第一个唯一字符.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="34" selection-start-line="34" selection-end-line="50" selection-end-column="32" />
         </state>
       </provider>
     </entry>

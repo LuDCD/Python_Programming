@@ -7,8 +7,15 @@ File function
 @author: ZHOU Heng
 """
 
-# 爬取亚马逊的一个商品信息
+import requests
 
+# 爬取亚马逊的一个商品信息
+url1 = 'https://www.amazon.cn/gp/product/B06VXL4CZN/'
+kev = { ''}
+try:
+    r1 = requests.get(url1, header = kev)
+except:
+    pass
 
 def test():
     pass

@@ -16,7 +16,6 @@ def getHTMLTxt(url):
         r.encoding = r.apparent_encoding
         return r.text
     except :
-
         return '产生异常'
 
 def test():

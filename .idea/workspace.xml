@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a70dec5c-c084-463e-9c94-db65365afe49" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/BIT_MOOC-Python/爬虫/1 爬取网页的通用代码框架.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIT_MOOC-Python/爬虫/2 Robots协议.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIT_MOOC-Python/爬虫/3 实例1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIT_MOOC-Python/爬虫/1 爬取网页的通用代码框架.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIT_MOOC-Python/爬虫/1 爬取网页的通用代码框架.py" afterDir="false" />
     </list>
     <ignored path="Programming.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -138,11 +138,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="0 测试Requests库.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="0 测试Requests库.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/爬虫/0 测试Requests库.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+            <state relative-caret-position="330">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1 爬取网页的通用代码框架.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/爬虫/1 爬取网页的通用代码框架.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="14" column="58" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3 实例1.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/爬虫/3 实例1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -195,8 +213,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LeetCode_GT/191 位1的个数（汉明重量）.py" />
-        <option value="$PROJECT_DIR$/LeetCode_GT/191 汉明重量（位1的个数）.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/599 两个列表的最小索引总和.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/9 回文数.py" />
         <option value="$PROJECT_DIR$/PracticePY/test789.py" />
@@ -244,8 +260,10 @@
         <option value="$PROJECT_DIR$/PracticePY/test123.py" />
         <option value="$PROJECT_DIR$/BIT_MOOC-Python/爬虫/0 测试Requests库.py" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/BIT_MOOC-Python/爬虫/1 爬取网页的通用代码框架.py" />
         <option value="$PROJECT_DIR$/BIT_MOOC-Python/爬虫/2 Robots协议.py" />
+        <option value="$PROJECT_DIR$/BIT_MOOC-Python/爬虫/1 爬取网页的通用代码框架.py" />
+        <option value="$PROJECT_DIR$/BIT_MOOC-Python/爬虫/3 爬一个商品信息.py" />
+        <option value="$PROJECT_DIR$/BIT_MOOC-Python/爬虫/3 实例1.py" />
       </list>
     </option>
   </component>
@@ -646,13 +664,6 @@
       <option name="presentableId" value="Default" />
       <updated>1469363794549</updated>
     </task>
-    <task id="LOCAL-00001" summary="1">
-      <created>1489418103842</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1489418103842</updated>
-    </task>
     <task id="LOCAL-00002" summary="20180403">
       <created>1522720356032</created>
       <option name="number" value="00002" />
@@ -989,7 +1000,14 @@
       <option name="project" value="LOCAL" />
       <updated>1525165953885</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="20180501-6">
+      <created>1525173609121</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1525173609246</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -997,7 +1015,7 @@
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.24566929" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Python Console" order="8" weight="0.32913387" />
@@ -1061,7 +1079,8 @@
     <MESSAGE value="20180501-2" />
     <MESSAGE value="20180501-4" />
     <MESSAGE value="20180501-5" />
-    <option name="LAST_COMMIT_MESSAGE" value="20180501-5" />
+    <MESSAGE value="20180501-6" />
+    <option name="LAST_COMMIT_MESSAGE" value="20180501-6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1077,13 +1096,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode_GT/598 范围求和 II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="64" selection-start-line="64" selection-end-line="70" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/Program Files (x86)/Python35-32/Lib/json/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1397,13 +1409,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/爬虫/1 爬取网页的通用代码框架.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/爬虫/2 Robots协议.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="792">
@@ -1413,8 +1418,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/爬虫/0 测试Requests库.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        <state relative-caret-position="330">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/爬虫/1 爬取网页的通用代码框架.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="14" column="58" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/爬虫/3 实例1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>

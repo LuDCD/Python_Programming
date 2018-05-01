@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a70dec5c-c084-463e-9c94-db65365afe49" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode_GT/347 前K个高频元素.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode_GT/692 前K个高频单词.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode_GT/451 根据字符出现频率排序.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode_GT/451 根据字符出现频率排序.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticePY/test123.py" beforeDir="false" afterPath="$PROJECT_DIR$/PracticePY/test123.py" afterDir="false" />
     </list>
     <ignored path="Programming.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -148,29 +146,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test789.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="test789.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PracticePY/test789.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="88">
-              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="347 前K个高频元素.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode_GT/347 前K个高频元素.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+              <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -205,8 +185,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/BOOK-MLinActionGTpy35/kNNGT.py" />
-        <option value="$PROJECT_DIR$/LeetCode_GT/136 只出现一次的数字.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/268 缺失数字.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/788 旋转数字.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/598 范围求和 II.py" />
@@ -247,7 +225,6 @@
         <option value="$PROJECT_DIR$/PracticePY/README.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/263 丑数.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/264 丑数 II.py" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/LeetCode_GT/628 三个数的最大乘积.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/394 字符串解码.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/205 同构字符串.py" />
@@ -255,7 +232,10 @@
         <option value="$PROJECT_DIR$/LeetCode_GT/387 字符串中的第一个唯一字符.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/451 根据字符出现频率排序.py" />
         <option value="$PROJECT_DIR$/PracticePY/test123.py" />
+        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/LeetCode_GT/347 前K个高频元素.py" />
+        <option value="$PROJECT_DIR$/LeetCode_GT/192 统计词频.py" />
+        <option value="$PROJECT_DIR$/LeetCode_GT/692 前K个高频单词.py" />
       </list>
     </option>
   </component>
@@ -338,7 +318,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.347 前K个高频元素">
+  <component name="RunManager" selected="Python.692 前K个高频单词">
     <configuration name="347 前K个高频元素" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -353,25 +333,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode_GT/347 前K个高频元素.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="350 两个数组的交集 II" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Programming" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode_GT" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode_GT/350 两个数组的交集 II.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -410,6 +371,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode_GT/451 根据字符出现频率排序.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="692 前K个高频单词" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode_GT" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode_GT/692 前K个高频单词.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -623,19 +603,19 @@
       <pass-parent-envs>true</pass-parent-envs>
     </configuration>
     <list>
-      <item itemvalue="Python.350 两个数组的交集 II" />
       <item itemvalue="Python.387 字符串中的第一个唯一字符" />
       <item itemvalue="Python.451 根据字符出现频率排序" />
       <item itemvalue="Python.347 前K个高频元素" />
       <item itemvalue="Python.test123" />
+      <item itemvalue="Python.692 前K个高频单词" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.692 前K个高频单词" />
         <item itemvalue="Python.347 前K个高频元素" />
         <item itemvalue="Python.test123" />
         <item itemvalue="Python.451 根据字符出现频率排序" />
         <item itemvalue="Python.387 字符串中的第一个唯一字符" />
-        <item itemvalue="Python.350 两个数组的交集 II" />
       </list>
     </recent_temporary>
   </component>
@@ -977,9 +957,9 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Python Console" order="8" weight="0.32913387" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.50073206" side_tool="true" visible="true" weight="0.36535433" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.50073206" side_tool="true" weight="0.33700788" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18887262" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18887262" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" x="359" y="171" width="811" height="484" id="SciView" order="3" type="WINDOWED" weight="0.3557833" />
@@ -1051,13 +1031,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://D:/Program Files (x86)/Python35-32/Lib/site-packages/matplotlib/backends/backend_agg.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="278" selection-start-line="278" selection-end-line="278" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode_GT/191 汉明重量（位1的个数）.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1371,11 +1344,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PracticePY/test789.py">
+    <entry file="file://$PROJECT_DIR$/LeetCode_GT/349 两个数组的交集.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
+        <state relative-caret-position="-396" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PracticePY/test123.py">
@@ -1385,22 +1356,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode_GT/349 两个数组的交集.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-396" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode_GT/347 前K个高频元素.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+        <state relative-caret-position="208">
+          <caret line="16" selection-start-line="16" selection-end-line="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="4" />
+        <state relative-caret-position="176">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode_GT/692 前K个高频单词.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="44" column="33" lean-forward="true" selection-start-line="44" selection-start-column="33" selection-end-line="44" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PracticePY/test789.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
         </state>
       </provider>
     </entry>

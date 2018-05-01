@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a70dec5c-c084-463e-9c94-db65365afe49" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="Programming.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -967,11 +966,18 @@
       <option name="project" value="LOCAL" />
       <updated>1525164638581</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="20180501-5">
+      <created>1525165186324</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1525165186324</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -1038,7 +1044,8 @@
     <MESSAGE value="2018030-3" />
     <MESSAGE value="20180501-2" />
     <MESSAGE value="20180501-4" />
-    <option name="LAST_COMMIT_MESSAGE" value="20180501-4" />
+    <MESSAGE value="20180501-5" />
+    <option name="LAST_COMMIT_MESSAGE" value="20180501-5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

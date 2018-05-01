@@ -1,6 +1,7 @@
 #!/usr/bin/python
 # -*- coding:utf8 -*-
 
-k = 2
-for i in range(k):
-    print(i)
+import requests
+
+r = requests.get('https://www.baidu.com')
+print( r.status_code )  # 200 正常

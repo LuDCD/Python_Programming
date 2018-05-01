@@ -10,6 +10,6 @@
 import requests
 
 r = requests.get('https://www.baidu.com')
-print( r.status_code )      # 200 正常
+print( r.status_code )      # 200 正常，其他都是不正常！
 
 

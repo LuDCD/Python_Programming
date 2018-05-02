@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a70dec5c-c084-463e-9c94-db65365afe49" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode_GT/434 字符串中的单词数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIT_MOOC-Python/爬虫/1 爬取网页的通用代码框架.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIT_MOOC-Python/爬虫/1 爬取网页的通用代码框架.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIT_MOOC-Python/爬虫/3 实例1.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIT_MOOC-Python/爬虫/3 实例1.py" afterDir="false" />
     </list>
     <ignored path="Programming.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -149,8 +149,8 @@
       <file leaf-file-name="1 爬取网页的通用代码框架.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/爬虫/1 爬取网页的通用代码框架.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" selection-start-line="11" selection-end-line="18" selection-end-column="21" />
+            <state relative-caret-position="300">
+              <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -158,8 +158,8 @@
       <file leaf-file-name="3 实例1.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/爬虫/3 实例1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="428">
+              <caret line="38" column="8" lean-forward="true" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -259,10 +259,10 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/BIT_MOOC-Python/爬虫/2 Robots协议.py" />
         <option value="$PROJECT_DIR$/BIT_MOOC-Python/爬虫/3 爬一个商品信息.py" />
-        <option value="$PROJECT_DIR$/BIT_MOOC-Python/爬虫/1 爬取网页的通用代码框架.py" />
-        <option value="$PROJECT_DIR$/BIT_MOOC-Python/爬虫/3 实例1.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/434 字符串中的单词数.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/227 基本计算器II.py" />
+        <option value="$PROJECT_DIR$/BIT_MOOC-Python/爬虫/3 实例1.py" />
+        <option value="$PROJECT_DIR$/BIT_MOOC-Python/爬虫/1 爬取网页的通用代码框架.py" />
       </list>
     </option>
   </component>
@@ -297,11 +297,6 @@
             <path>
               <item name="Programming" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Programming" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_Programming" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCode_GT" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -344,7 +339,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.227 基本计算器II">
+  <component name="RunManager" selected="Python.3 实例1">
     <configuration name="0 测试Requests库" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -402,6 +397,25 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="3 实例1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BIT_MOOC-Python/爬虫" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BIT_MOOC-Python/爬虫/3 实例1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="434 字符串中的单词数" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -435,25 +449,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="test123" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Programming" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PracticePY" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PracticePY/test123.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -629,19 +624,19 @@
       <pass-parent-envs>true</pass-parent-envs>
     </configuration>
     <list>
-      <item itemvalue="Python.test123" />
       <item itemvalue="Python.0 测试Requests库" />
       <item itemvalue="Python.1 爬取网页的通用代码框架" />
       <item itemvalue="Python.434 字符串中的单词数" />
       <item itemvalue="Python.227 基本计算器II" />
+      <item itemvalue="Python.3 实例1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.3 实例1" />
         <item itemvalue="Python.227 基本计算器II" />
         <item itemvalue="Python.434 字符串中的单词数" />
         <item itemvalue="Python.1 爬取网页的通用代码框架" />
         <item itemvalue="Python.0 测试Requests库" />
-        <item itemvalue="Python.test123" />
       </list>
     </recent_temporary>
   </component>
@@ -1011,7 +1006,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Python Console" order="8" weight="0.32913387" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.50073206" side_tool="true" weight="0.36220473" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.50073206" side_tool="true" weight="0.40944883" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18887262" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
@@ -1401,13 +1396,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/爬虫/1 爬取网页的通用代码框架.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" selection-start-line="11" selection-end-line="18" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode_GT/434 字符串中的单词数.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="335">
@@ -1415,20 +1403,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode_GT/227 基本计算器II.py">
+    <entry file="file://$PROJECT_DIR$/LeetCode_GT/227 基本计算器II.py" />
+    <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/爬虫/1 爬取网页的通用代码框架.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="726">
-          <caret line="52" column="30" lean-forward="true" selection-start-line="52" selection-start-column="30" selection-end-line="52" selection-end-column="30" />
-          <folding>
-            <element signature="e#290#537#0" />
-          </folding>
+        <state relative-caret-position="300">
+          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/爬虫/3 实例1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="428">
+          <caret line="38" column="8" lean-forward="true" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
         </state>
       </provider>
     </entry>

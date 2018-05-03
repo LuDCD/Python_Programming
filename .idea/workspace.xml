@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a70dec5c-c084-463e-9c94-db65365afe49" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/BIT_MOOC-Python/爬虫/1 爬取网页的通用代码框架.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIT_MOOC-Python/爬虫/1 爬取网页的通用代码框架.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIT_MOOC-Python/爬虫/3 实例1.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIT_MOOC-Python/爬虫/3 实例1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode_GT/643 子数组最大平均数 I.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode_GT/747 至少是其他数字两倍的最大数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="Programming.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -149,17 +150,35 @@
       <file leaf-file-name="1 爬取网页的通用代码框架.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/爬虫/1 爬取网页的通用代码框架.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
+            <state relative-caret-position="638">
               <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="3 实例1.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="3 实例1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/爬虫/3 实例1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="428">
-              <caret line="38" column="8" lean-forward="true" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+            <state relative-caret-position="858">
+              <caret line="39" selection-start-line="39" selection-end-line="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="747 至少是其他数字两倍的最大数.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode_GT/747 至少是其他数字两倍的最大数.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="748">
+              <caret line="34" column="15" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="643 子数组最大平均数 I.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode_GT/643 子数组最大平均数 I.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="319">
+              <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -212,8 +231,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/PracticePY/test789.py" />
-        <option value="E:/Program Files (x86)/JetBrains/PyCharm 2016.2.3/helpers/packaging_tool.py" />
         <option value="$PROJECT_DIR$/PracticePY/useAPI.py" />
         <option value="$APPLICATION_HOME_DIR$/helpers/packaging_tool.py" />
         <option value="$PROJECT_DIR$/BOOK-MLinActionGTpy35/决策树/treesGT.py" />
@@ -263,6 +280,8 @@
         <option value="$PROJECT_DIR$/LeetCode_GT/227 基本计算器II.py" />
         <option value="$PROJECT_DIR$/BIT_MOOC-Python/爬虫/3 实例1.py" />
         <option value="$PROJECT_DIR$/BIT_MOOC-Python/爬虫/1 爬取网页的通用代码框架.py" />
+        <option value="$PROJECT_DIR$/LeetCode_GT/747 至少是其他数字两倍的最大数.py" />
+        <option value="$PROJECT_DIR$/LeetCode_GT/643 子数组最大平均数 I.py" />
       </list>
     </option>
   </component>
@@ -297,6 +316,11 @@
             <path>
               <item name="Programming" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Programming" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Programming" type="462c0819:PsiDirectoryNode" />
+              <item name="LeetCode_GT" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -339,45 +363,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.3 实例1">
-    <configuration name="0 测试Requests库" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Programming" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BIT_MOOC-Python/爬虫" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BIT_MOOC-Python/爬虫/0 测试Requests库.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="1 爬取网页的通用代码框架" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Programming" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BIT_MOOC-Python/爬虫" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BIT_MOOC-Python/爬虫/1 爬取网页的通用代码框架.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.643 子数组最大平均数 I">
     <configuration name="227 基本计算器II" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -430,6 +416,44 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode_GT/434 字符串中的单词数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="643 子数组最大平均数 I" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode_GT" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode_GT/643 子数组最大平均数 I.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="747 至少是其他数字两倍的最大数" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode_GT" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode_GT/747 至少是其他数字两倍的最大数.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -624,19 +648,19 @@
       <pass-parent-envs>true</pass-parent-envs>
     </configuration>
     <list>
-      <item itemvalue="Python.0 测试Requests库" />
-      <item itemvalue="Python.1 爬取网页的通用代码框架" />
       <item itemvalue="Python.434 字符串中的单词数" />
       <item itemvalue="Python.227 基本计算器II" />
       <item itemvalue="Python.3 实例1" />
+      <item itemvalue="Python.747 至少是其他数字两倍的最大数" />
+      <item itemvalue="Python.643 子数组最大平均数 I" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.643 子数组最大平均数 I" />
+        <item itemvalue="Python.747 至少是其他数字两倍的最大数" />
         <item itemvalue="Python.3 实例1" />
         <item itemvalue="Python.227 基本计算器II" />
         <item itemvalue="Python.434 字符串中的单词数" />
-        <item itemvalue="Python.1 爬取网页的通用代码框架" />
-        <item itemvalue="Python.0 测试Requests库" />
       </list>
     </recent_temporary>
   </component>
@@ -1006,7 +1030,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Python Console" order="8" weight="0.32913387" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.50073206" side_tool="true" weight="0.40944883" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.50073206" side_tool="true" weight="0.37795275" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18887262" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
@@ -1083,20 +1107,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/packaging_tool.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="71" column="32" selection-start-line="71" selection-start-column="32" selection-end-line="71" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PracticePY/053爬虫_下载图片.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PracticePY/053爬虫.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1406,15 +1416,29 @@
     <entry file="file://$PROJECT_DIR$/LeetCode_GT/227 基本计算器II.py" />
     <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/爬虫/1 爬取网页的通用代码框架.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
+        <state relative-caret-position="638">
           <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/爬虫/3 实例1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="428">
-          <caret line="38" column="8" lean-forward="true" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+        <state relative-caret-position="858">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode_GT/747 至少是其他数字两倍的最大数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="34" column="15" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode_GT/643 子数组最大平均数 I.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
         </state>
       </provider>
     </entry>

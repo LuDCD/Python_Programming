@@ -28,15 +28,18 @@ class Solution:
         startIndex = 0
         endIndex = startIndex + k
         leg = len(nums)
-        maxSum = -10000
-        while endIndex <= leg:
 
-            t = sum( nums[startIndex:endIndex] )
-            # print(t, '=', nums[startIndex:endIndex])
-            if t > maxSum:
-                maxSum = t
+        t = sum( nums[startIndex:endIndex] )
+        maxSum = t
+        while endIndex < leg:
             startIndex += 1
             endIndex = startIndex + k
+            # print(startIndex, endIndex)
+            t = t - nums[startIndex-1] + nums[endIndex-1]
+            if t > maxSum:
+                maxSum = t
+            # print(t, '=', nums[startIndex:endIndex])
+
 
         return maxSum/k
 

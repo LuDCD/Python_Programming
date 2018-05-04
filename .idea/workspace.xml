@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a70dec5c-c084-463e-9c94-db65365afe49" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/LeetCode_GT/643 子数组最大平均数 I.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode_GT/643 子数组最大平均数 I.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode_GT/819 最常见的单词.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="Programming.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -136,6 +137,24 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="test456.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PracticePY/test456.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test789.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PracticePY/test789.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="0 测试Requests库.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/爬虫/0 测试Requests库.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -157,50 +176,17 @@
       <file leaf-file-name="3 实例1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/爬虫/3 实例1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="538">
-              <caret line="39" selection-start-line="39" selection-end-line="39" />
+            <state relative-caret-position="418">
+              <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="643 子数组最大平均数 I.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LeetCode_GT/643 子数组最大平均数 I.py">
+      <file leaf-file-name="819 最常见的单词.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode_GT/819 最常见的单词.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="710">
-              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test456.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PracticePY/test456.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test789.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PracticePY/test789.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="treesGT.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BOOK-MLinActionGTpy35/决策树/treesGT.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="35" selection-start-line="35" selection-end-line="35" />
-              <folding>
-                <element signature="e#88#99#0" expanded="true" />
-                <element signature="e#173#645#0" />
-                <element signature="e#680#895#0" />
-                <element signature="e#958#1226#0" />
-              </folding>
+            <state relative-caret-position="-555">
+              <caret line="34" selection-start-line="34" selection-end-line="66" />
             </state>
           </provider>
         </entry>
@@ -220,7 +206,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/PracticePY/useAPI.py" />
         <option value="$APPLICATION_HOME_DIR$/helpers/packaging_tool.py" />
         <option value="$PROJECT_DIR$/BOOK-MLinActionGTpy35/决策树/treesGT.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/409 最长回文串.py" />
@@ -271,6 +256,7 @@
         <option value="$PROJECT_DIR$/BIT_MOOC-Python/爬虫/1 爬取网页的通用代码框架.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/747 至少是其他数字两倍的最大数.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/643 子数组最大平均数 I.py" />
+        <option value="$PROJECT_DIR$/LeetCode_GT/819 最常见的单词.py" />
       </list>
     </option>
   </component>
@@ -352,7 +338,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.643 子数组最大平均数 I">
+  <component name="RunManager" selected="Python.819 最常见的单词">
     <configuration name="227 基本计算器II" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -391,25 +377,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="434 字符串中的单词数" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Programming" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode_GT" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode_GT/434 字符串中的单词数.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="643 子数组最大平均数 I" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -443,6 +410,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode_GT/747 至少是其他数字两倍的最大数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="819 最常见的单词" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode_GT" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode_GT/819 最常见的单词.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -637,19 +623,19 @@
       <pass-parent-envs>true</pass-parent-envs>
     </configuration>
     <list>
-      <item itemvalue="Python.434 字符串中的单词数" />
       <item itemvalue="Python.227 基本计算器II" />
       <item itemvalue="Python.3 实例1" />
       <item itemvalue="Python.747 至少是其他数字两倍的最大数" />
       <item itemvalue="Python.643 子数组最大平均数 I" />
+      <item itemvalue="Python.819 最常见的单词" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.819 最常见的单词" />
         <item itemvalue="Python.643 子数组最大平均数 I" />
         <item itemvalue="Python.747 至少是其他数字两倍的最大数" />
         <item itemvalue="Python.3 实例1" />
         <item itemvalue="Python.227 基本计算器II" />
-        <item itemvalue="Python.434 字符串中的单词数" />
       </list>
     </recent_temporary>
   </component>
@@ -663,20 +649,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1469363794549</updated>
-    </task>
-    <task id="LOCAL-00002" summary="20180403">
-      <created>1522720356032</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1522720356032</updated>
-    </task>
-    <task id="LOCAL-00003" summary="20180403">
-      <created>1522759749121</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1522759749121</updated>
     </task>
     <task id="LOCAL-00004" summary="20180404">
       <created>1522813537416</created>
@@ -1007,7 +979,21 @@
       <option name="project" value="LOCAL" />
       <updated>1525173609246</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="20180503-2">
+      <created>1525338657172</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1525338657172</updated>
+    </task>
+    <task id="LOCAL-00052" summary="20180503-2">
+      <created>1525338721172</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1525338721172</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1019,7 +1005,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Python Console" order="8" weight="0.32913387" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.50073206" side_tool="true" visible="true" weight="0.36535433" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.50073206" side_tool="true" weight="0.41732284" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18887262" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
@@ -1055,7 +1041,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="1" />
     <MESSAGE value="20180403" />
     <MESSAGE value="20180404" />
     <MESSAGE value="20180406" />
@@ -1080,7 +1065,8 @@
     <MESSAGE value="20180501-4" />
     <MESSAGE value="20180501-5" />
     <MESSAGE value="20180501-6" />
-    <option name="LAST_COMMIT_MESSAGE" value="20180501-6" />
+    <MESSAGE value="20180503-2" />
+    <option name="LAST_COMMIT_MESSAGE" value="20180503-2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1096,13 +1082,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PracticePY/053爬虫.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode_GT/409 最长回文串.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
@@ -1147,19 +1126,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="406">
           <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BOOK-MLinActionGTpy35/决策树/treesGT.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-          <folding>
-            <element signature="e#88#99#0" expanded="true" />
-            <element signature="e#173#645#0" />
-            <element signature="e#680#895#0" />
-            <element signature="e#958#1226#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1353,20 +1319,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PracticePY/test789.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PracticePY/test456.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PracticePY/test123.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
@@ -1388,13 +1340,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/爬虫/0 测试Requests库.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode_GT/434 字符串中的单词数.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="335">
@@ -1403,13 +1348,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode_GT/227 基本计算器II.py" />
-    <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/爬虫/1 爬取网页的通用代码框架.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode_GT/747 至少是其他数字两倍的最大数.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -1417,17 +1355,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/爬虫/3 实例1.py">
+    <entry file="file://$PROJECT_DIR$/LeetCode_GT/643 子数组最大平均数 I.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="538">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        <state relative-caret-position="314">
+          <caret line="24" column="20" lean-forward="true" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode_GT/643 子数组最大平均数 I.py">
+    <entry file="file://$PROJECT_DIR$/BOOK-MLinActionGTpy35/决策树/treesGT.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="710">
-          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        <state relative-caret-position="352">
+          <caret line="37" column="7" lean-forward="true" selection-start-line="37" selection-start-column="7" selection-end-line="37" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PracticePY/test456.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PracticePY/test789.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/爬虫/0 测试Requests库.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/爬虫/1 爬取网页的通用代码框架.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/爬虫/3 实例1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode_GT/819 最常见的单词.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-555">
+          <caret line="34" selection-start-line="34" selection-end-line="66" />
         </state>
       </provider>
     </entry>

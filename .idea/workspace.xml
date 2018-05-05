@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a70dec5c-c084-463e-9c94-db65365afe49" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode_GT/58 最后一个单词的长度.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIT_MOOC-Python/1 jieba库的使用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIT_MOOC-Python/2 wordcloud库的使用.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIT_MOOC-Python/time库的使用.py" beforeDir="false" />
     </list>
     <ignored path="Programming.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -124,7 +126,9 @@
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="FavoritesManager">
-    <favorites_list name="Programming" />
+    <favorites_list name="Programming">
+      <favorite_root url="file://$PROJECT_DIR$/BIT_MOOC-Python/wordcloud库的使用.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+    </favorites_list>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -182,20 +186,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="819 最常见的单词.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode_GT/819 最常见的单词.py">
+      <file leaf-file-name="2 wordcloud库的使用.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/2 wordcloud库的使用.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="638">
-              <caret line="47" column="25" lean-forward="true" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="25" />
+            <state relative-caret-position="88">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="58 最后一个单词的长度.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LeetCode_GT/58 最后一个单词的长度.py">
+      <file leaf-file-name="1 jieba库的使用.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/1 jieba库的使用.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="31" column="21" lean-forward="true" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+            <state relative-caret-position="198">
+              <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -215,9 +219,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/BOOK-MLinActionGTpy35/决策树/treesGT.py" />
-        <option value="$PROJECT_DIR$/LeetCode_GT/409 最长回文串.py" />
-        <option value="$PROJECT_DIR$/TOOLgt/alphabetListGT.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/784 字母大小写全排列.py" />
         <option value="$PROJECT_DIR$/BOOK-MLinActionGTpy35/k-近邻算法/kNNGT.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/35 搜索插入位置.py" />
@@ -266,6 +267,9 @@
         <option value="$PROJECT_DIR$/LeetCode_GT/643 子数组最大平均数 I.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/819 最常见的单词.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/58 最后一个单词的长度.py" />
+        <option value="$PROJECT_DIR$/BIT_MOOC-Python/wordcloud库的使用.py" />
+        <option value="$PROJECT_DIR$/BIT_MOOC-Python/jieba库的使用.py" />
+        <option value="$PROJECT_DIR$/BIT_MOOC-Python/1 jieba库的使用.py" />
       </list>
     </option>
   </component>
@@ -304,7 +308,7 @@
             <path>
               <item name="Programming" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Programming" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCode_GT" type="462c0819:PsiDirectoryNode" />
+              <item name="BIT_MOOC-Python" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -347,8 +351,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.58 最后一个单词的长度">
-    <configuration name="3 实例1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.1 jieba库的使用">
+    <configuration name="1 jieba库的使用" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -356,12 +360,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BIT_MOOC-Python/爬虫" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BIT_MOOC-Python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BIT_MOOC-Python/爬虫/3 实例1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BIT_MOOC-Python/1 jieba库的使用.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -632,19 +636,19 @@
       <pass-parent-envs>true</pass-parent-envs>
     </configuration>
     <list>
-      <item itemvalue="Python.3 实例1" />
       <item itemvalue="Python.747 至少是其他数字两倍的最大数" />
       <item itemvalue="Python.643 子数组最大平均数 I" />
       <item itemvalue="Python.819 最常见的单词" />
       <item itemvalue="Python.58 最后一个单词的长度" />
+      <item itemvalue="Python.1 jieba库的使用" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1 jieba库的使用" />
         <item itemvalue="Python.58 最后一个单词的长度" />
         <item itemvalue="Python.819 最常见的单词" />
         <item itemvalue="Python.643 子数组最大平均数 I" />
         <item itemvalue="Python.747 至少是其他数字两倍的最大数" />
-        <item itemvalue="Python.3 实例1" />
       </list>
     </recent_temporary>
   </component>
@@ -1011,14 +1015,14 @@
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.24566929" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Python Console" order="8" weight="0.32913387" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.50073206" side_tool="true" visible="true" weight="0.22677165" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="9" weight="0.32913387" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.50073206" side_tool="true" visible="true" weight="0.3984252" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18887262" />
-      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" x="359" y="171" width="811" height="484" id="SciView" order="3" type="WINDOWED" weight="0.3557833" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -1027,9 +1031,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Application Servers" order="11" />
-      <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="4" side_tool="true" weight="0.32503662" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32861635" />
+      <window_info anchor="bottom" id="Application Servers" order="14" />
+      <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="5" side_tool="true" weight="0.32503662" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32861635" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32861635" />
@@ -1091,32 +1095,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/TOOLgt/alphabetListGT.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="543">
-          <caret line="83" selection-start-line="83" selection-end-line="83" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BOOK-MLinActionGTpy35/k-近邻算法/datingTestSet.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-330" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BOOK-MLinActionGTpy35/k-近邻算法/kNNGT.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-662">
-          <caret line="216" column="40" lean-forward="true" selection-start-line="216" selection-start-column="40" selection-end-line="216" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode_GT/784 字母大小写全排列.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="33" column="21" lean-forward="true" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode_GT/35 搜索插入位置.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="274">
@@ -1378,13 +1356,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PracticePY/test789.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/爬虫/0 测试Requests库.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -1408,15 +1379,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode_GT/819 最常见的单词.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="47" column="25" lean-forward="true" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="25" />
+        <state relative-caret-position="1034">
+          <caret line="47" column="25" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode_GT/58 最后一个单词的长度.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="31" column="21" lean-forward="true" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+        <state relative-caret-position="127">
+          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PracticePY/test789.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/2 wordcloud库的使用.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/time库的使用.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/N的多次方.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/1 jieba库的使用.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
         </state>
       </provider>
     </entry>

@@ -1,7 +1,10 @@
 #!/usr/bin/python
 # -*- coding:utf8 -*-
 
-import requests
+def f(x):
+    x += 1
+    return x
 
-r = requests.get('https://www.baidu.com')
-print( r.status_code )  # 200 正常
+y = 1
+x = f(y)
+print(x,y)

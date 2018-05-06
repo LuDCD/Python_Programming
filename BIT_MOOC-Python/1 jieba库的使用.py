@@ -10,6 +10,7 @@ jieba是优秀的中文分词第三方库。
 """
 
 import jieba
+import wordcloud
 
 print( jieba.lcut("中国是一个伟大的国家") )
 print( jieba.lcut("中国是一个伟大的国家", cut_all=True) )

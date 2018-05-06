@@ -2,18 +2,17 @@
 # -*- coding:utf-8 -*-
 
 """
-File function
+统计哈姆雷特hamlet中出现的最多的词
+形成词云
 
 @author: ZHOU Heng
 """
 
+import jieba
 
-def test():
-    pass
 
 
 if __name__ == "__main__":
-    test()
-
+    pass
 
 

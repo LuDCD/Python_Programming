@@ -30,14 +30,40 @@ class Solution:
         """
         :type N: int
         :rtype: int
+        超时了！！！
+
+        规律：
+        N/k = m + 余数
+        当 k 为奇数时，余数 = 0
+        当 k 为偶数时。余数 = (k-1)!
+        即 N = m*k + 余数
         """
         nRe = 1
-        
+        for k in range(2,N):
+            # 如果 i 为奇数
+            if k % 2 == 1:
+                if N % k == 0:
+                    nRe += 1
+            else:
+                m = N // k
+                if N - m*k == sum( range(k) ):
+                    nRe += 1
+
+        return nRe
+
+
 
 
 
 def test():
-    pass
+    sol = Solution()
+    print( sol.consecutiveNumbersSum(9) )
+    print( sol.consecutiveNumbersSum(5) )
+    print( sol.consecutiveNumbersSum(15) )
+    print( sol.consecutiveNumbersSum(3749) )
+    print( sol.consecutiveNumbersSum(3) )
+    print( sol.consecutiveNumbersSum(8480) )
+    print( sol.consecutiveNumbersSum(21) )
 
 
 if __name__ == "__main__":

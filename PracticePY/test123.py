@@ -1,10 +1,12 @@
 #!/usr/bin/python
 # -*- coding:utf8 -*-
 
-def f(x):
-    x += 1
-    return x
+def factorial(n):
+    assert n >= 0, "Factorial not definied for negative values."
 
-y = 1
-x = f(y)
-print(x,y)
+    result = 1
+    for i in range(2, n + 1):
+        result *= i
+    return result
+
+print( factorial(0) )

@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a70dec5c-c084-463e-9c94-db65365afe49" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode_GT/828 Unique Letter String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIT_MOOC-Python/2 微信头像.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIT_MOOC-Python/2psb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIT_MOOC-Python/2《兄弟》余华.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIT_MOOC-Python/2狂人日记.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIT_MOOC-Python/爬虫/2-0 Beautiful Soup库初体验.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode_GT/829 Consecutive Numbers Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode_GT/829 Consecutive Numbers Sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticePY/test123.py" beforeDir="false" afterPath="$PROJECT_DIR$/PracticePY/test123.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIT_MOOC-Python/爬虫/0 测试Requests库.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIT_MOOC-Python/爬虫/1-0 测试Requests库.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIT_MOOC-Python/爬虫/1 爬取网页的通用代码框架.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIT_MOOC-Python/爬虫/1-1 爬取网页的通用代码框架.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIT_MOOC-Python/爬虫/2 Robots协议.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIT_MOOC-Python/爬虫/1-2 Robots协议.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIT_MOOC-Python/爬虫/3 实例1.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIT_MOOC-Python/爬虫/1-3 实例1.py" afterDir="false" />
     </list>
     <ignored path="Programming.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -159,20 +165,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="829 Consecutive Numbers Sum.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode_GT/829 Consecutive Numbers Sum.py">
+      <file leaf-file-name="2-0 Beautiful Soup库初体验.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/爬虫/2-0 Beautiful Soup库初体验.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+            <state relative-caret-position="363">
+              <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+              <folding>
+                <element signature="e#201#216#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="828 Unique Letter String.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LeetCode_GT/828 Unique Letter String.py">
+      <file leaf-file-name="2 十九大词云.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/2 十九大词云.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="35" selection-start-line="35" selection-end-line="78" selection-end-column="25" />
+            <state relative-caret-position="406">
+              <caret line="29" selection-end-line="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2 微信头像.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/2 微信头像.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="274">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
             </state>
           </provider>
         </entry>
@@ -192,9 +210,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LeetCode_GT/326 3的幂.py" />
-        <option value="$PROJECT_DIR$/TOOLgt/isPowerOfK.py" />
-        <option value="$PROJECT_DIR$/TOOLgt/isNumberGT.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/383 赎金信.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/455 分发饼干.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/717 1比特与2比特字符.py" />
@@ -243,6 +258,9 @@
         <option value="$PROJECT_DIR$/PracticePY/test123.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/829 Consecutive Numbers Sum.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/828 Unique Letter String.py" />
+        <option value="$PROJECT_DIR$/BIT_MOOC-Python/爬虫/2-Beautiful Soup库初体验.py" />
+        <option value="$PROJECT_DIR$/BIT_MOOC-Python/爬虫/2-0 Beautiful Soup库初体验.py" />
+        <option value="$PROJECT_DIR$/BIT_MOOC-Python/2 微信头像.py" />
       </list>
     </option>
   </component>
@@ -255,7 +273,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-82" />
     <option name="y" value="15" />
     <option name="width" value="1382" />
@@ -272,6 +290,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -282,13 +301,12 @@
             <path>
               <item name="Programming" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Programming" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCode_GT" type="462c0819:PsiDirectoryNode" />
+              <item name="BIT_MOOC-Python" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -301,16 +319,17 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\zhouheng\Python_Programming\BIT_MOOC-Python" />
+      <recent name="F:\zhouheng\Python_Programming\BOOK-MLinActionGTpy35\k-近邻算法" />
+      <recent name="D:\zhouheng\Programming\Python\Programming\BIT_MOOC-Python" />
+      <recent name="D:\zhouheng\Programming\Python\Programming" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\zhouheng\Python_Programming\BOOK-MLinActionGTpy35\k-近邻算法" />
       <recent name="D:\zhouheng\Programming\Python\Programming\TOOLgt" />
       <recent name="D:\zhouheng\Programming\Python\Programming\BIT_MOOC-Python" />
       <recent name="D:\zhouheng\Programming\Python\Programming\装饰器模式" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\zhouheng\Python_Programming\BOOK-MLinActionGTpy35\k-近邻算法" />
-      <recent name="D:\zhouheng\Programming\Python\Programming\BIT_MOOC-Python" />
-      <recent name="D:\zhouheng\Programming\Python\Programming" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -325,7 +344,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.828 Unique Letter String">
+  <component name="RunManager" selected="Python.2 微信头像">
     <configuration name="2 十九大词云" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -345,6 +364,25 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="2 微信头像" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BIT_MOOC-Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BIT_MOOC-Python/2 微信头像.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="2 十九大词云" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -359,6 +397,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BIT_MOOC-Python/2 十九大词云.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="2-0 Beautiful Soup库初体验" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BIT_MOOC-Python/爬虫" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BIT_MOOC-Python/爬虫/2-0 Beautiful Soup库初体验.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -397,44 +454,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode_GT/829 Consecutive Numbers Sum.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="830 Positions of Large Groups" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Programming" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode_GT" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode_GT/830 Positions of Large Groups.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="831 Masking Personal Information" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Programming" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode_GT" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode_GT/831 Masking Personal Information.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -648,19 +667,19 @@
       <pass-parent-envs>true</pass-parent-envs>
     </configuration>
     <list>
-      <item itemvalue="Python.830 Positions of Large Groups" />
-      <item itemvalue="Python.831 Masking Personal Information" />
       <item itemvalue="Python.test123" />
       <item itemvalue="Python.829 Consecutive Numbers Sum" />
       <item itemvalue="Python.828 Unique Letter String" />
+      <item itemvalue="Python.2-0 Beautiful Soup库初体验" />
+      <item itemvalue="Python.2 微信头像" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2 微信头像" />
+        <item itemvalue="Python.2-0 Beautiful Soup库初体验" />
         <item itemvalue="Python.828 Unique Letter String" />
         <item itemvalue="Python.829 Consecutive Numbers Sum" />
         <item itemvalue="Python.test123" />
-        <item itemvalue="Python.831 Masking Personal Information" />
-        <item itemvalue="Python.830 Positions of Large Groups" />
       </list>
     </recent_temporary>
   </component>
@@ -1023,22 +1042,21 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.24566929" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.81551975" side_tool="true" weight="0.36062992" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Python Console" order="9" weight="0.32913387" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.81551975" side_tool="true" visible="true" weight="0.42204726" />
       <window_info anchor="bottom" id="Terminal" order="12" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18228404" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18228404" />
       <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" x="359" y="171" width="811" height="484" id="SciView" order="3" type="WINDOWED" weight="0.3557833" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49926794" weight="0.27401575" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -1107,27 +1125,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode_GT/383 赎金信.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TOOLgt/isNumberGT.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode_GT/198 打家劫舍.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="106" column="10" selection-start-line="106" selection-start-column="10" selection-end-line="106" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode_GT/66 加一.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="902">
@@ -1233,7 +1230,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/爬虫/2 Robots协议.py">
+    <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/爬虫/1-2 Robots协议.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="792">
           <caret line="36" selection-start-line="36" selection-end-line="36" />
@@ -1298,21 +1295,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/爬虫/1 爬取网页的通用代码框架.py">
+    <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/爬虫/1-1 爬取网页的通用代码框架.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="173">
           <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/爬虫/0 测试Requests库.py">
+    <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/爬虫/1-0 测试Requests库.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="305">
           <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/爬虫/3 实例1.py">
+    <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/爬虫/1-3 实例1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="41">
           <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
@@ -1373,13 +1370,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/2 十九大词云.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="428">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/2 wordcloud库的使用.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
@@ -1422,17 +1412,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode_GT/828 Unique Letter String.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-311">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode_GT/829 Consecutive Numbers Sum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
+        <state relative-caret-position="539">
           <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode_GT/828 Unique Letter String.py">
+    <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/爬虫/2-0 Beautiful Soup库初体验.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="35" selection-start-line="35" selection-end-line="78" selection-end-column="25" />
+        <state relative-caret-position="363">
+          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+          <folding>
+            <element signature="e#201#216#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/2 十九大词云.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="29" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/2狂人日记.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/2 微信头像.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>

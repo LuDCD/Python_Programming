@@ -7,7 +7,6 @@
 @author: ZHOU Heng
 """
 
-import math
 
 # 判断一个数是否为素数
 def isPrime( num ):
@@ -15,12 +14,11 @@ def isPrime( num ):
     :type num: int
     :rtype: bool
     '''
-
     flag = 0
     if num in [2, 3, 5]:
         flag = 1
     else:
-        for i in range(2, int( math.sqrt(num)+1 ) ):
+        for i in range(2, int( num**0.5+1 ) ):
             flag = 1
             if num % i == 0:
                 flag = 0

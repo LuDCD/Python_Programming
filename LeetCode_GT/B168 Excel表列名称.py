@@ -40,13 +40,10 @@ class Solution(object):
 
         strRe = ''
         while n:
-            t = n // 27
+            t = n % 26
             strRe = alphaList[t] + strRe
-            n1 = n // 26
-            if n1 != 0:
-                strRe = alphaList[n1] + strRe
-
-            n = n - 26*n1 - t
+            # print( alphaList[t] )
+            n = n // 27
 
         return strRe
 
@@ -54,9 +51,9 @@ class Solution(object):
 
 def test():
     sol = Solution()
-    print( sol.convertToTitle(701) )
-    print( sol.convertToTitle(25) )
-    print( sol.convertToTitle(28) )
+    print( sol.convertToTitle(701) )    # ZY
+    print( sol.convertToTitle(25) )     # Y
+    print( sol.convertToTitle(28) )     # AB
 
 
 if __name__ == "__main__":

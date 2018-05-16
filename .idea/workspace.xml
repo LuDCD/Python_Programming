@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a70dec5c-c084-463e-9c94-db65365afe49" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/LeetCode_GT/B168 Excel表列名称.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode_GT/B168 Excel表列名称.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode_GT/821 字符的最短距离.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="Programming.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -159,38 +160,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="507 完美数.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode_GT/507 完美数.py">
+      <file leaf-file-name="821 字符的最短距离.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode_GT/821 字符的最短距离.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1430">
-              <caret line="65" selection-start-line="65" selection-end-line="65" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="B168 Excel表列名称.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LeetCode_GT/B168 Excel表列名称.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="53" column="44" lean-forward="true" selection-start-line="53" selection-start-column="44" selection-end-line="53" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="alphabetListGT.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TOOLgt/alphabetListGT.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" column="141" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="141" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="isNumberGT.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TOOLgt/isNumberGT.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+            <state relative-caret-position="90">
+              <caret line="19" selection-start-line="19" selection-end-line="44" selection-end-column="23" />
+              <folding>
+                <element signature="e#318#962#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -219,7 +196,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LeetCode_GT/451 根据字符出现频率排序.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/347 前K个高频元素.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/192 统计词频.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/692 前K个高频单词.py" />
@@ -270,6 +246,7 @@
         <option value="$PROJECT_DIR$/LeetCode_GT/507 完美数.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/168 Excel表列名称.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/B168 Excel表列名称.py" />
+        <option value="$PROJECT_DIR$/LeetCode_GT/821 字符的最短距离.py" />
       </list>
     </option>
   </component>
@@ -358,7 +335,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.B168 Excel表列名称">
+  <component name="RunManager" selected="Python.821 字符的最短距离">
     <configuration name="125 验证回文串" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -416,25 +393,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="260 只出现一次的数字 III" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Programming" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode_GT" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode_GT/260 只出现一次的数字 III.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="507 完美数" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -468,6 +426,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode_GT/7 反转整数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="821 字符的最短距离" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode_GT" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode_GT/821 字符的最短距离.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -681,19 +658,19 @@
       <pass-parent-envs>true</pass-parent-envs>
     </configuration>
     <list>
-      <item itemvalue="Python.260 只出现一次的数字 III" />
       <item itemvalue="Python.7 反转整数" />
       <item itemvalue="Python.507 完美数" />
       <item itemvalue="Python.168 Excel表列名称" />
       <item itemvalue="Python.B168 Excel表列名称" />
+      <item itemvalue="Python.821 字符的最短距离" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.821 字符的最短距离" />
         <item itemvalue="Python.B168 Excel表列名称" />
         <item itemvalue="Python.168 Excel表列名称" />
         <item itemvalue="Python.507 完美数" />
         <item itemvalue="Python.7 反转整数" />
-        <item itemvalue="Python.260 只出现一次的数字 III" />
       </list>
     </recent_temporary>
   </component>
@@ -1063,7 +1040,7 @@
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Python Console" order="9" weight="0.32913387" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.81551975" side_tool="true" weight="0.31811023" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.81551975" side_tool="true" visible="true" weight="0.41732284" />
       <window_info anchor="bottom" id="Terminal" order="12" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18228404" />
       <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
@@ -1140,13 +1117,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode_GT/434 字符串中的单词数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode_GT/227 基本计算器II.py" />
     <entry file="file://$PROJECT_DIR$/LeetCode_GT/747 至少是其他数字两倍的最大数.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -1467,8 +1437,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode_GT/B168 Excel表列名称.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="53" column="44" lean-forward="true" selection-start-line="53" selection-start-column="44" selection-end-line="53" selection-end-column="44" />
+        <state relative-caret-position="371">
+          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode_GT/821 字符的最短距离.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="19" selection-start-line="19" selection-end-line="44" selection-end-column="23" />
+          <folding>
+            <element signature="e#318#962#0" />
+          </folding>
         </state>
       </provider>
     </entry>

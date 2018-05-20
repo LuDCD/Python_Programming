@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a70dec5c-c084-463e-9c94-db65365afe49" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/BIT_MOOC-Python/Holland霍兰德人格分析雷达图.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BIT_MOOC-Python/绘制玫瑰花.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode_GT/227 基本计算器II.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode_GT/227 基本计算器II.py" afterDir="false" />
     </list>
     <ignored path="Programming.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -133,8 +134,8 @@
       <file leaf-file-name="test123.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PracticePY/test123.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+            <state relative-caret-position="132">
+              <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -184,9 +185,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/BIT_MOOC-Python/爬虫/3 爬一个商品信息.py" />
-        <option value="$PROJECT_DIR$/LeetCode_GT/434 字符串中的单词数.py" />
-        <option value="$PROJECT_DIR$/BIT_MOOC-Python/爬虫/3 实例1.py" />
         <option value="$PROJECT_DIR$/BIT_MOOC-Python/爬虫/1 爬取网页的通用代码框架.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/747 至少是其他数字两倍的最大数.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/643 子数组最大平均数 I.py" />
@@ -235,6 +233,9 @@
         <option value="$PROJECT_DIR$/LeetCode_GT/345 反转字符串中的元音字母.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/227 基本计算器II.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/224 基本计算器.py" />
+        <option value="$PROJECT_DIR$/BIT_MOOC-Python/绘制玫瑰花.py" />
+        <option value="$PROJECT_DIR$/BIT_MOOC-Python/霍兰德人格分析雷达图.py" />
+        <option value="$PROJECT_DIR$/BIT_MOOC-Python/Holland霍兰德人格分析雷达图.py" />
       </list>
     </option>
   </component>
@@ -275,7 +276,7 @@
             <path>
               <item name="Programming" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Programming" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCode_GT" type="462c0819:PsiDirectoryNode" />
+              <item name="BIT_MOOC-Python" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -318,7 +319,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.224 基本计算器">
+  <component name="RunManager" selected="Python.Holland霍兰德人格分析雷达图">
+    <configuration name="绘制玫瑰花" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BIT_MOOC-Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BIT_MOOC-Python/绘制玫瑰花.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="224 基本计算器" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -376,25 +396,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="821 字符的最短距离" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Programming" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode_GT" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode_GT/821 字符的最短距离.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="832 翻转图像" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -414,7 +415,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="B168 Excel表列名称" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Holland霍兰德人格分析雷达图" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -422,12 +423,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode_GT" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BIT_MOOC-Python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode_GT/B168 Excel表列名称.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BIT_MOOC-Python/Holland霍兰德人格分析雷达图.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -641,19 +642,19 @@
       <pass-parent-envs>true</pass-parent-envs>
     </configuration>
     <list>
-      <item itemvalue="Python.B168 Excel表列名称" />
       <item itemvalue="Python.832 翻转图像" />
       <item itemvalue="Python.TumblrCrawler" />
       <item itemvalue="Python.227 基本计算器II" />
-      <item itemvalue="Python.224 基本计算器" />
+      <item itemvalue="Python.绘制玫瑰花" />
+      <item itemvalue="Python.Holland霍兰德人格分析雷达图" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.224 基本计算器" />
+        <item itemvalue="Python.Holland霍兰德人格分析雷达图" />
+        <item itemvalue="Python.绘制玫瑰花" />
         <item itemvalue="Python.227 基本计算器II" />
         <item itemvalue="Python.TumblrCrawler" />
         <item itemvalue="Python.832 翻转图像" />
-        <item itemvalue="Python.B168 Excel表列名称" />
       </list>
     </recent_temporary>
   </component>
@@ -1023,12 +1024,12 @@
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Python Console" order="9" weight="0.32913387" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.81551975" side_tool="true" weight="0.33543307" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.81551975" side_tool="true" weight="0.27401575" />
       <window_info anchor="bottom" id="Terminal" order="12" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21669106" />
       <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" x="359" y="171" width="811" height="484" id="SciView" order="3" type="WINDOWED" weight="0.3557833" />
+      <window_info anchor="right" x="230" y="76" width="992" height="617" id="SciView" order="3" type="WINDOWED" weight="0.3557833" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49926794" weight="0.27401575" />
@@ -1100,27 +1101,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode_GT/645 错误的集合.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="30" column="22" lean-forward="true" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/爬虫/1-0 测试Requests库.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/爬虫/1-3 实例1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="41">
-          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/1 jieba库的使用.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="107">
@@ -1412,17 +1392,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode_GT/224 基本计算器.py">
+    <entry file="file://$PROJECT_DIR$/LeetCode_GT/224 基本计算器.py" />
+    <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/Holland_radar.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/Holland霍兰德人格分析雷达图.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="33" column="22" lean-forward="true" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+        <state relative-caret-position="-27">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          <folding>
+            <element signature="e#106#124#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/绘制玫瑰花.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="62" column="19" selection-start-line="62" selection-start-column="19" selection-end-line="62" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PracticePY/test123.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        <state relative-caret-position="132">
+          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
         </state>
       </provider>
     </entry>

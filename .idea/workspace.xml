@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a70dec5c-c084-463e-9c94-db65365afe49" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode_GT/345 反转字符串中的元音字母.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode_GT/227 基本计算器II.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode_GT/227 基本计算器II.py" afterDir="false" />
     </list>
     <ignored path="Programming.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -130,11 +130,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="test123.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="test123.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PracticePY/test123.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="242">
-              <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+              <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -151,20 +151,11 @@
       <file leaf-file-name="2-0 Beautiful Soup库初体验.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/爬虫/2-0 Beautiful Soup库初体验.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
+            <state relative-caret-position="396">
               <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
               <folding>
                 <element signature="e#201#216#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="345 反转字符串中的元音字母.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LeetCode_GT/345 反转字符串中的元音字母.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="38" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -193,10 +184,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/BIT_MOOC-Python/爬虫/2 Robots协议.py" />
         <option value="$PROJECT_DIR$/BIT_MOOC-Python/爬虫/3 爬一个商品信息.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/434 字符串中的单词数.py" />
-        <option value="$PROJECT_DIR$/LeetCode_GT/227 基本计算器II.py" />
         <option value="$PROJECT_DIR$/BIT_MOOC-Python/爬虫/3 实例1.py" />
         <option value="$PROJECT_DIR$/BIT_MOOC-Python/爬虫/1 爬取网页的通用代码框架.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/747 至少是其他数字两倍的最大数.py" />
@@ -244,6 +233,8 @@
         <option value="$PROJECT_DIR$/Tumblr_Crawler-master/TumblrCrawler.py" />
         <option value="$PROJECT_DIR$/Tumblr_Crawler_master/TumblrCrawler.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/345 反转字符串中的元音字母.py" />
+        <option value="$PROJECT_DIR$/LeetCode_GT/227 基本计算器II.py" />
+        <option value="$PROJECT_DIR$/LeetCode_GT/224 基本计算器.py" />
       </list>
     </option>
   </component>
@@ -273,6 +264,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -289,7 +281,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -327,8 +318,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.345 反转字符串中的元音字母">
-    <configuration name="137 只出现一次的数字 II" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.224 基本计算器">
+    <configuration name="224 基本计算器" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -341,13 +332,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode_GT/137 只出现一次的数字 II.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode_GT/224 基本计算器.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="168 Excel表列名称" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="227 基本计算器II" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -360,7 +351,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="F:\zhouheng\Python_Programming\LeetCode_GT\B168 Excel表列名称.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode_GT/227 基本计算器II.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -650,19 +641,19 @@
       <pass-parent-envs>true</pass-parent-envs>
     </configuration>
     <list>
-      <item itemvalue="Python.168 Excel表列名称" />
       <item itemvalue="Python.B168 Excel表列名称" />
       <item itemvalue="Python.832 翻转图像" />
       <item itemvalue="Python.TumblrCrawler" />
-      <item itemvalue="Python.345 反转字符串中的元音字母" />
+      <item itemvalue="Python.227 基本计算器II" />
+      <item itemvalue="Python.224 基本计算器" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.345 反转字符串中的元音字母" />
+        <item itemvalue="Python.224 基本计算器" />
+        <item itemvalue="Python.227 基本计算器II" />
         <item itemvalue="Python.TumblrCrawler" />
         <item itemvalue="Python.832 翻转图像" />
         <item itemvalue="Python.B168 Excel表列名称" />
-        <item itemvalue="Python.168 Excel表列名称" />
       </list>
     </recent_temporary>
   </component>
@@ -676,13 +667,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1469363794549</updated>
-    </task>
-    <task id="LOCAL-00008" summary="20180407">
-      <created>1523079841317</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1523079841317</updated>
     </task>
     <task id="LOCAL-00009" summary="20180409">
       <created>1523275084105</created>
@@ -1020,7 +1004,14 @@
       <option name="project" value="LOCAL" />
       <updated>1526178006564</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="20180519">
+      <created>1526696870568</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1526696870568</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1032,9 +1023,9 @@
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Python Console" order="9" weight="0.32913387" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.81551975" side_tool="true" visible="true" weight="0.34015748" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.81551975" side_tool="true" weight="0.33543307" />
       <window_info anchor="bottom" id="Terminal" order="12" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21669106" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21669106" />
       <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" x="359" y="171" width="811" height="484" id="SciView" order="3" type="WINDOWED" weight="0.3557833" />
@@ -1068,7 +1059,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="20180409" />
     <MESSAGE value="20180412" />
     <MESSAGE value="20180413" />
     <MESSAGE value="20180414" />
@@ -1093,7 +1083,8 @@
     <MESSAGE value="20180509-1" />
     <MESSAGE value="20180511-1" />
     <MESSAGE value="20180513" />
-    <option name="LAST_COMMIT_MESSAGE" value="20180513" />
+    <MESSAGE value="20180519" />
+    <option name="LAST_COMMIT_MESSAGE" value="20180519" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1109,23 +1100,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/爬虫/2-0 Beautiful Soup库初体验.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
-          <folding>
-            <element signature="e#201#216#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/N的多次方.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode_GT/645 错误的集合.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
@@ -1233,13 +1207,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PracticePY/test123.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -1423,7 +1390,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/爬虫/2-0 Beautiful Soup库初体验.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
+        <state relative-caret-position="396">
           <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
           <folding>
             <element signature="e#201#216#0" expanded="true" />
@@ -1433,8 +1400,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode_GT/345 反转字符串中的元音字母.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="38" selection-end-column="25" />
+        <state>
+          <caret line="18" selection-start-line="18" selection-end-line="38" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode_GT/227 基本计算器II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="32" column="11" lean-forward="true" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode_GT/224 基本计算器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="33" column="22" lean-forward="true" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PracticePY/test123.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
         </state>
       </provider>
     </entry>

@@ -19,27 +19,28 @@ class Solution:
         :type nums: List[int]
         :rtype: void Do not return anything, modify nums in-place instead.
         """
-        nums1 = nums
-        l = len( nums1 )
-        for i in range(l):
+        numZoers = 0    # 0的个数
+        leg = len( nums )
+        nums1 = nums.copy()
+        # print( nums1 )
+        nums.clear()
+        # print( nums1 )
+
+        for i in range(leg):
             if nums1[i] == 0:
-                nums1[i] = None
-                nums1.append(0)
+                numZoers += 1
+            else:
+                nums.append( nums1[i] )
 
-        nums = [k for k in nums1 if k != None]
+        nums += [0]*numZoers
 
-        # for i in range(len(nums)):
-        #     if nums[i] == None:
-        #         del nums[i]
-
-
-        return nums
 
 def test():
     sol = Solution()
     nums = [0, 1, 0, 3, 0, 12, 13]
     # nums = [0,0,1]
-    print( sol.moveZeroes(nums) )
+    sol.moveZeroes(nums)
+    print( nums )
 
 
 if __name__ == "__main__":

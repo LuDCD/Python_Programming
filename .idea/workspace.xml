@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a70dec5c-c084-463e-9c94-db65365afe49" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/BIT_MOOC-Python/Holland霍兰德人格分析雷达图.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BIT_MOOC-Python/绘制玫瑰花.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode_GT/A283 移动零.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode_GT/A283 移动零.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode_GT/283 移动零.py" afterDir="false" />
     </list>
     <ignored path="Programming.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -134,8 +133,8 @@
       <file leaf-file-name="test123.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PracticePY/test123.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+            <state relative-caret-position="242">
+              <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -185,7 +184,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/BIT_MOOC-Python/爬虫/1 爬取网页的通用代码框架.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/747 至少是其他数字两倍的最大数.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/643 子数组最大平均数 I.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/819 最常见的单词.py" />
@@ -236,6 +234,7 @@
         <option value="$PROJECT_DIR$/BIT_MOOC-Python/绘制玫瑰花.py" />
         <option value="$PROJECT_DIR$/BIT_MOOC-Python/霍兰德人格分析雷达图.py" />
         <option value="$PROJECT_DIR$/BIT_MOOC-Python/Holland霍兰德人格分析雷达图.py" />
+        <option value="$PROJECT_DIR$/LeetCode_GT/A283 移动零.py" />
       </list>
     </option>
   </component>
@@ -265,7 +264,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -276,12 +274,13 @@
             <path>
               <item name="Programming" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Programming" type="462c0819:PsiDirectoryNode" />
-              <item name="BIT_MOOC-Python" type="462c0819:PsiDirectoryNode" />
+              <item name="LeetCode_GT" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -319,7 +318,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Holland霍兰德人格分析雷达图">
+  <component name="RunManager" selected="Python.A283 移动零">
     <configuration name="绘制玫瑰花" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -396,7 +395,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="832 翻转图像" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="A283 移动零" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -409,7 +408,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode_GT/832 翻转图像.py" />
+      <option name="SCRIPT_NAME" value="F:\zhouheng\Python_Programming\LeetCode_GT\283 移动零.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -642,19 +641,19 @@
       <pass-parent-envs>true</pass-parent-envs>
     </configuration>
     <list>
-      <item itemvalue="Python.832 翻转图像" />
       <item itemvalue="Python.TumblrCrawler" />
       <item itemvalue="Python.227 基本计算器II" />
       <item itemvalue="Python.绘制玫瑰花" />
       <item itemvalue="Python.Holland霍兰德人格分析雷达图" />
+      <item itemvalue="Python.A283 移动零" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.A283 移动零" />
         <item itemvalue="Python.Holland霍兰德人格分析雷达图" />
         <item itemvalue="Python.绘制玫瑰花" />
         <item itemvalue="Python.227 基本计算器II" />
         <item itemvalue="Python.TumblrCrawler" />
-        <item itemvalue="Python.832 翻转图像" />
       </list>
     </recent_temporary>
   </component>
@@ -1024,7 +1023,7 @@
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Python Console" order="9" weight="0.32913387" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.81551975" side_tool="true" weight="0.27401575" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.81551975" side_tool="true" weight="0.3133858" />
       <window_info anchor="bottom" id="Terminal" order="12" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21669106" />
       <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
@@ -1101,6 +1100,13 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/爬虫/1-1 爬取网页的通用代码框架.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/1 jieba库的使用.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="107">
@@ -1242,11 +1248,6 @@
     <entry file="file://$PROJECT_DIR$/LeetCode_GT/B242 有效的字母异位词.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-66" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode_GT/A283 移动零.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-660" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode_GT/A264 丑数 II.py">
@@ -1393,16 +1394,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode_GT/224 基本计算器.py" />
-    <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/Holland_radar.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/Holland霍兰德人格分析雷达图.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-27">
           <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-          <folding>
-            <element signature="e#106#124#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1413,10 +1408,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode_GT/283 移动零.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="15" selection-start-line="15" selection-end-line="34" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/PracticePY/test123.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        <state relative-caret-position="242">
+          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
         </state>
       </provider>
     </entry>

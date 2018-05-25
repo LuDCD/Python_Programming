@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a70dec5c-c084-463e-9c94-db65365afe49" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode_GT/367 有效的完全平方数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode_GT/69 x 的平方根.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode_GT/540 有序数组中的单一元素.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="Programming.iws" />
@@ -131,11 +130,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="test123.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test123.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PracticePY/test123.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="242">
               <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="540 有序数组中的单一元素.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode_GT/540 有序数组中的单一元素.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="19" selection-start-line="19" selection-end-line="38" />
             </state>
           </provider>
         </entry>
@@ -185,7 +193,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LeetCode_GT/58 最后一个单词的长度.py" />
         <option value="$PROJECT_DIR$/BIT_MOOC-Python/wordcloud库的使用.py" />
         <option value="$PROJECT_DIR$/BIT_MOOC-Python/jieba库的使用.py" />
         <option value="$PROJECT_DIR$/BIT_MOOC-Python/哈姆雷特词云.py" />
@@ -236,6 +243,7 @@
         <option value="$PROJECT_DIR$/LeetCode_GT/551 学生出勤纪录 I.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/69 x 的平方根.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/367 有效的完全平方数.py" />
+        <option value="$PROJECT_DIR$/LeetCode_GT/540 有序数组中的单一元素.py" />
       </list>
     </option>
   </component>
@@ -265,6 +273,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -281,7 +290,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -319,7 +327,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.367 有效的完全平方数">
+  <component name="RunManager" selected="Python.540 有序数组中的单一元素">
     <configuration name="224 基本计算器" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -377,6 +385,25 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="540 有序数组中的单一元素" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode_GT" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode_GT/540 有序数组中的单一元素.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="551 学生出勤纪录 I" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -429,25 +456,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="F:\zhouheng\Python_Programming\LeetCode_GT\283 移动零.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="Holland霍兰德人格分析雷达图" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Programming" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BIT_MOOC-Python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BIT_MOOC-Python/Holland霍兰德人格分析雷达图.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -642,19 +650,19 @@
       <pass-parent-envs>true</pass-parent-envs>
     </configuration>
     <list>
-      <item itemvalue="Python.Holland霍兰德人格分析雷达图" />
       <item itemvalue="Python.A283 移动零" />
       <item itemvalue="Python.551 学生出勤纪录 I" />
       <item itemvalue="Python.69 x 的平方根" />
       <item itemvalue="Python.367 有效的完全平方数" />
+      <item itemvalue="Python.540 有序数组中的单一元素" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.540 有序数组中的单一元素" />
         <item itemvalue="Python.367 有效的完全平方数" />
         <item itemvalue="Python.69 x 的平方根" />
         <item itemvalue="Python.551 学生出勤纪录 I" />
         <item itemvalue="Python.A283 移动零" />
-        <item itemvalue="Python.Holland霍兰德人格分析雷达图" />
       </list>
     </recent_temporary>
   </component>
@@ -1024,7 +1032,7 @@
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Python Console" order="9" weight="0.32913387" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.81551975" side_tool="true" weight="0.31181103" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.81551975" side_tool="true" weight="0.2629921" />
       <window_info anchor="bottom" id="Terminal" order="12" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21669106" />
       <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
@@ -1101,13 +1109,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode_GT/41 缺失的第一个正数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="24" selection-start-line="24" selection-end-line="46" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode_GT/448 找到所有数组中消失的数字.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
@@ -1420,6 +1421,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode_GT/540 有序数组中的单一元素.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="19" selection-start-line="19" selection-end-line="38" />
         </state>
       </provider>
     </entry>

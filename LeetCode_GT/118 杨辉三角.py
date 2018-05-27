@@ -52,9 +52,10 @@ class Solution:
 
 def test():
     sol = Solution()
-    print( sol.generate(5) )
-    print( sol.generate(1) )
-    print( sol.generate(0) )
+    # print( sol.generate(5) )
+    # print( sol.generate(1) )
+    # print( sol.generate(0) )
+    print( sol.generate(34) )
 
 
 if __name__ == "__main__":

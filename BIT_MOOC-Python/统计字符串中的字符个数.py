@@ -17,24 +17,26 @@
 @author: ZHOU Heng
 """
 
-aOrd = ord( 'a' )   # 小写字母
-alphabet = []       # 字母表列表
+aOrd = ord("a")  # 小写字母
+alphabet = []  # 字母表列表
 for i in range(26):
-    alphabet.append(chr(aOrd+i))
+    alphabet.append(chr(aOrd + i))
 
 # print(alphabet)
 
 
-countList = [0]*26
+countList = [0] * 26
 # print(countList)
+
 
 def countchar(str):
     str1 = str.lower()
     for s in str1:
         if s in alphabet:
-            k = ord(s) - aOrd   # 第 k 个字母
+            k = ord(s) - aOrd  # 第 k 个字母
             countList[k] += 1
     return countList
+
 
 if __name__ == "__main__":
     str = input()

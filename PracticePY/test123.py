@@ -1,6 +1,7 @@
 #!/usr/bin/python
 # -*- coding:utf8 -*-
 
+
 def factorial(n):
     assert n >= 0, "Factorial not definied for negative values."
 
@@ -9,4 +10,5 @@ def factorial(n):
         result *= i
     return result
 
-print( factorial(0) )
+
+print(factorial(0))

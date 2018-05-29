@@ -9,22 +9,23 @@
 
 
 # 判断一个数是否为素数
-def isPrime( num ):
-    '''
+def isPrime(num):
+    """
     :type num: int
     :rtype: bool
-    '''
+    """
     flag = 0
     if num in [2, 3, 5]:
         flag = 1
     else:
-        for i in range(2, int( num**0.5+1 ) ):
+        for i in range(2, int(num ** 0.5 + 1)):
             flag = 1
             if num % i == 0:
                 flag = 0
                 break
 
-    return bool( flag )     # 简介写法
+    return bool(flag)  # 简介写法
+
 
 # 判断num,是不是 K 的幂
 def isPowerOfK(num, K):

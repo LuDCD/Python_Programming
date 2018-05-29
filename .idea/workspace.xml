@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a70dec5c-c084-463e-9c94-db65365afe49" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/BIT_MOOC-Python/正整数分解质因数.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIT_MOOC-Python/正整数分解质因数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIT_MOOC-Python/统计字符串中的字符个数.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIT_MOOC-Python/统计字符串中的字符个数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIT_MOOC-Python/获取豆瓣某书的书评.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIT_MOOC-Python/获取豆瓣某书的书评.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticePY/test123.py" beforeDir="false" afterPath="$PROJECT_DIR$/PracticePY/test123.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticePY/test789.py" beforeDir="false" afterPath="$PROJECT_DIR$/PracticePY/test789.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode_GT/762 二进制表示中质数个计算置位.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode_GT/762 二进制表示中质数个计算置位.py" afterDir="false" />
     </list>
     <ignored path="Programming.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -137,7 +134,7 @@
         <entry file="file://$PROJECT_DIR$/PracticePY/test123.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="66">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -145,41 +142,29 @@
       <file leaf-file-name="test789.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PracticePY/test789.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="88">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2-0 Beautiful Soup库初体验.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/爬虫/2-0 Beautiful Soup库初体验.py">
+      <file leaf-file-name="实例1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TensorFlow_GT/LinJH_book/第一章/实例1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="451">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
               <folding>
-                <element signature="e#201#216#0" expanded="true" />
+                <element signature="e#85#103#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="获取豆瓣某书的书评.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/获取豆瓣某书的书评.py">
+      <file leaf-file-name="762 二进制表示中质数个计算置位.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode_GT/762 二进制表示中质数个计算置位.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-              <folding>
-                <element signature="e#118#133#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="1-1 爬取网页的通用代码框架.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/爬虫/1-1 爬取网页的通用代码框架.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="15" column="34" lean-forward="true" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+            <state relative-caret-position="62">
+              <caret line="38" selection-start-line="38" selection-end-line="67" />
             </state>
           </provider>
         </entry>
@@ -199,8 +184,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/BIT_MOOC-Python/jieba库的使用.py" />
-        <option value="$PROJECT_DIR$/BIT_MOOC-Python/哈姆雷特词云.py" />
         <option value="$PROJECT_DIR$/BIT_MOOC-Python/1 jieba库的使用.py" />
         <option value="$PROJECT_DIR$/PracticePY/test789.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/645 错误的集合.py" />
@@ -250,6 +233,8 @@
         <option value="$PROJECT_DIR$/LeetCode_GT/367 有效的完全平方数.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/540 有序数组中的单一元素.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/118 杨辉三角.py" />
+        <option value="$PROJECT_DIR$/TensorFlow_GT/LinJH_book/第一章/实例1.py" />
+        <option value="$PROJECT_DIR$/LeetCode_GT/762 二进制表示中质数个计算置位.py" />
       </list>
     </option>
   </component>
@@ -290,18 +275,25 @@
             <path>
               <item name="Programming" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Programming" type="462c0819:PsiDirectoryNode" />
-              <item name="BIT_MOOC-Python" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_Programming" type="462c0819:PsiDirectoryNode" />
-              <item name="BIT_MOOC-Python" type="462c0819:PsiDirectoryNode" />
-              <item name="爬虫" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_Programming" type="462c0819:PsiDirectoryNode" />
               <item name="LeetCode_GT" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Programming" type="462c0819:PsiDirectoryNode" />
+              <item name="TensorFlow_GT" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Programming" type="462c0819:PsiDirectoryNode" />
+              <item name="TensorFlow_GT" type="462c0819:PsiDirectoryNode" />
+              <item name="LinJH_book" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Programming" type="462c0819:PsiDirectoryNode" />
+              <item name="TensorFlow_GT" type="462c0819:PsiDirectoryNode" />
+              <item name="LinJH_book" type="462c0819:PsiDirectoryNode" />
+              <item name="第一章" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -316,7 +308,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Python_virtualenv/baseEnvirPy36/Scripts/black.exe" />
     <property name="recentsLimit" value="5" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -344,7 +336,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.获取豆瓣某书的书评">
+  <component name="RunManager" selected="Python.762 二进制表示中质数个计算置位">
     <configuration name="获取豆瓣某书的书评" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -359,6 +351,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BIT_MOOC-Python/获取豆瓣某书的书评.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="实例1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TensorFlow_GT/LinJH_book/第一章" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TensorFlow_GT/LinJH_book/第一章/实例1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -421,25 +432,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="367 有效的完全平方数" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Programming" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode_GT" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode_GT/367 有效的完全平方数.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="540 有序数组中的单一元素" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -459,7 +451,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="69 x 的平方根" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="762 二进制表示中质数个计算置位" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -472,7 +464,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode_GT/69 x 的平方根.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode_GT/762 二进制表示中质数个计算置位.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -667,19 +659,19 @@
       <pass-parent-envs>true</pass-parent-envs>
     </configuration>
     <list>
-      <item itemvalue="Python.69 x 的平方根" />
-      <item itemvalue="Python.367 有效的完全平方数" />
       <item itemvalue="Python.540 有序数组中的单一元素" />
       <item itemvalue="Python.118 杨辉三角" />
       <item itemvalue="Python.获取豆瓣某书的书评" />
+      <item itemvalue="Python.实例1" />
+      <item itemvalue="Python.762 二进制表示中质数个计算置位" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.762 二进制表示中质数个计算置位" />
+        <item itemvalue="Python.实例1" />
         <item itemvalue="Python.获取豆瓣某书的书评" />
         <item itemvalue="Python.118 杨辉三角" />
         <item itemvalue="Python.540 有序数组中的单一元素" />
-        <item itemvalue="Python.367 有效的完全平方数" />
-        <item itemvalue="Python.69 x 的平方根" />
       </list>
     </recent_temporary>
   </component>
@@ -1042,14 +1034,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.24566929" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Python Console" order="9" weight="0.32913387" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.81551975" side_tool="true" weight="0.38740158" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.81551975" side_tool="true" visible="true" weight="0.36692914" />
       <window_info anchor="bottom" id="Terminal" order="12" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21669106" />
       <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
@@ -1126,20 +1117,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/2 wordcloud库的使用.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PracticePY/test456.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode_GT/830 Positions of Large Groups.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
@@ -1391,34 +1368,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PracticePY/test789.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/爬虫/1-1 爬取网页的通用代码框架.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="15" column="34" lean-forward="true" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        <state relative-caret-position="330">
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PracticePY/test123.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/爬虫/2-0 Beautiful Soup库初体验.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#201#216#0" expanded="true" />
-          </folding>
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
@@ -1444,10 +1404,38 @@
     <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/获取豆瓣某书的书评.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/爬虫/2-0 Beautiful Soup库初体验.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PracticePY/test789.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorFlow_GT/LinJH_book/第一章/实例1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
           <folding>
-            <element signature="e#118#133#0" expanded="true" />
+            <element signature="e#85#103#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode_GT/762 二进制表示中质数个计算置位.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="38" selection-start-line="38" selection-end-line="67" />
         </state>
       </provider>
     </entry>

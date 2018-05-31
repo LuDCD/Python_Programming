@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a70dec5c-c084-463e-9c94-db65365afe49" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode_GT/202 快乐数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode_GT/744 寻找比目标字母大的最小字母.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOOK-MLinActionGTpy36/决策树/treesGT.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOOK-MLinActionGTpy36/决策树/treesGT.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode_GT/744 寻找比目标字母大的最小字母.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode_GT/744 寻找比目标字母大的最小字母.py" afterDir="false" />
     </list>
     <ignored path="Programming.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -174,8 +171,8 @@
       <file leaf-file-name="744 寻找比目标字母大的最小字母.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/LeetCode_GT/744 寻找比目标字母大的最小字母.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="13">
+              <caret line="49" selection-start-line="49" selection-end-line="75" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -334,7 +331,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.202 快乐数">
+  <component name="RunManager" selected="Python.744 寻找比目标字母大的最小字母">
     <configuration name="获取豆瓣某书的书评" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -368,25 +365,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TensorFlow_GT/LinJH_book/第一章/实例1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="118 杨辉三角" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Programming" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode_GT" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode_GT/118 杨辉三角.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -444,6 +422,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode_GT/345 反转字符串中的元音字母.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="744 寻找比目标字母大的最小字母" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode_GT" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode_GT/744 寻找比目标字母大的最小字母.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -657,19 +654,19 @@
       <pass-parent-envs>true</pass-parent-envs>
     </configuration>
     <list>
-      <item itemvalue="Python.118 杨辉三角" />
       <item itemvalue="Python.获取豆瓣某书的书评" />
       <item itemvalue="Python.实例1" />
       <item itemvalue="Python.762 二进制表示中质数个计算置位" />
       <item itemvalue="Python.202 快乐数" />
+      <item itemvalue="Python.744 寻找比目标字母大的最小字母" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.744 寻找比目标字母大的最小字母" />
         <item itemvalue="Python.202 快乐数" />
         <item itemvalue="Python.762 二进制表示中质数个计算置位" />
         <item itemvalue="Python.实例1" />
         <item itemvalue="Python.获取豆瓣某书的书评" />
-        <item itemvalue="Python.118 杨辉三角" />
       </list>
     </recent_temporary>
   </component>
@@ -1039,7 +1036,7 @@
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Python Console" order="9" weight="0.32913387" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.81551975" side_tool="true" weight="0.23779528" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.81551975" side_tool="true" visible="true" weight="0.23779528" />
       <window_info anchor="bottom" id="Terminal" order="12" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21669106" />
       <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
@@ -1433,8 +1430,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode_GT/744 寻找比目标字母大的最小字母.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="13">
+          <caret line="49" selection-start-line="49" selection-end-line="75" selection-end-column="32" />
         </state>
       </provider>
     </entry>

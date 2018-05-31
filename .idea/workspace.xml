@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a70dec5c-c084-463e-9c94-db65365afe49" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/LeetCode_GT/202 快乐数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode_GT/744 寻找比目标字母大的最小字母.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode_GT/762 二进制表示中质数个计算置位.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode_GT/762 二进制表示中质数个计算置位.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOOK-MLinActionGTpy36/决策树/treesGT.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOOK-MLinActionGTpy36/决策树/treesGT.py" afterDir="false" />
     </list>
     <ignored path="Programming.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -149,10 +151,10 @@
         </entry>
       </file>
       <file leaf-file-name="实例1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TensorFlow_GT/LinJH_book/第一章/实例1.py">
+        <entry file="file://$PROJECT_DIR$/TensorFlow_GT/LiJH_book/第一章/实例1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="451">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="638">
+              <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
               <folding>
                 <element signature="e#85#103#0" expanded="true" />
               </folding>
@@ -160,11 +162,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="762 二进制表示中质数个计算置位.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LeetCode_GT/762 二进制表示中质数个计算置位.py">
+      <file leaf-file-name="treesGT.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BOOK-MLinActionGTpy36/决策树/treesGT.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="62">
-              <caret line="38" selection-start-line="38" selection-end-line="67" />
+            <state relative-caret-position="176">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="744 寻找比目标字母大的最小字母.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode_GT/744 寻找比目标字母大的最小字母.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -184,8 +195,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/BIT_MOOC-Python/1 jieba库的使用.py" />
-        <option value="$PROJECT_DIR$/PracticePY/test789.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/645 错误的集合.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/287 寻找重复数.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/41 缺失的第一个正数.py" />
@@ -233,8 +242,10 @@
         <option value="$PROJECT_DIR$/LeetCode_GT/367 有效的完全平方数.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/540 有序数组中的单一元素.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/118 杨辉三角.py" />
-        <option value="$PROJECT_DIR$/TensorFlow_GT/LinJH_book/第一章/实例1.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/762 二进制表示中质数个计算置位.py" />
+        <option value="$PROJECT_DIR$/TensorFlow_GT/LinJH_book/第一章/实例1.py" />
+        <option value="$PROJECT_DIR$/LeetCode_GT/202 快乐数.py" />
+        <option value="$PROJECT_DIR$/LeetCode_GT/744 寻找比目标字母大的最小字母.py" />
       </list>
     </option>
   </component>
@@ -280,20 +291,7 @@
             <path>
               <item name="Programming" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Programming" type="462c0819:PsiDirectoryNode" />
-              <item name="TensorFlow_GT" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_Programming" type="462c0819:PsiDirectoryNode" />
-              <item name="TensorFlow_GT" type="462c0819:PsiDirectoryNode" />
-              <item name="LinJH_book" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_Programming" type="462c0819:PsiDirectoryNode" />
-              <item name="TensorFlow_GT" type="462c0819:PsiDirectoryNode" />
-              <item name="LinJH_book" type="462c0819:PsiDirectoryNode" />
-              <item name="第一章" type="462c0819:PsiDirectoryNode" />
+              <item name="TOOLgt" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -336,7 +334,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.762 二进制表示中质数个计算置位">
+  <component name="RunManager" selected="Python.202 快乐数">
     <configuration name="获取豆瓣某书的书评" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -394,6 +392,25 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="202 快乐数" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode_GT" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode_GT/202 快乐数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="224 基本计算器" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -427,25 +444,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode_GT/345 反转字符串中的元音字母.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="540 有序数组中的单一元素" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Programming" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode_GT" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode_GT/540 有序数组中的单一元素.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -659,19 +657,19 @@
       <pass-parent-envs>true</pass-parent-envs>
     </configuration>
     <list>
-      <item itemvalue="Python.540 有序数组中的单一元素" />
       <item itemvalue="Python.118 杨辉三角" />
       <item itemvalue="Python.获取豆瓣某书的书评" />
       <item itemvalue="Python.实例1" />
       <item itemvalue="Python.762 二进制表示中质数个计算置位" />
+      <item itemvalue="Python.202 快乐数" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.202 快乐数" />
         <item itemvalue="Python.762 二进制表示中质数个计算置位" />
         <item itemvalue="Python.实例1" />
         <item itemvalue="Python.获取豆瓣某书的书评" />
         <item itemvalue="Python.118 杨辉三角" />
-        <item itemvalue="Python.540 有序数组中的单一元素" />
       </list>
     </recent_temporary>
   </component>
@@ -1034,13 +1032,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.24566929" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Python Console" order="9" weight="0.32913387" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.81551975" side_tool="true" visible="true" weight="0.36692914" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.81551975" side_tool="true" weight="0.23779528" />
       <window_info anchor="bottom" id="Terminal" order="12" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21669106" />
       <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
@@ -1117,27 +1116,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode_GT/830 Positions of Large Groups.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode_GT/831 Masking Personal Information.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="85" selection-start-line="85" selection-end-line="112" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode_GT/828 Unique Letter String.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-311">
-          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode_GT/829 Consecutive Numbers Sum.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="539">
@@ -1242,13 +1220,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="60" selection-start-line="60" selection-end-line="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TOOLgt/isNumberGT.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -1422,20 +1393,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TensorFlow_GT/LinJH_book/第一章/实例1.py">
+    <entry file="file://$PROJECT_DIR$/TOOLgt/isNumberGT.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="451">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="129">
+          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode_GT/762 二进制表示中质数个计算置位.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="45" column="24" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorFlow_GT/LiJH_book/第一章/实例1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
           <folding>
             <element signature="e#85#103#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode_GT/762 二进制表示中质数个计算置位.py">
+    <entry file="file://$PROJECT_DIR$/BOOK-MLinActionGTpy36/决策树/treesGT.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
-          <caret line="38" selection-start-line="38" selection-end-line="67" />
+        <state relative-caret-position="176">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode_GT/202 快乐数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="56" column="10" selection-start-line="56" selection-start-column="10" selection-end-line="56" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode_GT/744 寻找比目标字母大的最小字母.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>

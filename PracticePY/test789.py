@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # -*- coding:utf8 -*-
 
-import tensorflow as tf
+import sklearn
 
-hello = tf.constant("Hello World, TensorFlow!")
-sess = tf.Session()
-print(sess.run(hello))
+print( sklearn.__version__ )

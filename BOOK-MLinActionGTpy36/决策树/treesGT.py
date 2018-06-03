@@ -44,7 +44,7 @@ def creatDataSet():
     return dataSet, labels
 
 
-# 按照给定特征拆分数据集
+# 按照给定特征及其特征值拆分数据集
 def splitDataSet(dataSet, axis, values):
     """
     :type dataSet: List[List[·]]
@@ -71,12 +71,12 @@ def chooseBestFeatureToSplite(dataSet):
     # 把 dataSet 矩阵化
     npDataSet = np.array(dataSet)
 
-    numFeatures = npDataSet.shape[1] - 1  # 特征的种类数
-    numData = npDataSet.shape[0]  # 数据的个数
+    numFeatures = npDataSet.shape[1] - 1    # 特征的个数
+    numData = npDataSet.shape[0]            # 数据集中实例的个数
 
     baseShannonEnt = calcShannonEntAvg(dataSet)
-    bestFeatureIndex = -1  # 最好分类特征
-    maxInfGain = 0  # 最大信息增益
+    bestFeatureIndex = -1   # 最好分类特征
+    maxInfGain = 0          # 最大信息增益
     # 遍历所有特征
     for i in range(numFeatures):
         # 第 i 个特征的所有值
@@ -91,7 +91,7 @@ def chooseBestFeatureToSplite(dataSet):
             shannEntSplited += p * calcShannonEntAvg(splitedData)
 
         # 计算信息增益
-        infGain = shannEntSplited - baseShannonEnt  # 错了！！
+        # infGain = shannEntSplited - baseShannonEnt  # 错了！！
         infGain = baseShannonEnt - shannEntSplited
 
         if infGain > maxInfGain:
@@ -99,6 +99,21 @@ def chooseBestFeatureToSplite(dataSet):
             bestFeatureIndex = i
 
     return bestFeatureIndex
+
+
+# 多数表决
+def majorityCnt(classList):
+    classDict = dict()
+    for vote in classList:
+        if vote not in classDict:
+            classDict[vote] = 0
+        else:
+            classDict[vote] += 1
+
+    sortedClassDict = sorted(classDict.items(), key=lambda x:x[0], reverse=True)
+
+    return sortedClassDict[0][0]
+
 
 
 def test():
@@ -112,6 +127,9 @@ def test():
     # 最好的分组特征
     bestFeature = chooseBestFeatureToSplite(dataSet)
     print(bestFeature)
+
+    # 测试表决器
+    # print(majorityCnt([1,2,2,2]))
 
 
 if __name__ == "__main__":

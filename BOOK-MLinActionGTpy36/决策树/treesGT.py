@@ -71,11 +71,11 @@ def chooseBestFeatureToSplite(dataSet):
     # 把 dataSet 矩阵化
     npDataSet = np.array(dataSet)
 
-    numFeatures = npDataSet.shape[1] - 1    # 特征的个数
-    numData = npDataSet.shape[0]            # 数据集中实例的个数
+    numFeatures = npDataSet.shape[1] - 1  # 特征的个数
+    numData = npDataSet.shape[0]        # 数据集中实例的个数
 
     baseShannonEnt = calcShannonEntAvg(dataSet)
-    bestFeatureIndex = -1   # 最好分类特征
+    bestFeatureIndex = -1  # 最好分类特征
     maxInfGain = 0          # 最大信息增益
     # 遍历所有特征
     for i in range(numFeatures):
@@ -110,10 +110,9 @@ def majorityCnt(classList):
         else:
             classDict[vote] += 1
 
-    sortedClassDict = sorted(classDict.items(), key=lambda x:x[0], reverse=True)
+    sortedClassDict = sorted(classDict.items(), key=lambda x: x[0], reverse=True)
 
     return sortedClassDict[0][0]
-
 
 
 def test():

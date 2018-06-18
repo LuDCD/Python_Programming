@@ -9,7 +9,7 @@ The best way to learn new knowledge is to share what you have learned.
 
 - `ABC`：全大写变量名，表示常数。
 - `rng`：表示随机种子确定的一个可以产生随机的对象。
- - `rng = np.random.RandomState(seed=SEED)`
+  - `rng = np.random.RandomState(seed=SEED)`
 - `cnt`：计数。
 - `i`，`j`，`k`：用于for i in range(num)循环，表示索引。
 - `e`  ：用于for e in range(可迭代对象)，表示元素。

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a70dec5c-c084-463e-9c94-db65365afe49" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/PracticePY/image/erkang.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode_GT/867 转置矩阵.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="Programming.iws" />
@@ -177,11 +177,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="07图像数据处理.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test789.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PracticePY/test789.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="07图像数据处理.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TensorFlow_GT/07图像数据处理.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="726">
-              <caret line="33" column="15" selection-start-line="33" selection-start-column="15" selection-end-line="33" selection-end-column="15" />
+            <state relative-caret-position="286">
+              <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
               <folding>
                 <element signature="e#45#76#0" expanded="true" />
               </folding>
@@ -189,11 +198,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test789.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PracticePY/test789.py">
+      <file leaf-file-name="06测试MNIST数据集.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TensorFlow_GT/06测试MNIST数据集.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+            <state relative-caret-position="506">
+              <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -214,7 +223,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LeetCode_GT/551 学生出勤纪录 I.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/69 x 的平方根.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/367 有效的完全平方数.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/540 有序数组中的单一元素.py" />
@@ -245,7 +253,6 @@
         <option value="$PROJECT_DIR$/TensorFlow_GT/mnist_demo/mnist_forward.py" />
         <option value="$PROJECT_DIR$/TensorFlow_GT/mnist_demo/mnist_test.py" />
         <option value="$PROJECT_DIR$/PracticePY/test123.py" />
-        <option value="$PROJECT_DIR$/PracticePY/test789.py" />
         <option value="$PROJECT_DIR$/TensorFlow_GT/mnist_demo/mnist_backward.py" />
         <option value="$PROJECT_DIR$/TensorFlow_GT/mnist_demo/mnist_app.py" />
         <option value="$PROJECT_DIR$/TensorFlow_GT/mnist_demo/mnist_generateds.py" />
@@ -265,6 +272,8 @@
         <option value="$PROJECT_DIR$/PracticePY/README.py" />
         <option value="$PROJECT_DIR$/PracticePY/test456.py" />
         <option value="$PROJECT_DIR$/TensorFlow_GT/07图像数据处理.py" />
+        <option value="$PROJECT_DIR$/PracticePY/test789.py" />
+        <option value="$PROJECT_DIR$/LeetCode_GT/867 转置矩阵.py" />
       </list>
     </option>
   </component>
@@ -302,6 +311,11 @@
             <path>
               <item name="Programming" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Programming" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Programming" type="462c0819:PsiDirectoryNode" />
+              <item name="LeetCode_GT" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Programming" type="b2602c69:ProjectViewProjectNode" />
@@ -351,7 +365,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.07图像数据处理">
+  <component name="RunManager" selected="Python.867 转置矩阵">
     <configuration name="07图像数据处理" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -409,7 +423,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="633 平方数之和" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="867 转置矩阵" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -422,26 +436,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode_GT/633 平方数之和.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="724 寻找数组的中心索引" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Programming" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode_GT" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode_GT/724 寻找数组的中心索引.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode_GT/867 转置矩阵.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -480,6 +475,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PracticePY/test456.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="test789" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PracticePY" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PracticePY/test789.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -656,18 +670,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.test456" />
-      <item itemvalue="Python.633 平方数之和" />
-      <item itemvalue="Python.724 寻找数组的中心索引" />
       <item itemvalue="Python.3 无重复字符的最长子串" />
       <item itemvalue="Python.07图像数据处理" />
+      <item itemvalue="Python.test789" />
+      <item itemvalue="Python.867 转置矩阵" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.867 转置矩阵" />
+        <item itemvalue="Python.test789" />
         <item itemvalue="Python.07图像数据处理" />
         <item itemvalue="Python.test456" />
         <item itemvalue="Python.3 无重复字符的最长子串" />
-        <item itemvalue="Python.724 寻找数组的中心索引" />
-        <item itemvalue="Python.633 平方数之和" />
       </list>
     </recent_temporary>
   </component>
@@ -1037,9 +1051,9 @@
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Python Console" order="9" weight="0.32913387" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5014641" side_tool="true" visible="true" weight="0.26141733" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.5014641" side_tool="true" visible="true" weight="0.3417323" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.32913387" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17642753" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17642753" />
       <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" x="480" y="196" width="595" height="462" id="SciView" order="3" type="WINDOWED" weight="0.3557833" />
@@ -1141,13 +1155,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode_GT/744 寻找比目标字母大的最小字母.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="55" column="11" lean-forward="true" selection-start-line="55" selection-start-column="11" selection-end-line="55" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode_GT/504 七进制数.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="310">
@@ -1284,13 +1291,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TensorFlow_GT/06测试MNIST数据集.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TensorFlow_GT/mnist_demo/mnist_backward.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="924">
@@ -1351,13 +1351,6 @@
           <folding>
             <element signature="e#84#107#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PracticePY/test789.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -1445,13 +1438,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PracticePY/test123.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PracticePY/test456.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="704">
@@ -1464,11 +1450,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TensorFlow_GT/07图像数据处理.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="726">
-          <caret line="33" column="15" selection-start-line="33" selection-start-column="15" selection-end-line="33" selection-end-column="15" />
+        <state relative-caret-position="286">
+          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
           <folding>
             <element signature="e#45#76#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorFlow_GT/06测试MNIST数据集.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PracticePY/test123.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode_GT/867 转置矩阵.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="605">
+          <caret line="33" column="36" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PracticePY/test789.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
         </state>
       </provider>
     </entry>

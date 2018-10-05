@@ -13,12 +13,15 @@ cList = []
 for i in range( len(pn) ):
     if pn[i] in pList:
         pord = ord(pn[i])
-        if ord(pn[i]) < (a_ord+23):
+        # newOrd = pord - a_ord
+        # x = chr(a_ord + (newOrd-3) % 26 )
+        # cList.append( x )
+        if ord(pn[i]) < (a_ord+26-3):
             cord = (pord+3)
             x = chr( cord )
             cList.append( x )
         else:
-            cord = (pord-23)
+            cord = (pord-26) % 36
             x = chr( cord )
             cList.append( x )
     else:

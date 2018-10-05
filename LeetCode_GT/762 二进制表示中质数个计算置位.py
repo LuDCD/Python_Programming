@@ -33,8 +33,6 @@ R - L 的最大值为 10000。
 @author: ZHOU Heng
 """
 
-import math
-from ctypes import *
 
 class Solution:
     def countPrimeSetBits(self, L, R):
@@ -46,8 +44,7 @@ class Solution:
         numPrime = 0
         for i in range( L, R+1 ):
             s = bin( i )
-            nList = [ s[i] for i in range( 2, len(s) )  if s[i] != '0' ]    # 把所有 1 存在列表里
-            if self.isPrime( len(nList) ):
+            if self.isPrime( s.count('1') ):
                 numPrime += 1
 
         return numPrime
@@ -58,7 +55,7 @@ class Solution:
         if num in [2, 3, 5]:
             flag = 1
         else:
-            for i in range(2, int( math.sqrt(num)+1 ) ):
+            for i in range(2, int( num**0.5+1 ) ):
                 flag = 1
                 if num % i == 0:
                     flag = 0
@@ -76,7 +73,3 @@ def test():
 
 if __name__ == "__main__":
     test()
-'''
-测试说，超时了。暂无思路。
-https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation/description/
-'''

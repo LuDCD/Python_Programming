@@ -2,7 +2,7 @@
 # -*- coding:utf8 -*-
 
 """
-这是我的Pythonl练习文件夹
+这是我的Python练习文件夹
 
 @author: ZHOU heng
 """

@@ -17,9 +17,11 @@
 # a[0] = 2
 # print("a:{}\nb:{}".format(a,b))
 
-from skimage import io
-import matplotlib.pyplot as plt
+# from skimage import io
+# import matplotlib.pyplot as plt
+#
+# img = io.imread("./053cat_500_600.jpg")
+# io.imshow(img)
+# plt.show()
 
-img = io.imread("./053cat_500_600.jpg")
-io.imshow(img)
-plt.show()
+import tensorflow.contrib.slim as slim

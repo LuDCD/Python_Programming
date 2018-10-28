@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a70dec5c-c084-463e-9c94-db65365afe49" name="Default" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/PracticePY/Train.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PracticePY/test123.py" beforeDir="false" afterPath="$PROJECT_DIR$/PracticePY/test123.py" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticePY/test456.py" beforeDir="false" afterPath="$PROJECT_DIR$/PracticePY/test456.py" afterDir="false" />
+>>>>>>> 73a2d5b2e766de1473c47361aae1a0bbd204ae0b
       <change beforePath="$PROJECT_DIR$/PracticePY/test789.py" beforeDir="false" afterPath="$PROJECT_DIR$/PracticePY/test789.py" afterDir="false" />
     </list>
     <ignored path="Programming.iws" />
@@ -134,11 +139,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
       <file leaf-file-name="test123.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PracticePY/test123.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="406">
               <caret line="31" selection-start-line="31" selection-end-line="31" />
+=======
+      <file leaf-file-name="test123.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PracticePY/test123.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+>>>>>>> 73a2d5b2e766de1473c47361aae1a0bbd204ae0b
             </state>
           </provider>
         </entry>
@@ -146,11 +159,16 @@
       <file leaf-file-name="test456.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PracticePY/test456.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="594">
               <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
               <folding>
                 <element signature="e#45#76#0" expanded="true" />
               </folding>
+=======
+            <state relative-caret-position="96">
+              <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+>>>>>>> 73a2d5b2e766de1473c47361aae1a0bbd204ae0b
             </state>
           </provider>
         </entry>
@@ -158,15 +176,61 @@
       <file leaf-file-name="test789.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PracticePY/test789.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="385">
               <caret line="30" column="10" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
               <folding>
                 <element signature="e#382#401#0" expanded="true" />
+=======
+            <state relative-caret-position="312">
+              <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="4-tensorflow-gpu测试代码.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tensorFlow_GT/zhengZY_book/4-tensorflow-gpu测试代码.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="364">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mnist_backward.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tensorFlow_GT/mnist_demo/mnist_backward.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1008">
+              <caret line="45" column="25" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
+              <folding>
+                <element signature="e#91#114#0" expanded="true" />
+>>>>>>> 73a2d5b2e766de1473c47361aae1a0bbd204ae0b
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
+=======
+      <file leaf-file-name="mnist_lenet5_backward.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tensorFlow_GT/mnist_demo/mnist_lenet5/mnist_lenet5_backward.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mnist_test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tensorFlow_GT/mnist_demo/mnist_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+>>>>>>> 73a2d5b2e766de1473c47361aae1a0bbd204ae0b
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -183,16 +247,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LeetCode_GT/367 有效的完全平方数.py" />
-        <option value="$PROJECT_DIR$/LeetCode_GT/540 有序数组中的单一元素.py" />
-        <option value="$PROJECT_DIR$/LeetCode_GT/118 杨辉三角.py" />
-        <option value="$PROJECT_DIR$/LeetCode_GT/762 二进制表示中质数个计算置位.py" />
-        <option value="$PROJECT_DIR$/TensorFlow_GT/LinJH_book/第一章/实例1.py" />
-        <option value="$PROJECT_DIR$/LeetCode_GT/744 寻找比目标字母大的最小字母.py" />
-        <option value="$PROJECT_DIR$/LeetCode_GT/415 字符串相加.py" />
-        <option value="$PROJECT_DIR$/PracticePY/埃拉托斯特尼筛法找质数.py" />
-        <option value="$PROJECT_DIR$/LeetCode_GT/504 七进制数.py" />
-        <option value="$PROJECT_DIR$/PracticePY/百度AIP.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/12 整数转罗马数字.py" />
         <option value="$PROJECT_DIR$/Machine Learning A-Z Chinese Template Folder/Part 1 - Data Preprocessing/Section 2 -------------------- Part 1 - Data Preprocessing --------------------/Data_Preprocessing/categorical_data.py" />
         <option value="$PROJECT_DIR$/Machine Learning A-Z Chinese Template Folder/Part 1 - Data Preprocessing/Section-2 Part 1 - Data Preprocessing/Data_Preprocessing/categorical_data.py" />
@@ -228,12 +282,27 @@
         <option value="$PROJECT_DIR$/LeetCode_GT/3 无重复字符的最长子串.py" />
         <option value="$PROJECT_DIR$/TensorFlow_GT/03损失函数-MSE.py" />
         <option value="$PROJECT_DIR$/PracticePY/README.py" />
-        <option value="$PROJECT_DIR$/PracticePY/test456.py" />
         <option value="$PROJECT_DIR$/TensorFlow_GT/07图像数据处理.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/867 转置矩阵.py" />
         <option value="$PROJECT_DIR$/PracticePY/TEST-github.py" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/PracticePY/test789.py" />
         <option value="$PROJECT_DIR$/PracticePY/test123.py" />
+=======
+        <option value="$PROJECT_DIR$/PracticePY/test123.py" />
+        <option value="$PROJECT_DIR$/TensorFlow_GT/mnist_demo/mnist_lenet5/mnist_lenet5_test.py" />
+        <option value="$PROJECT_DIR$/TensorFlow_GT/zhengZY_book/RNN_forward_demo.py" />
+        <option value="$PROJECT_DIR$/TensorFlow_GT/zhengZY_book/2-RNN_forward_demo.py" />
+        <option value="$PROJECT_DIR$/PracticePY/collections模块.py" />
+        <option value="$PROJECT_DIR$/PracticePY/test456.py" />
+        <option value="$PROJECT_DIR$/TensorFlow_GT/mnist_demo/mnist_lenet5/mnist_lenet5_backward.py" />
+        <option value="$PROJECT_DIR$/TensorFlow_GT/zhengZY_book/1-TensorFlow图像预处理.py" />
+        <option value="$PROJECT_DIR$/TensorFlow_GT/zhengZY_book/3-查看运行每一个运算的设备.py" />
+        <option value="$PROJECT_DIR$/TensorFlow_GT/LiJH_book/README.py" />
+        <option value="$PROJECT_DIR$/TensorFlow_GT/LiJH_book/4-线性回归的TensorBoard可视化.py" />
+        <option value="$PROJECT_DIR$/PracticePY/test789.py" />
+        <option value="$PROJECT_DIR$/TensorFlow_GT/zhengZY_book/4-tensorflow-gpu测试代码.py" />
+>>>>>>> 73a2d5b2e766de1473c47361aae1a0bbd204ae0b
       </list>
     </option>
   </component>
@@ -246,10 +315,10 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-82" />
-    <option name="y" value="15" />
-    <option name="width" value="1382" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="242" />
+    <option name="y" value="254" />
+    <option name="width" value="1607" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -263,7 +332,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -274,12 +342,19 @@
             <path>
               <item name="Programming" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Programming" type="462c0819:PsiDirectoryNode" />
-              <item name="PracticePY" type="462c0819:PsiDirectoryNode" />
+              <item name="tensorFlow_GT" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Programming" type="462c0819:PsiDirectoryNode" />
+              <item name="tensorFlow_GT" type="462c0819:PsiDirectoryNode" />
+              <item name="zhengZY_book" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -289,7 +364,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../code_python" />
     <property name="recentsLimit" value="5" />
     <property name="restartRequiresConfirmation" value="true" />
+<<<<<<< HEAD
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+=======
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+>>>>>>> 73a2d5b2e766de1473c47361aae1a0bbd204ae0b
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -318,7 +397,11 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.test123">
+=======
+  <component name="RunManager" selected="Python.4-8  线性回归的tensorboard可视化">
+>>>>>>> 73a2d5b2e766de1473c47361aae1a0bbd204ae0b
     <configuration name="07图像数据处理" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -338,7 +421,11 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="3 无重复字符的最长子串" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="1-TensorFlow图像预处理" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 73a2d5b2e766de1473c47361aae1a0bbd204ae0b
       <module name="Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -346,18 +433,30 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode_GT" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TensorFlow_GT/zhengZY_book" />
+>>>>>>> 73a2d5b2e766de1473c47361aae1a0bbd204ae0b
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode_GT/3 无重复字符的最长子串.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TensorFlow_GT/zhengZY_book/1-TensorFlow图像预处理.py" />
+>>>>>>> 73a2d5b2e766de1473c47361aae1a0bbd204ae0b
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="867 转置矩阵" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="3-查看运行每一个运算的设备" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 73a2d5b2e766de1473c47361aae1a0bbd204ae0b
       <module name="Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -365,18 +464,26 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode_GT" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TensorFlow_GT/zhengZY_book" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode_GT/867 转置矩阵.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TensorFlow_GT/zhengZY_book/3-查看运行每一个运算的设备.py" />
+>>>>>>> 73a2d5b2e766de1473c47361aae1a0bbd204ae0b
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+<<<<<<< HEAD
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+=======
+    <configuration name="4-8  线性回归的tensorboard可视化" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 73a2d5b2e766de1473c47361aae1a0bbd204ae0b
       <module name="Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -384,12 +491,20 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../t/代码" />
+>>>>>>> 73a2d5b2e766de1473c47361aae1a0bbd204ae0b
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../t/代码/4-8  线性回归的tensorboard可视化.py" />
+>>>>>>> 73a2d5b2e766de1473c47361aae1a0bbd204ae0b
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -414,7 +529,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="test456" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="mnist_lenet5_backward" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -422,18 +537,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PracticePY" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TensorFlow_GT/mnist_demo/mnist_lenet5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PracticePY/test456.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TensorFlow_GT/mnist_demo/mnist_lenet5/mnist_lenet5_backward.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="test789" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="mnist_lenet5_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -441,12 +556,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PracticePY" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TensorFlow_GT/mnist_demo/mnist_lenet5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PracticePY/test789.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TensorFlow_GT/mnist_demo/mnist_lenet5/mnist_lenet5_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -622,6 +737,7 @@
       <pass-parent-envs>true</pass-parent-envs>
     </configuration>
     <list>
+<<<<<<< HEAD
       <item itemvalue="Python.test456" />
       <item itemvalue="Python.3 无重复字符的最长子串" />
       <item itemvalue="Python.test789" />
@@ -635,9 +751,25 @@
         <item itemvalue="Python.test456" />
         <item itemvalue="Python.867 转置矩阵" />
         <item itemvalue="Python.3 无重复字符的最长子串" />
+=======
+      <item itemvalue="Python.mnist_lenet5_test" />
+      <item itemvalue="Python.mnist_lenet5_backward" />
+      <item itemvalue="Python.1-TensorFlow图像预处理" />
+      <item itemvalue="Python.3-查看运行每一个运算的设备" />
+      <item itemvalue="Python.4-8  线性回归的tensorboard可视化" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.4-8  线性回归的tensorboard可视化" />
+        <item itemvalue="Python.3-查看运行每一个运算的设备" />
+        <item itemvalue="Python.1-TensorFlow图像预处理" />
+        <item itemvalue="Python.mnist_lenet5_test" />
+        <item itemvalue="Python.mnist_lenet5_backward" />
+>>>>>>> 73a2d5b2e766de1473c47361aae1a0bbd204ae0b
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="1" BundledDictionary0="english.dic" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="project-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -996,20 +1128,33 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
+=======
+    <frame x="242" y="254" width="1607" height="744" extended-state="0" />
+>>>>>>> 73a2d5b2e766de1473c47361aae1a0bbd204ae0b
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.24566929" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Python Console" order="9" weight="0.32913387" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5014641" side_tool="true" weight="0.3968504" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.32913387" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17569546" />
       <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" x="0" y="22" width="1366" height="706" id="SciView" order="3" type="WINDOWED" weight="0.3557833" />
+=======
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5014641" side_tool="true" weight="0.28934819" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32913387" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18290384" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" x="480" y="196" width="868" height="542" id="SciView" order="3" type="WINDOWED" weight="0.3557833" />
+>>>>>>> 73a2d5b2e766de1473c47361aae1a0bbd204ae0b
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49853587" weight="0.27401575" />
@@ -1029,27 +1174,46 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+<<<<<<< HEAD
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21449487" />
+=======
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15885417" />
+>>>>>>> 73a2d5b2e766de1473c47361aae1a0bbd204ae0b
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.81551975" side_tool="true" visible="true" weight="0.32125986" />
       <window_info anchor="bottom" id="Application Servers" order="14" />
+=======
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5014641" side_tool="true" weight="0.39744952" />
+      <window_info anchor="bottom" id="Python Console" order="9" weight="0.32913387" />
+      <window_info anchor="bottom" id="Message" order="0" />
+>>>>>>> 73a2d5b2e766de1473c47361aae1a0bbd204ae0b
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.18448023" weight="0.32755905" />
       <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="5" side_tool="true" weight="0.32503662" />
       <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="bottom" id="Terminal" order="12" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49926794" weight="0.27401575" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32913387" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49853587" weight="0.27401575" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.24566929" />
+<<<<<<< HEAD
       <window_info anchor="right" x="75" y="40" width="1215" height="647" id="SciView" order="3" type="WINDOWED" weight="0.3557833" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Messages" order="8" weight="0.32861635" />
       <window_info anchor="bottom" id="Python Console" order="9" weight="0.32913387" />
+=======
+      <window_info anchor="right" x="480" y="196" width="868" height="462" id="SciView" order="3" type="WINDOWED" weight="0.3557833" />
+      <window_info anchor="bottom" id="Application Servers" order="15" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32861635" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="14" sideWeight="0.49853587" visible="true" weight="0.32913387" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+>>>>>>> 73a2d5b2e766de1473c47361aae1a0bbd204ae0b
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1104,10 +1268,11 @@
           <properties exception="BaseException" />
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="19" />
+      <option name="time" value="20" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/PracticePY/test789.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="704">
@@ -1173,27 +1338,30 @@
     <entry file="file://$PROJECT_DIR$/TensorFlow_GT/mnist_demo/mnist_forward.py" />
     <entry file="file://$PROJECT_DIR$/TensorFlow_GT/mnist_demo/mnist_app.py" />
     <entry file="file://$PROJECT_DIR$/LeetCode_GT/202 快乐数.py">
+=======
+    <entry file="file://$PROJECT_DIR$/PracticePY/test123.py">
+>>>>>>> 73a2d5b2e766de1473c47361aae1a0bbd204ae0b
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="192">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/快乐的数字.py" />
-    <entry file="file://$PROJECT_DIR$/LeetCode_GT/1 两数之和.py">
+    <entry file="file://$PROJECT_DIR$/PracticePY/test456.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="49" selection-start-line="49" selection-end-line="61" selection-end-column="10" />
+        <state relative-caret-position="96">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/阶乘累计求和.py">
+    <entry file="file://$PROJECT_DIR$/PracticePY/test789.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="20" />
+        <state relative-caret-position="312">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/TensorFlow_GT/mnist_demo/mnist_generateds.py" />
     <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/百分制到五级制的转换.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -1203,70 +1371,60 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/斐波那契数列计算 B.py">
+=======
+    <entry file="file://$PROJECT_DIR$/tensorFlow_GT/mnist_demo/mnist_backward.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="34" column="28" selection-end-line="46" selection-end-column="10" />
+        <state relative-caret-position="1008">
+          <caret line="45" column="25" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
+          <folding>
+            <element signature="e#91#114#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/站队顺序输出.py">
+    <entry file="file://$PROJECT_DIR$/tensorFlow_GT/mnist_demo/mnist_lenet5/mnist_lenet5_backward.py">
+>>>>>>> 73a2d5b2e766de1473c47361aae1a0bbd204ae0b
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        <state relative-caret-position="528">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/恺撒密码1.py">
+    <entry file="file://$PROJECT_DIR$/tensorFlow_GT/mnist_demo/mnist_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+        <state relative-caret-position="24">
+          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode_GT/633 平方数之和.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="26" column="25" lean-forward="true" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode_GT/724 寻找数组的中心索引.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="40" column="22" lean-forward="true" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode_GT/709 转换成小写字母.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode_GT/3 无重复字符的最长子串.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/TensorFlow_GT/03损失函数-MSE.py" />
     <entry file="file://$PROJECT_DIR$/TensorFlow_GT/05模块化神经网络搭建.py" />
     <entry file="file://$PROJECT_DIR$/PracticePY/README.py">
+=======
+    <entry file="file://$PROJECT_DIR$/tensorFlow_GT/zhengZY_book/4-tensorflow-gpu测试代码.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-88">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="552">
+          <caret line="23" column="43" lean-forward="true" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/PracticePY/test123.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PracticePY/test456.py">
+>>>>>>> 73a2d5b2e766de1473c47361aae1a0bbd204ae0b
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/TensorFlow_GT/07图像数据处理.py" />
     <entry file="file://$PROJECT_DIR$/TensorFlow_GT/06测试MNIST数据集.py" />
     <entry file="file://$PROJECT_DIR$/LeetCode_GT/867 转置矩阵.py">
@@ -1281,12 +1439,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
           <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
+=======
+    <entry file="file://$PROJECT_DIR$/PracticePY/test789.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorFlow_GT/mnist_demo/mnist_backward.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="45" column="25" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
+>>>>>>> 73a2d5b2e766de1473c47361aae1a0bbd204ae0b
           <folding>
-            <element signature="e#45#76#0" expanded="true" />
+            <element signature="e#91#114#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/PracticePY/test789.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="385">
@@ -1301,6 +1473,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="406">
           <caret line="31" selection-start-line="31" selection-end-line="31" />
+=======
+    <entry file="file://$PROJECT_DIR$/tensorFlow_GT/mnist_demo/mnist_lenet5/mnist_lenet5_backward.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorFlow_GT/mnist_demo/mnist_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorFlow_GT/zhengZY_book/4-tensorflow-gpu测试代码.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+>>>>>>> 73a2d5b2e766de1473c47361aae1a0bbd204ae0b
         </state>
       </provider>
     </entry>

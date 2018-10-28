@@ -10,7 +10,7 @@
 # for i in range(0,testNum):
 #     print(i)
 #
-
+#
 #
 # a = [1,2,3,4]
 # b = a
@@ -23,6 +23,7 @@
 # img = io.imread("./053cat_500_600.jpg")
 # io.imshow(img)
 # plt.show()
+<<<<<<< HEAD
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -31,3 +32,7 @@ df= pd.read_csv('Train.csv')
 #df.head()
 a = df.describe()
 print(df.describe())
+=======
+
+import tensorflow.contrib.slim as slim
+>>>>>>> 73a2d5b2e766de1473c47361aae1a0bbd204ae0b

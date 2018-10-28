@@ -1,16 +1,24 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
+#coding=utf-8
+import urllib
 
-import os
+import re
+def getHtml(url):
+    page = urllib.urlopen(url)
+    #打开网址 html = page.read()
+    # #读取网页内容，保存到htlm中
 
+    return html
 
-def file_name(file_dir):
-    for root, dirs, files in os.walk(file_dir):
-        print(root)  # 当前目录路径
-        print(dirs)  # 当前路径下所有子目录
-        print(files)  # 当前路径下所有非目录子文件
+def getImg(html):
+    reg = r'src="(.+?\.jpg)" pic_ext'#正则表达式
+    imgre = re.compile(reg) #把正则表达式编译成一个正则表达式对象.
+    imglist = re.findall(imgre,html)#读取html 中包含 imgre（正则表达式）的数据
+    x = 0
+    for imgurl in imglist:
+        urllib.urlretrieve(imgurl,'%s.jpg' % x)#直接将远程数据下载到本地
+        x+=1
+        html = getHtml("http://tieba.baidu.com/p/2460150866")
+        print(getImg(html))
 
-
-if __name__ == "__main__":
-    file_dir = os.getcwd()
-    print(os.listdir(file_dir), file_dir)

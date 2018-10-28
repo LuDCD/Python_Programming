@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a70dec5c-c084-463e-9c94-db65365afe49" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/PracticePY/Python爬取网页中的图片（搜狗图片）详解.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticePY/test456.py" beforeDir="false" afterPath="$PROJECT_DIR$/PracticePY/test456.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIT_MOOC-Python/1threekingdoms.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BIT_MOOC-Python/1threekingdoms.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticePY/test123.py" beforeDir="false" afterPath="$PROJECT_DIR$/PracticePY/test123.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PracticePY/test789.py" beforeDir="false" afterPath="$PROJECT_DIR$/PracticePY/test789.py" afterDir="false" />
     </list>
     <ignored path="Programming.iws" />
@@ -136,8 +138,8 @@
       <file leaf-file-name="test123.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PracticePY/test123.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+            <state relative-caret-position="120">
+              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -154,47 +156,32 @@
       <file leaf-file-name="test789.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PracticePY/test789.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="4-tensorflow-gpu测试代码.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tensorFlow_GT/zhengZY_book/4-tensorflow-gpu测试代码.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mnist_backward.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tensorFlow_GT/mnist_demo/mnist_backward.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1008">
-              <caret line="45" column="25" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
+            <state relative-caret-position="792">
+              <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
               <folding>
-                <element signature="e#91#114#0" expanded="true" />
+                <element signature="e#384#422#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mnist_lenet5_backward.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tensorFlow_GT/mnist_demo/mnist_lenet5/mnist_lenet5_backward.py">
+      <file leaf-file-name="053爬虫_批量下载图片.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PracticePY/053爬虫_批量下载图片.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="531">
+              <caret line="65" column="19" selection-start-line="65" selection-start-column="19" selection-end-line="65" selection-end-column="27" />
+              <folding>
+                <element signature="e#42#51#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mnist_test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tensorFlow_GT/mnist_demo/mnist_test.py">
+      <file leaf-file-name="统计词频.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/统计词频.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24">
-              <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+            <state relative-caret-position="421">
+              <caret line="51" selection-start-line="51" selection-end-line="51" />
             </state>
           </provider>
         </entry>
@@ -215,8 +202,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LeetCode_GT/12 整数转罗马数字.py" />
-        <option value="$PROJECT_DIR$/Machine Learning A-Z Chinese Template Folder/Part 1 - Data Preprocessing/Section 2 -------------------- Part 1 - Data Preprocessing --------------------/Data_Preprocessing/categorical_data.py" />
         <option value="$PROJECT_DIR$/Machine Learning A-Z Chinese Template Folder/Part 1 - Data Preprocessing/Section-2 Part 1 - Data Preprocessing/Data_Preprocessing/categorical_data.py" />
         <option value="$PROJECT_DIR$/BOOK-MLinActionGTpy36/决策树/treesGT.py" />
         <option value="$PROJECT_DIR$/TensorFlow_GT/00张量tensor.py" />
@@ -253,7 +238,6 @@
         <option value="$PROJECT_DIR$/TensorFlow_GT/07图像数据处理.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/867 转置矩阵.py" />
         <option value="$PROJECT_DIR$/PracticePY/TEST-github.py" />
-        <option value="$PROJECT_DIR$/PracticePY/test123.py" />
         <option value="$PROJECT_DIR$/TensorFlow_GT/mnist_demo/mnist_lenet5/mnist_lenet5_test.py" />
         <option value="$PROJECT_DIR$/TensorFlow_GT/zhengZY_book/RNN_forward_demo.py" />
         <option value="$PROJECT_DIR$/TensorFlow_GT/zhengZY_book/2-RNN_forward_demo.py" />
@@ -264,8 +248,11 @@
         <option value="$PROJECT_DIR$/TensorFlow_GT/zhengZY_book/3-查看运行每一个运算的设备.py" />
         <option value="$PROJECT_DIR$/TensorFlow_GT/LiJH_book/README.py" />
         <option value="$PROJECT_DIR$/TensorFlow_GT/LiJH_book/4-线性回归的TensorBoard可视化.py" />
-        <option value="$PROJECT_DIR$/PracticePY/test789.py" />
         <option value="$PROJECT_DIR$/TensorFlow_GT/zhengZY_book/4-tensorflow-gpu测试代码.py" />
+        <option value="$PROJECT_DIR$/PracticePY/test789.py" />
+        <option value="$PROJECT_DIR$/PracticePY/test123.py" />
+        <option value="$PROJECT_DIR$/PracticePY/053爬虫_批量下载图片.py" />
+        <option value="$PROJECT_DIR$/PracticePY/Python爬取网页中的图片（搜狗图片）详解.py" />
       </list>
     </option>
   </component>
@@ -276,13 +263,11 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodePackageJsonFileManager">
-    <packageJsonPaths>
-      <path value="$PROJECT_DIR$/FromGithub/tensorflow_models/research/syntaxnet/dragnn/viz/package.json" />
-    </packageJsonPaths>
+    <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="242" />
-    <option name="y" value="254" />
+    <option name="x" value="167" />
+    <option name="y" value="234" />
     <option name="width" value="1607" />
     <option name="height" value="744" />
   </component>
@@ -307,13 +292,7 @@
             <path>
               <item name="Programming" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Programming" type="462c0819:PsiDirectoryNode" />
-              <item name="tensorFlow_GT" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_Programming" type="462c0819:PsiDirectoryNode" />
-              <item name="tensorFlow_GT" type="462c0819:PsiDirectoryNode" />
-              <item name="zhengZY_book" type="462c0819:PsiDirectoryNode" />
+              <item name="BIT_MOOC-Python" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -326,7 +305,7 @@
     <property name="FullScreen" value="false" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/zhouheng/Programming/Python/Programming/LeetCode_GT/485 最大连续1的个数.py" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="recentsLimit" value="5" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -358,7 +337,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.4-8  线性回归的tensorboard可视化">
+  <component name="RunManager" selected="Python.053爬虫_批量下载图片">
+    <configuration name="053爬虫_批量下载图片" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PracticePY" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PracticePY/053爬虫_批量下载图片.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="07图像数据处理" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -454,7 +452,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="mnist_lenet5_backward" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test789" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -462,31 +460,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TensorFlow_GT/mnist_demo/mnist_lenet5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PracticePY" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TensorFlow_GT/mnist_demo/mnist_lenet5/mnist_lenet5_backward.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="mnist_lenet5_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Programming" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TensorFlow_GT/mnist_demo/mnist_lenet5" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TensorFlow_GT/mnist_demo/mnist_lenet5/mnist_lenet5_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PracticePY/test789.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -662,19 +641,19 @@
       <pass-parent-envs>true</pass-parent-envs>
     </configuration>
     <list>
-      <item itemvalue="Python.mnist_lenet5_test" />
-      <item itemvalue="Python.mnist_lenet5_backward" />
       <item itemvalue="Python.1-TensorFlow图像预处理" />
       <item itemvalue="Python.3-查看运行每一个运算的设备" />
       <item itemvalue="Python.4-8  线性回归的tensorboard可视化" />
+      <item itemvalue="Python.test789" />
+      <item itemvalue="Python.053爬虫_批量下载图片" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.053爬虫_批量下载图片" />
+        <item itemvalue="Python.test789" />
         <item itemvalue="Python.4-8  线性回归的tensorboard可视化" />
         <item itemvalue="Python.3-查看运行每一个运算的设备" />
         <item itemvalue="Python.1-TensorFlow图像预处理" />
-        <item itemvalue="Python.mnist_lenet5_test" />
-        <item itemvalue="Python.mnist_lenet5_backward" />
       </list>
     </recent_temporary>
   </component>
@@ -1037,22 +1016,22 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="242" y="254" width="1607" height="744" extended-state="0" />
+    <frame x="167" y="234" width="1607" height="744" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.24566929" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5014641" side_tool="true" weight="0.8298887" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Python Console" order="9" weight="0.32913387" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5014641" side_tool="true" weight="0.28934819" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.32913387" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18290384" />
       <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" x="480" y="196" width="868" height="542" id="SciView" order="3" type="WINDOWED" weight="0.3557833" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49853587" weight="0.27401575" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -1151,6 +1130,108 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/PracticePY/test123.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PracticePY/test456.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PracticePY/test789.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+          <folding>
+            <element signature="e#384#422#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PracticePY/053爬虫_批量下载图片.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1512">
+          <caret line="65" column="19" selection-start-line="65" selection-start-column="19" selection-end-line="65" selection-end-column="27" />
+          <folding>
+            <element signature="e#42#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PracticePY/053爬虫_下载图片.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PracticePY/Python爬取网页中的图片（搜狗图片）详解.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="56" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="56" />
+          <folding>
+            <element signature="e#89#104#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PracticePY/test123.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PracticePY/test456.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PracticePY/test789.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+          <folding>
+            <element signature="e#384#422#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PracticePY/053爬虫_批量下载图片.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1512">
+          <caret line="65" column="19" selection-start-line="65" selection-start-column="19" selection-end-line="65" selection-end-column="27" />
+          <folding>
+            <element signature="e#42#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PracticePY/053爬虫_下载图片.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PracticePY/Python爬取网页中的图片（搜狗图片）详解.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="56" lean-forward="true" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="56" />
+          <folding>
+            <element signature="e#89#104#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PracticePY/test123.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
         </state>
@@ -1165,39 +1246,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PracticePY/test789.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorFlow_GT/mnist_demo/mnist_backward.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1008">
-          <caret line="45" column="25" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
+        <state relative-caret-position="456">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
           <folding>
-            <element signature="e#91#114#0" expanded="true" />
+            <element signature="e#384#422#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorFlow_GT/mnist_demo/mnist_lenet5/mnist_lenet5_backward.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorFlow_GT/mnist_demo/mnist_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorFlow_GT/zhengZY_book/4-tensorflow-gpu测试代码.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="23" column="43" lean-forward="true" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
         </state>
       </provider>
     </entry>
@@ -1222,34 +1275,110 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tensorFlow_GT/mnist_demo/mnist_backward.py">
+    <entry file="file://$PROJECT_DIR$/tensorFlow_GT/mnist_demo/mnist_backward.py" />
+    <entry file="file://$PROJECT_DIR$/tensorFlow_GT/mnist_demo/mnist_lenet5/mnist_lenet5_backward.py" />
+    <entry file="file://$PROJECT_DIR$/tensorFlow_GT/mnist_demo/mnist_test.py" />
+    <entry file="file://$PROJECT_DIR$/tensorFlow_GT/zhengZY_book/4-tensorflow-gpu测试代码.py" />
+    <entry file="file://$PROJECT_DIR$/PracticePY/test123.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1008">
-          <caret line="45" column="25" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
+        <state relative-caret-position="192">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PracticePY/test456.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PracticePY/test789.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorFlow_GT/mnist_demo/mnist_backward.py" />
+    <entry file="file://$PROJECT_DIR$/tensorFlow_GT/mnist_demo/mnist_lenet5/mnist_lenet5_backward.py" />
+    <entry file="file://$PROJECT_DIR$/tensorFlow_GT/mnist_demo/mnist_test.py" />
+    <entry file="file://$PROJECT_DIR$/tensorFlow_GT/zhengZY_book/4-tensorflow-gpu测试代码.py" />
+    <entry file="file://$PROJECT_DIR$/tensorFlow_GT/mnist_demo/mnist_backward.py" />
+    <entry file="file://$PROJECT_DIR$/tensorFlow_GT/mnist_demo/mnist_lenet5/mnist_lenet5_backward.py" />
+    <entry file="file://$PROJECT_DIR$/tensorFlow_GT/mnist_demo/mnist_test.py" />
+    <entry file="file://$PROJECT_DIR$/tensorFlow_GT/zhengZY_book/4-tensorflow-gpu测试代码.py" />
+    <entry file="file://$PROJECT_DIR$/PracticePY/test789.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
           <folding>
-            <element signature="e#91#114#0" expanded="true" />
+            <element signature="e#384#422#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tensorFlow_GT/mnist_demo/mnist_lenet5/mnist_lenet5_backward.py">
+    <entry file="file://$PROJECT_DIR$/PracticePY/test123.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="120">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tensorFlow_GT/mnist_demo/mnist_test.py">
+    <entry file="file://$PROJECT_DIR$/PracticePY/test456.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/2 十九大词云.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-74">
+          <folding>
+            <element signature="e#101#113#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/2 哈姆雷特词云.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
-          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tensorFlow_GT/zhengZY_book/4-tensorflow-gpu测试代码.py">
+    <entry file="file://$PROJECT_DIR$/PracticePY/053爬虫_下载图片.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="432">
+          <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/统计词频.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PracticePY/Python爬取网页中的图片（搜狗图片）详解.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="24" column="56" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="56" />
+          <folding>
+            <element signature="e#89#104#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PracticePY/053爬虫_批量下载图片.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="65" column="19" selection-start-line="65" selection-start-column="19" selection-end-line="65" selection-end-column="27" />
+          <folding>
+            <element signature="e#42#51#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

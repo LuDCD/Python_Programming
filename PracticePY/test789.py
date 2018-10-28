@@ -17,9 +17,17 @@
 # a[0] = 2
 # print("a:{}\nb:{}".format(a,b))
 
-from skimage import io
+# from skimage import io
+# import matplotlib.pyplot as plt
+#
+# img = io.imread("./053cat_500_600.jpg")
+# io.imshow(img)
+# plt.show()
+import pandas as pd
+import numpy as np
 import matplotlib.pyplot as plt
-
-img = io.imread("./053cat_500_600.jpg")
-io.imshow(img)
-plt.show()
+# import seaborn as sns
+df= pd.read_csv('Train.csv')
+#df.head()
+a = df.describe()
+print(df.describe())

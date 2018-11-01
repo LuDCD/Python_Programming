@@ -266,8 +266,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="167" />
-    <option name="y" value="234" />
+    <option name="x" value="237" />
+    <option name="y" value="137" />
     <option name="width" value="1607" />
     <option name="height" value="744" />
   </component>
@@ -641,8 +641,8 @@
       <pass-parent-envs>true</pass-parent-envs>
     </configuration>
     <list>
+      <item itemvalue="Python.07图像数据处理" />
       <item itemvalue="Python.1-TensorFlow图像预处理" />
-      <item itemvalue="Python.3-查看运行每一个运算的设备" />
       <item itemvalue="Python.4-8  线性回归的tensorboard可视化" />
       <item itemvalue="Python.test789" />
       <item itemvalue="Python.053爬虫_批量下载图片" />
@@ -652,7 +652,6 @@
         <item itemvalue="Python.053爬虫_批量下载图片" />
         <item itemvalue="Python.test789" />
         <item itemvalue="Python.4-8  线性回归的tensorboard可视化" />
-        <item itemvalue="Python.3-查看运行每一个运算的设备" />
         <item itemvalue="Python.1-TensorFlow图像预处理" />
       </list>
     </recent_temporary>

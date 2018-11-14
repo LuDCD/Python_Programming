@@ -14,7 +14,7 @@
 def main():
     year = 20  # 年
     rate = 12 / 100  # 年化收益率
-    base = 1.2  # 本金，单位：万
+    base = 2.2  # 本金，单位：万
 
     money = 0
     for i in range(year):

@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a70dec5c-c084-463e-9c94-db65365afe49" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode_GT/929 独特的电子邮件地址.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode_GT/eree.py" afterDir="false" />
     </list>
     <ignored path="Programming.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -150,7 +149,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test789.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test789.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PracticePY/test789.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="594">
@@ -159,11 +158,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="929 独特的电子邮件地址.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="929 独特的电子邮件地址.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/LeetCode_GT/929 独特的电子邮件地址.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="44" column="23" lean-forward="true" selection-start-line="44" selection-start-column="23" selection-end-line="44" selection-end-column="23" />
+            <state relative-caret-position="138">
+              <caret line="45" column="32" lean-forward="true" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -184,7 +183,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/TensorFlow_GT/01前向传播-喂一组数据.py" />
         <option value="$PROJECT_DIR$/TensorFlow_GT/01前向传播.py" />
         <option value="$PROJECT_DIR$/TensorFlow_GT/01前行传播-喂一组数据.py" />
         <option value="$PROJECT_DIR$/TensorFlow_GT/01前向传播-喂多组数据.py" />
@@ -235,6 +233,7 @@
         <option value="$PROJECT_DIR$/LeetCode_GT/4 两个排序数组的中位数.py" />
         <option value="$PROJECT_DIR$/PracticePY/财务自由.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/929 独特的电子邮件地址.py" />
+        <option value="$PROJECT_DIR$/LeetCode_GT/eree.py" />
       </list>
     </option>
   </component>
@@ -1226,13 +1225,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode_GT/4 两个排序数组的中位数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1536">
-          <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PracticePY/test123.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -1507,17 +1499,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode_GT/929 独特的电子邮件地址.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="44" column="23" lean-forward="true" selection-start-line="44" selection-start-column="23" selection-end-line="44" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PracticePY/test789.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
           <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode_GT/eree.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode_GT/929 独特的电子邮件地址.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="45" column="32" lean-forward="true" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="32" />
         </state>
       </provider>
     </entry>

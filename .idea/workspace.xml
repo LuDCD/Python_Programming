@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a70dec5c-c084-463e-9c94-db65365afe49" name="Default" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/LeetCode_GT/eree.py" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/LeetCode_GT/905 按奇偶排序数组.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> 6de84a494067c0c41fd9794607067b585cc9dbea
     </list>
     <ignored path="Programming.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -15,111 +20,111 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Programming$811_.coverage" NAME="811 子域名访问计数 Coverage Results" MODIFIED="1523620625715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
-    <SUITE FILE_PATH="coverage/Programming$N.coverage" NAME="N的多次方 Coverage Results" MODIFIED="1523241911789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BIT_MOOC-Python" />
-    <SUITE FILE_PATH="coverage/Programming$26_.coverage" NAME="26 删除排序数组中的重复项 Coverage Results" MODIFIED="1523772419278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
-    <SUITE FILE_PATH="coverage/Programming$test456__1_.coverage" NAME="test456 (1) Coverage Results" MODIFIED="1523861292074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PracticePY" />
+    <SUITE FILE_PATH="coverage/Programming$520_.coverage" NAME="520 检测大写字母 Coverage Results" MODIFIED="1523871781119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
+    <SUITE FILE_PATH="coverage/Programming$.coverage" NAME="统计词频 Coverage Results" MODIFIED="1524035478630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BIT_MOOC-Python" />
+    <SUITE FILE_PATH="coverage/Programming$BIF.coverage" NAME="字符串的各种BIF Coverage Results" MODIFIED="1469851889537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Programming$file22listGT.coverage" NAME="file22listGT Coverage Results" MODIFIED="1523693409847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TOOLgt" />
+    <SUITE FILE_PATH="coverage/Programming$598__II.coverage" NAME="598 范围求和 II Coverage Results" MODIFIED="1524368178266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
+    <SUITE FILE_PATH="coverage/Programming$028_.coverage" NAME="028一个任务_改进版 Coverage Results" MODIFIED="1470028454465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Programming$788_.coverage" NAME="788 旋转数字 Coverage Results" MODIFIED="1524291720534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
+    <SUITE FILE_PATH="coverage/Programming$05.coverage" NAME="05模块化神经网络搭建 Coverage Results" MODIFIED="1529289100968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow_GT" />
+    <SUITE FILE_PATH="coverage/Programming$lambda.coverage" NAME="lambda表达式 Coverage Results" MODIFIED="1469883138216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Programming$n.coverage" NAME="寻找第n个默尼森数 Coverage Results" MODIFIED="1523248263130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BIT_MOOC-Python" />
+    <SUITE FILE_PATH="coverage/Programming$qq.coverage" NAME="qq Coverage Results" MODIFIED="1469437765943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Programming$pickle.coverage" NAME="pickle模块 Coverage Results" MODIFIED="1470036212151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Programming$str22listGT.coverage" NAME="str22listGT Coverage Results" MODIFIED="1523870371820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TOOLgt" />
+    <SUITE FILE_PATH="coverage/Programming$557__III.coverage" NAME="557 反转字符串中的单词 III Coverage Results" MODIFIED="1523540289562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
+    <SUITE FILE_PATH="coverage/Programming$2.coverage" NAME="列表2 Coverage Results" MODIFIED="1469614241928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Programming$766_.coverage" NAME="766 托普利茨矩阵 Coverage Results" MODIFIED="1523607203677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
+    <SUITE FILE_PATH="coverage/Programming$728_.coverage" NAME="728 自除数 Coverage Results" MODIFIED="1523539528068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
+    <SUITE FILE_PATH="coverage/Programming$136_.coverage" NAME="136 只出现一次的数字 Coverage Results" MODIFIED="1524116383112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
+    <SUITE FILE_PATH="coverage/Programming$796_.coverage" NAME="796 旋转字符串 Coverage Results" MODIFIED="1523938144020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
+    <SUITE FILE_PATH="coverage/Programming$696_.coverage" NAME="696 计数二进制子串 Coverage Results" MODIFIED="1523780599326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
+    <SUITE FILE_PATH="coverage/Programming$kNNGT.coverage" NAME="kNNGT Coverage Results" MODIFIED="1524302144695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOOK-MLinActionGTpy35/k-近邻算法" />
+    <SUITE FILE_PATH="coverage/Programming$806_.coverage" NAME="806 写字符串需要的行数 Coverage Results" MODIFIED="1523602272133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
+    <SUITE FILE_PATH="coverage/Programming$657_.coverage" NAME="657 判断路线成圈 Coverage Results" MODIFIED="1523537218904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
+    <SUITE FILE_PATH="coverage/Programming$menu.coverage" NAME="menu Coverage Results" MODIFIED="1477295683837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/parent_directory" />
+    <SUITE FILE_PATH="coverage/Programming$1.coverage" NAME="恺撒密码1 Coverage Results" MODIFIED="1522907444115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BIT_MOOC-Python" />
+    <SUITE FILE_PATH="coverage/Programming$258_.coverage" NAME="258 各位相加 Coverage Results" MODIFIED="1523676478231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
+    <SUITE FILE_PATH="coverage/Programming$771_.coverage" NAME="771 宝石与石头 Coverage Results" MODIFIED="1523528589702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
+    <SUITE FILE_PATH="coverage/Programming$PythonDraw.coverage" NAME="PythonDraw Coverage Results" MODIFIED="1522721003169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Programming$hanoi.coverage" NAME="hanoi Coverage Results" MODIFIED="1469931566358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Programming$for_demo.coverage" NAME="for_demo Coverage Results" MODIFIED="1470140051471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Programming$test.coverage" NAME="test Coverage Results" MODIFIED="1522573946485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Programming$test789.coverage" NAME="test789 Coverage Results" MODIFIED="1524389845418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PracticePY" />
     <SUITE FILE_PATH="coverage/Programming$isPrime.coverage" NAME="isPrime Coverage Results" MODIFIED="1523691815910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BIT_MOOC-Python" />
-    <SUITE FILE_PATH="coverage/Programming$349_.coverage" NAME="349 两个数组的交集 Coverage Results" MODIFIED="1523713113341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
-    <SUITE FILE_PATH="coverage/Programming$str22listGT.coverage" NAME="str22listGT Coverage Results" MODIFIED="1523870371820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TOOLgt" />
-    <SUITE FILE_PATH="coverage/Programming$factorial.coverage" NAME="factorial Coverage Results" MODIFIED="1523364360207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Programming$GUI_demo1.coverage" NAME="GUI编程入门_demo1 Coverage Results" MODIFIED="1470056961160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Programming$Requests.coverage" NAME="Requests库的使用 Coverage Results" MODIFIED="1523274978809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BIT_MOOC-Python" />
-    <SUITE FILE_PATH="coverage/Programming$Walden_.coverage" NAME="Walden_词频统计 Coverage Results" MODIFIED="1475317795176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Programming$QuickSort.coverage" NAME="QuickSort Coverage Results" MODIFIED="1523795523483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SortGT" />
-    <SUITE FILE_PATH="coverage/Programming$036.coverage" NAME="036类和对象 Coverage Results" MODIFIED="1470116874360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Programming$3_.coverage" NAME="3 无重复字符的最长子串 Coverage Results" MODIFIED="1537341623309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
-    <SUITE FILE_PATH="coverage/Programming$pickle.coverage" NAME="pickle模块 Coverage Results" MODIFIED="1470036212151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Programming$File2ListandList2File.coverage" NAME="File2ListandList2File Coverage Results" MODIFIED="1523691449098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BIT_MOOC-Python" />
+    <SUITE FILE_PATH="coverage/Programming$412_Fizz_Buzz.coverage" NAME="412 Fizz Buzz Coverage Results" MODIFIED="1523675895248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
+    <SUITE FILE_PATH="coverage/Programming$9_.coverage" NAME="9 回文数 Coverage Results" MODIFIED="1524371700913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
     <SUITE FILE_PATH="coverage/Programming$463_.coverage" NAME="463 岛屿的周长 Coverage Results" MODIFIED="1523600534157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
-    <SUITE FILE_PATH="coverage/Programming$053.coverage" NAME="053爬虫 Coverage Results" MODIFIED="1470287615655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Programming$test456.coverage" NAME="test456 Coverage Results" MODIFIED="1524369888338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PracticePY" />
-    <SUITE FILE_PATH="coverage/Programming$053__.coverage" NAME="053爬虫_隐藏_代理 Coverage Results" MODIFIED="1470296311470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Programming$lambda.coverage" NAME="lambda表达式 Coverage Results" MODIFIED="1469883138216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Programming$657_.coverage" NAME="657 判断路线成圈 Coverage Results" MODIFIED="1523537218904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
-    <SUITE FILE_PATH="coverage/Programming$test.coverage" NAME="test Coverage Results" MODIFIED="1522573946485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Programming$commend_option.coverage" NAME="commend_option Coverage Results" MODIFIED="1477209749528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/parent_directory" />
-    <SUITE FILE_PATH="coverage/Programming$028_.coverage" NAME="028一个任务_改进版 Coverage Results" MODIFIED="1470028454465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Programming$766_.coverage" NAME="766 托普利茨矩阵 Coverage Results" MODIFIED="1523607203677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
-    <SUITE FILE_PATH="coverage/Programming$OS.coverage" NAME="OS模块 Coverage Results" MODIFIED="1470029273974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Programming$336_.coverage" NAME="336 回文对 Coverage Results" MODIFIED="1523528230497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
-    <SUITE FILE_PATH="coverage/Programming$n.coverage" NAME="寻找第n个默尼森数 Coverage Results" MODIFIED="1523248263130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BIT_MOOC-Python" />
-    <SUITE FILE_PATH="coverage/Programming$.coverage" NAME="统计词频 Coverage Results" MODIFIED="1524035478630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BIT_MOOC-Python" />
-    <SUITE FILE_PATH="coverage/Programming$treesGT.coverage" NAME="treesGT Coverage Results" MODIFIED="1524554594885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOOK-MLinActionGTpy35/决策树" />
-    <SUITE FILE_PATH="coverage/Programming$27_.coverage" NAME="27 移除元素 Coverage Results" MODIFIED="1523769373831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
-    <SUITE FILE_PATH="coverage/Programming$566_.coverage" NAME="566 重塑矩阵 Coverage Results" MODIFIED="1523590490890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
-    <SUITE FILE_PATH="coverage/Programming$136_.coverage" NAME="136 只出现一次的数字 Coverage Results" MODIFIED="1524116383112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
-    <SUITE FILE_PATH="coverage/Programming$191_1.coverage" NAME="191 汉明重量（位1的个数） Coverage Results" MODIFIED="1524368666604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
-    <SUITE FILE_PATH="coverage/Programming$notebook.coverage" NAME="notebook Coverage Results" MODIFIED="1477208482664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/parent_directory" />
-    <SUITE FILE_PATH="coverage/Programming$alphabetListGT.coverage" NAME="alphabetListGT Coverage Results" MODIFIED="1523870673110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TOOLgt" />
-    <SUITE FILE_PATH="coverage/Programming$kNNGT.coverage" NAME="kNNGT Coverage Results" MODIFIED="1524302144695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOOK-MLinActionGTpy35/k-近邻算法" />
-    <SUITE FILE_PATH="coverage/Programming$kNNGT__1_.coverage" NAME="kNNGT (1) Coverage Results" MODIFIED="1524116389452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOOK-MLinActionGTpy35/k-近邻算法" />
-    <SUITE FILE_PATH="coverage/Programming$169_.coverage" NAME="169 求众数 Coverage Results" MODIFIED="1524019960882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
-    <SUITE FILE_PATH="coverage/Programming$1.coverage" NAME="恺撒密码1 Coverage Results" MODIFIED="1522907444115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BIT_MOOC-Python" />
-    <SUITE FILE_PATH="coverage/Programming$503__II.coverage" NAME="503 下一个更大元素 II Coverage Results" MODIFIED="1523765808674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
-    <SUITE FILE_PATH="coverage/Programming$useAPI.coverage" NAME="useAPI Coverage Results" MODIFIED="1524463478384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PracticePY" />
-    <SUITE FILE_PATH="coverage/Programming$520_.coverage" NAME="520 检测大写字母 Coverage Results" MODIFIED="1523871781119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
-    <SUITE FILE_PATH="coverage/Programming$561__I.coverage" NAME="561 数组拆分 I Coverage Results" MODIFIED="1523587999044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
-    <SUITE FILE_PATH="coverage/Programming$771_.coverage" NAME="771 宝石与石头 Coverage Results" MODIFIED="1523528589702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
-    <SUITE FILE_PATH="coverage/Programming$383_.coverage" NAME="383 赎金信 Coverage Results" MODIFIED="1524896762612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
-    <SUITE FILE_PATH="coverage/Programming$283_.coverage" NAME="283 移动零 Coverage Results" MODIFIED="1523685843246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
-    <SUITE FILE_PATH="coverage/Programming$Solving_maze.coverage" NAME="Solving_maze Coverage Results" MODIFIED="1479011512073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Maze" />
-    <SUITE FILE_PATH="coverage/Programming$575_.coverage" NAME="575 分糖果 Coverage Results" MODIFIED="1523591052748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
-    <SUITE FILE_PATH="coverage/Programming$PythonDraw.coverage" NAME="PythonDraw Coverage Results" MODIFIED="1522721003169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Programming$turtle.coverage" NAME="turtle同切圆绘制 Coverage Results" MODIFIED="1522810367715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BIT_MOOC-Python" />
+    <SUITE FILE_PATH="coverage/Programming$File2ListandList2File.coverage" NAME="File2ListandList2File Coverage Results" MODIFIED="1523691449098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BIT_MOOC-Python" />
     <SUITE FILE_PATH="coverage/Programming$GUI.coverage" NAME="GUI编程入门 Coverage Results" MODIFIED="1470055688000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Programming$557__III.coverage" NAME="557 反转字符串中的单词 III Coverage Results" MODIFIED="1523540289562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
-    <SUITE FILE_PATH="coverage/Programming$qq.coverage" NAME="qq Coverage Results" MODIFIED="1469437765943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Programming$commend_option.coverage" NAME="commend_option Coverage Results" MODIFIED="1477209749528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/parent_directory" />
+    <SUITE FILE_PATH="coverage/Programming$053__.coverage" NAME="053爬虫_隐藏_代理 Coverage Results" MODIFIED="1470296311470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Programming$389_.coverage" NAME="389 找不同 Coverage Results" MODIFIED="1523872273526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
+    <SUITE FILE_PATH="coverage/Programming$503__II.coverage" NAME="503 下一个更大元素 II Coverage Results" MODIFIED="1523765808674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
+    <SUITE FILE_PATH="coverage/Programming$BubbleSort.coverage" NAME="BubbleSort Coverage Results" MODIFIED="1523795323572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SortGT" />
+    <SUITE FILE_PATH="coverage/Programming$Creating_maze.coverage" NAME="Creating_maze Coverage Results" MODIFIED="1478998719704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Maze" />
+    <SUITE FILE_PATH="coverage/Programming$336_.coverage" NAME="336 回文对 Coverage Results" MODIFIED="1523528230497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
+    <SUITE FILE_PATH="coverage/Programming$349_.coverage" NAME="349 两个数组的交集 Coverage Results" MODIFIED="1523713113341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
+    <SUITE FILE_PATH="coverage/Programming$496__I.coverage" NAME="496 下一个更大元素 I Coverage Results" MODIFIED="1523713709067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
+    <SUITE FILE_PATH="coverage/Programming$566_.coverage" NAME="566 重塑矩阵 Coverage Results" MODIFIED="1523590490890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
+    <SUITE FILE_PATH="coverage/Programming$Server.coverage" NAME="Server Coverage Results" MODIFIED="1477060424341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Decorator" />
+    <SUITE FILE_PATH="coverage/Programming$treesGT.coverage" NAME="treesGT Coverage Results" MODIFIED="1524554594885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOOK-MLinActionGTpy35/决策树" />
     <SUITE FILE_PATH="coverage/Programming$053_.coverage" NAME="053爬虫_翻译 Coverage Results" MODIFIED="1470702103927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Programming$Client.coverage" NAME="Client Coverage Results" MODIFIED="1477060426298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Decorator" />
-    <SUITE FILE_PATH="coverage/Programming$1_.coverage" NAME="1 两数之和 Coverage Results" MODIFIED="1523525151578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
-    <SUITE FILE_PATH="coverage/Programming$461_.coverage" NAME="461 汉明距离 Coverage Results" MODIFIED="1523533677520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
-    <SUITE FILE_PATH="coverage/Programming$268_.coverage" NAME="268 缺失数字 Coverage Results" MODIFIED="1524232822158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
-    <SUITE FILE_PATH="coverage/Programming$range__.coverage" NAME="range() Coverage Results" MODIFIED="1470141497419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Programming$Server.coverage" NAME="Server Coverage Results" MODIFIED="1477060424341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Decorator" />
-    <SUITE FILE_PATH="coverage/Programming$05.coverage" NAME="05模块化神经网络搭建 Coverage Results" MODIFIED="1529289100968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow_GT" />
-    <SUITE FILE_PATH="coverage/Programming$500_.coverage" NAME="500 键盘行 Coverage Results" MODIFIED="1523538832587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
-    <SUITE FILE_PATH="coverage/Programming$806_.coverage" NAME="806 写字符串需要的行数 Coverage Results" MODIFIED="1523602272133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
-    <SUITE FILE_PATH="coverage/Programming$040_BIF.coverage" NAME="040类和对象_BIF Coverage Results" MODIFIED="1470203659533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Programming$682_.coverage" NAME="682 棒球比赛 Coverage Results" MODIFIED="1523675089903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
-    <SUITE FILE_PATH="coverage/Programming$else.coverage" NAME="再谈else Coverage Results" MODIFIED="1470052335472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Programming$for_demo.coverage" NAME="for_demo Coverage Results" MODIFIED="1470140051471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Programming$028.coverage" NAME="028一个任务 Coverage Results" MODIFIED="1470028463950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Programming$344_.coverage" NAME="344 反转字符串 Coverage Results" MODIFIED="1523585800399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
-    <SUITE FILE_PATH="coverage/Programming$476_.coverage" NAME="476 数字的补数 Coverage Results" MODIFIED="1523537852140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
-    <SUITE FILE_PATH="coverage/Programming$menu.coverage" NAME="menu Coverage Results" MODIFIED="1477295683837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/parent_directory" />
-    <SUITE FILE_PATH="coverage/Programming$389_.coverage" NAME="389 找不同 Coverage Results" MODIFIED="1523872273526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
-    <SUITE FILE_PATH="coverage/Programming$599_.coverage" NAME="599 两个列表的最小索引总和 Coverage Results" MODIFIED="1524370345876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
-    <SUITE FILE_PATH="coverage/Programming$728_.coverage" NAME="728 自除数 Coverage Results" MODIFIED="1523539528068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
-    <SUITE FILE_PATH="coverage/Programming$file22listGT.coverage" NAME="file22listGT Coverage Results" MODIFIED="1523693409847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TOOLgt" />
-    <SUITE FILE_PATH="coverage/Programming$README.coverage" NAME="README Coverage Results" MODIFIED="1523242140571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Programming$412_Fizz_Buzz.coverage" NAME="412 Fizz Buzz Coverage Results" MODIFIED="1523675895248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
-    <SUITE FILE_PATH="coverage/Programming$696_.coverage" NAME="696 计数二进制子串 Coverage Results" MODIFIED="1523780599326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
-    <SUITE FILE_PATH="coverage/Programming$762_.coverage" NAME="762 二进制表示中质数个计算置位 Coverage Results" MODIFIED="1523695952493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
-    <SUITE FILE_PATH="coverage/Programming$258_.coverage" NAME="258 各位相加 Coverage Results" MODIFIED="1523676478231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
-    <SUITE FILE_PATH="coverage/Programming$file22listGT__1_.coverage" NAME="file22listGT (1) Coverage Results" MODIFIED="1523694725108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TOOLgt" />
-    <SUITE FILE_PATH="coverage/Programming$13_.coverage" NAME="13 罗马数字转整数 Coverage Results" MODIFIED="1523597646944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
-    <SUITE FILE_PATH="coverage/Programming$409_.coverage" NAME="409 最长回文串 Coverage Results" MODIFIED="1524466553005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
-    <SUITE FILE_PATH="coverage/Programming$171_Excel.coverage" NAME="171 Excel表列序号 Coverage Results" MODIFIED="1523596070571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
-    <SUITE FILE_PATH="coverage/Programming$BIF.coverage" NAME="字符串的各种BIF Coverage Results" MODIFIED="1469851889537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Programming$485_1.coverage" NAME="485 最大连续1的个数 Coverage Results" MODIFIED="1523622743592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
-    <SUITE FILE_PATH="coverage/Programming$9_.coverage" NAME="9 回文数 Coverage Results" MODIFIED="1524371700913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
-    <SUITE FILE_PATH="coverage/Programming$788_.coverage" NAME="788 旋转数字 Coverage Results" MODIFIED="1524291720534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
-    <SUITE FILE_PATH="coverage/Programming$test123.coverage" NAME="test123 Coverage Results" MODIFIED="1529322834625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PracticePY" />
-    <SUITE FILE_PATH="coverage/Programming$2.coverage" NAME="列表2 Coverage Results" MODIFIED="1469614241928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Programming$796_.coverage" NAME="796 旋转字符串 Coverage Results" MODIFIED="1523938144020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
-    <SUITE FILE_PATH="coverage/Programming$BubbleSort.coverage" NAME="BubbleSort Coverage Results" MODIFIED="1523795323572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SortGT" />
-    <SUITE FILE_PATH="coverage/Programming$693_.coverage" NAME="693 交替位二进制数 Coverage Results" MODIFIED="1523607601445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
-    <SUITE FILE_PATH="coverage/Programming$Creating_maze.coverage" NAME="Creating_maze Coverage Results" MODIFIED="1478998719704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Maze" />
-    <SUITE FILE_PATH="coverage/Programming$hanoi.coverage" NAME="hanoi Coverage Results" MODIFIED="1469931566358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Programming$496__I.coverage" NAME="496 下一个更大元素 I Coverage Results" MODIFIED="1523713709067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
     <SUITE FILE_PATH="coverage/Programming$settings.coverage" NAME="settings Coverage Results" MODIFIED="1471500449310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyDjango/MyDjango" />
+    <SUITE FILE_PATH="coverage/Programming$036.coverage" NAME="036类和对象 Coverage Results" MODIFIED="1470116874360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Programming$599_.coverage" NAME="599 两个列表的最小索引总和 Coverage Results" MODIFIED="1524370345876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
+    <SUITE FILE_PATH="coverage/Programming$27_.coverage" NAME="27 移除元素 Coverage Results" MODIFIED="1523769373831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
+    <SUITE FILE_PATH="coverage/Programming$169_.coverage" NAME="169 求众数 Coverage Results" MODIFIED="1524019960882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
+    <SUITE FILE_PATH="coverage/Programming$factorial.coverage" NAME="factorial Coverage Results" MODIFIED="1523364360207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Programming$GUI_demo1.coverage" NAME="GUI编程入门_demo1 Coverage Results" MODIFIED="1470056961160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Programming$3_.coverage" NAME="3 无重复字符的最长子串 Coverage Results" MODIFIED="1537341623309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
+    <SUITE FILE_PATH="coverage/Programming$Requests.coverage" NAME="Requests库的使用 Coverage Results" MODIFIED="1523274978809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BIT_MOOC-Python" />
+    <SUITE FILE_PATH="coverage/Programming$notebook.coverage" NAME="notebook Coverage Results" MODIFIED="1477208482664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/parent_directory" />
+    <SUITE FILE_PATH="coverage/Programming$476_.coverage" NAME="476 数字的补数 Coverage Results" MODIFIED="1523537852140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
+    <SUITE FILE_PATH="coverage/Programming$461_.coverage" NAME="461 汉明距离 Coverage Results" MODIFIED="1523533677520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
+    <SUITE FILE_PATH="coverage/Programming$409_.coverage" NAME="409 最长回文串 Coverage Results" MODIFIED="1524466553005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
+    <SUITE FILE_PATH="coverage/Programming$README.coverage" NAME="README Coverage Results" MODIFIED="1523242140571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Programming$268_.coverage" NAME="268 缺失数字 Coverage Results" MODIFIED="1524232822158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
+    <SUITE FILE_PATH="coverage/Programming$OS.coverage" NAME="OS模块 Coverage Results" MODIFIED="1470029273974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Programming$alphabetListGT.coverage" NAME="alphabetListGT Coverage Results" MODIFIED="1523870673110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TOOLgt" />
+    <SUITE FILE_PATH="coverage/Programming$range__.coverage" NAME="range() Coverage Results" MODIFIED="1470141497419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Programming$500_.coverage" NAME="500 键盘行 Coverage Results" MODIFIED="1523538832587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
+    <SUITE FILE_PATH="coverage/Programming$else.coverage" NAME="再谈else Coverage Results" MODIFIED="1470052335472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Programming$283_.coverage" NAME="283 移动零 Coverage Results" MODIFIED="1523685843246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
+    <SUITE FILE_PATH="coverage/Programming$383_.coverage" NAME="383 赎金信 Coverage Results" MODIFIED="1524896762612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
+    <SUITE FILE_PATH="coverage/Programming$028.coverage" NAME="028一个任务 Coverage Results" MODIFIED="1470028463950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Programming$QuickSort.coverage" NAME="QuickSort Coverage Results" MODIFIED="1523795523483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SortGT" />
+    <SUITE FILE_PATH="coverage/Programming$test123.coverage" NAME="test123 Coverage Results" MODIFIED="1529322834625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PracticePY" />
+    <SUITE FILE_PATH="coverage/Programming$485_1.coverage" NAME="485 最大连续1的个数 Coverage Results" MODIFIED="1523622743592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
+    <SUITE FILE_PATH="coverage/Programming$171_Excel.coverage" NAME="171 Excel表列序号 Coverage Results" MODIFIED="1523596070571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
     <SUITE FILE_PATH="coverage/Programming$037_.coverage" NAME="037类和对象_组合 Coverage Results" MODIFIED="1470194991114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Programming$598__II.coverage" NAME="598 范围求和 II Coverage Results" MODIFIED="1524368178266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
-    <SUITE FILE_PATH="coverage/Programming$804_.coverage" NAME="804 唯一摩尔斯密码词 Coverage Results" MODIFIED="1523586456691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
     <SUITE FILE_PATH="coverage/Programming$time.coverage" NAME="time库的使用 Coverage Results" MODIFIED="1522840109411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BIT_MOOC-Python" />
+    <SUITE FILE_PATH="coverage/Programming$191_1.coverage" NAME="191 汉明重量（位1的个数） Coverage Results" MODIFIED="1524368666604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
+    <SUITE FILE_PATH="coverage/Programming$053.coverage" NAME="053爬虫 Coverage Results" MODIFIED="1470287615655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Programming$test456__1_.coverage" NAME="test456 (1) Coverage Results" MODIFIED="1523861292074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PracticePY" />
+    <SUITE FILE_PATH="coverage/Programming$test456.coverage" NAME="test456 Coverage Results" MODIFIED="1524369888338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PracticePY" />
+    <SUITE FILE_PATH="coverage/Programming$344_.coverage" NAME="344 反转字符串 Coverage Results" MODIFIED="1523585800399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
+    <SUITE FILE_PATH="coverage/Programming$682_.coverage" NAME="682 棒球比赛 Coverage Results" MODIFIED="1523675089903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
+    <SUITE FILE_PATH="coverage/Programming$561__I.coverage" NAME="561 数组拆分 I Coverage Results" MODIFIED="1523587999044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
+    <SUITE FILE_PATH="coverage/Programming$811_.coverage" NAME="811 子域名访问计数 Coverage Results" MODIFIED="1523620625715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
     <SUITE FILE_PATH="coverage/Programming$541__II.coverage" NAME="541 反转字符串 II Coverage Results" MODIFIED="1523585516361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
+    <SUITE FILE_PATH="coverage/Programming$1_.coverage" NAME="1 两数之和 Coverage Results" MODIFIED="1523525151578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
+    <SUITE FILE_PATH="coverage/Programming$693_.coverage" NAME="693 交替位二进制数 Coverage Results" MODIFIED="1523607601445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
+    <SUITE FILE_PATH="coverage/Programming$13_.coverage" NAME="13 罗马数字转整数 Coverage Results" MODIFIED="1523597646944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
+    <SUITE FILE_PATH="coverage/Programming$Walden_.coverage" NAME="Walden_词频统计 Coverage Results" MODIFIED="1475317795176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Programming$040_BIF.coverage" NAME="040类和对象_BIF Coverage Results" MODIFIED="1470203659533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Programming$useAPI.coverage" NAME="useAPI Coverage Results" MODIFIED="1524463478384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PracticePY" />
+    <SUITE FILE_PATH="coverage/Programming$N.coverage" NAME="N的多次方 Coverage Results" MODIFIED="1523241911789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BIT_MOOC-Python" />
+    <SUITE FILE_PATH="coverage/Programming$26_.coverage" NAME="26 删除排序数组中的重复项 Coverage Results" MODIFIED="1523772419278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
+    <SUITE FILE_PATH="coverage/Programming$762_.coverage" NAME="762 二进制表示中质数个计算置位 Coverage Results" MODIFIED="1523695952493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
+    <SUITE FILE_PATH="coverage/Programming$575_.coverage" NAME="575 分糖果 Coverage Results" MODIFIED="1523591052748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
+    <SUITE FILE_PATH="coverage/Programming$804_.coverage" NAME="804 唯一摩尔斯密码词 Coverage Results" MODIFIED="1523586456691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
+    <SUITE FILE_PATH="coverage/Programming$turtle.coverage" NAME="turtle同切圆绘制 Coverage Results" MODIFIED="1522810367715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BIT_MOOC-Python" />
+    <SUITE FILE_PATH="coverage/Programming$kNNGT__1_.coverage" NAME="kNNGT (1) Coverage Results" MODIFIED="1524116389452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOOK-MLinActionGTpy35/k-近邻算法" />
+    <SUITE FILE_PATH="coverage/Programming$file22listGT__1_.coverage" NAME="file22listGT (1) Coverage Results" MODIFIED="1523694725108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TOOLgt" />
+    <SUITE FILE_PATH="coverage/Programming$Solving_maze.coverage" NAME="Solving_maze Coverage Results" MODIFIED="1479011512073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Maze" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -161,10 +166,50 @@
       <file leaf-file-name="929 独特的电子邮件地址.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/LeetCode_GT/929 独特的电子邮件地址.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="138">
               <caret line="45" column="32" lean-forward="true" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="32" />
+=======
+            <state relative-caret-position="1512">
+              <caret line="65" column="19" selection-start-line="65" selection-start-column="19" selection-end-line="65" selection-end-column="27" />
+              <folding>
+                <element signature="e#42#51#0" expanded="true" />
+              </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="4 两个排序数组的中位数.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode_GT/4 两个排序数组的中位数.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1536">
+              <caret line="64" selection-start-line="64" selection-end-line="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="统计词频.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BIT_MOOC-Python/统计词频.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1224">
+              <caret line="51" selection-start-line="51" selection-end-line="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="财务自由.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PracticePY/财务自由.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+>>>>>>> 6de84a494067c0c41fd9794607067b585cc9dbea
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="905 按奇偶排序数组.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode_GT/905 按奇偶排序数组.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -178,11 +223,16 @@
   </component>
   <component name="Git.Settings">
     <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
+=======
+        <option value="$PROJECT_DIR$/TensorFlow_GT/01前向传播-喂一组数据.py" />
+>>>>>>> 6de84a494067c0c41fd9794607067b585cc9dbea
         <option value="$PROJECT_DIR$/TensorFlow_GT/01前向传播.py" />
         <option value="$PROJECT_DIR$/TensorFlow_GT/01前行传播-喂一组数据.py" />
         <option value="$PROJECT_DIR$/TensorFlow_GT/01前向传播-喂多组数据.py" />
@@ -232,8 +282,12 @@
         <option value="$PROJECT_DIR$/PracticePY/Python爬取网页中的图片（搜狗图片）详解.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/4 两个排序数组的中位数.py" />
         <option value="$PROJECT_DIR$/PracticePY/财务自由.py" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/LeetCode_GT/929 独特的电子邮件地址.py" />
         <option value="$PROJECT_DIR$/LeetCode_GT/eree.py" />
+=======
+        <option value="$PROJECT_DIR$/LeetCode_GT/905 按奇偶排序数组.py" />
+>>>>>>> 6de84a494067c0c41fd9794607067b585cc9dbea
       </list>
     </option>
   </component>
@@ -246,11 +300,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="283" />
     <option name="y" value="176" />
-    <option name="width" value="1607" />
-    <option name="height" value="807" />
+    <option name="width" value="1386" />
+    <option name="height" value="788" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -275,11 +329,14 @@
               <item name="Programming" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Programming" type="462c0819:PsiDirectoryNode" />
               <item name="LeetCode_GT" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
             </path>
             <path>
               <item name="Programming" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Programming" type="462c0819:PsiDirectoryNode" />
               <item name="PracticePY" type="462c0819:PsiDirectoryNode" />
+=======
+>>>>>>> 6de84a494067c0c41fd9794607067b585cc9dbea
             </path>
           </expand>
           <select />
@@ -291,10 +348,10 @@
     <property name="FullScreen" value="false" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/zhouheng/Programming/Python/Programming/LeetCode_GT/485 最大连续1的个数.py" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/Program Files/Git/bin/git.exe" />
     <property name="recentsLimit" value="5" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -493,6 +550,7 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <configuration name="4-8  线性回归的tensorboard可视化" type="PythonConfigurationType" factoryName="Python" temporary="true">
+<<<<<<< HEAD
       <module name="Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -512,6 +570,8 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <configuration name="929 独特的电子邮件地址" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+>>>>>>> 6de84a494067c0c41fd9794607067b585cc9dbea
       <module name="Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -1112,7 +1172,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="283" y="176" width="1607" height="807" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -1120,9 +1180,13 @@
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.1822753" weight="0.3290938" />
       <window_info anchor="bottom" id="Python Console" order="9" weight="0.32913387" />
+<<<<<<< HEAD
       <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8177247" side_tool="true" visible="true" weight="0.30057803" />
+=======
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8177247" side_tool="true" weight="0.33596215" />
+>>>>>>> 6de84a494067c0c41fd9794607067b585cc9dbea
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.32913387" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18290384" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1830161" />
       <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" x="480" y="196" width="868" height="542" id="SciView" order="3" type="WINDOWED" weight="0.3557833" />
@@ -1225,6 +1289,16 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/LeetCode_GT/4 两个排序数组的中位数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1536">
+          <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> 6de84a494067c0c41fd9794607067b585cc9dbea
     <entry file="file://$PROJECT_DIR$/PracticePY/test123.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -1484,18 +1558,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode_GT/4 两个排序数组的中位数.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="594">
+=======
+        <state relative-caret-position="1536">
+>>>>>>> 6de84a494067c0c41fd9794607067b585cc9dbea
           <caret line="64" selection-start-line="64" selection-end-line="64" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PracticePY/053爬虫_批量下载图片.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="594">
           <caret line="65" column="19" selection-start-line="65" selection-start-column="19" selection-end-line="65" selection-end-column="27" />
           <folding>
             <element signature="e#42#51#0" expanded="true" />
           </folding>
+=======
+        <state relative-caret-position="1224">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+>>>>>>> 6de84a494067c0c41fd9794607067b585cc9dbea
         </state>
       </provider>
     </entry>
@@ -1511,10 +1594,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode_GT/929 独特的电子邮件地址.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="138">
           <caret line="45" column="32" lean-forward="true" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="32" />
+=======
+        <state relative-caret-position="96">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+>>>>>>> 6de84a494067c0c41fd9794607067b585cc9dbea
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode_GT/905 按奇偶排序数组.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">

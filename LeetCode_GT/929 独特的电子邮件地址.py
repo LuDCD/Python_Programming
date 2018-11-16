@@ -3,7 +3,7 @@
 
 """
 每封电子邮件都由一个本地名称和一个域名组成，以 @ 符号分隔。
-例如，在 alice@leetcode.com中， alice 是本地名称，而 leetcode.com 是域名。
+例如，在 alice@leetcode.com中，alice 是本地名称，而 leetcode.com 是域名。
 
 除了小写字母，这些电子邮件还可能包含 '.' 或 '+'。
 

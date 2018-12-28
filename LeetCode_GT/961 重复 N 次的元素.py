@@ -29,9 +29,23 @@
 @author: ZHOU Heng
 """
 
+class Solution:
+    def repeatedNTimes(self, A):
+        """
+        :type A: List[int]
+        :rtype: int
+        """
+        A.sort()
+        N = len(A)//2
+        for i in range(N+1):
+            if A[i] == A[N+i-1]:
+                return A[i]
+
+
 
 def main():
-    pass
+    sol = Solution()
+    print(sol.repeatedNTimes([5,1,5,2,5,3,5,4]))
 
 
 if __name__ == "__main__":

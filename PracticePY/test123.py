@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
 
-import sys
+from collections import Iterable
 
-print(sys.argv)
+print(isinstance([], Iterable)) # True
 

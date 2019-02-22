@@ -3,7 +3,8 @@
 
 
 # lambda表达式
-# lambda [arg1[, arg2, ... argN]] : expression
+# lambda 输入参数:返回的结果（一个运算表达式）
+# （就是说：冒号前面表示的是输入，这个输入经过冒号后面的表达式运算之后返回）
 
 # 一般函数
 def add(x,y):

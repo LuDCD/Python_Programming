@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed58b09a-4966-42f0-a231-e393a72d3a68" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/PracticePY/data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Programming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Programming.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticePY/test123.py" beforeDir="false" afterPath="$PROJECT_DIR$/PracticePY/test123.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticePY/test456.py" beforeDir="false" afterPath="$PROJECT_DIR$/PracticePY/test456.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,7 +19,7 @@
     <SUITE FILE_PATH="coverage/Programming$test456.coverage" NAME="test456 Coverage Results" MODIFIED="1555163053169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PracticePY" />
     <SUITE FILE_PATH="coverage/Programming$977_.coverage" NAME="977 有序数组的平方 Coverage Results" MODIFIED="1552050821865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode_GT" />
     <SUITE FILE_PATH="coverage/Programming$pickle.coverage" NAME="pickle模块 Coverage Results" MODIFIED="1548383086247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PracticePY" />
-    <SUITE FILE_PATH="coverage/Programming$test123.coverage" NAME="test123 Coverage Results" MODIFIED="1555164068977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PracticePY" />
+    <SUITE FILE_PATH="coverage/Programming$test123.coverage" NAME="test123 Coverage Results" MODIFIED="1555165755634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PracticePY" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -63,8 +62,8 @@
       <file leaf-file-name="test123.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PracticePY/test123.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+            <state relative-caret-position="280">
+              <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
               <folding>
                 <element signature="e#46#64#0" expanded="true" />
               </folding>
@@ -130,7 +129,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="183" />
     <option name="y" value="162" />
-    <option name="width" value="1530" />
+    <option name="width" value="1607" />
     <option name="height" value="788" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -163,6 +162,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../code_python" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -182,25 +182,6 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.test123">
-    <configuration name="977 有序数组的平方" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Programming" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode_GT" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode_GT/977 有序数组的平方.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="内置方法" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -215,6 +196,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PracticePY/内置方法.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="977 有序数组的平方" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode_GT" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode_GT/977 有序数组的平方.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -316,17 +316,16 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
+      <item itemvalue="Python.内置方法" />
       <item itemvalue="Python.test123" />
       <item itemvalue="Python.pickle模块" />
       <item itemvalue="Python.json序列化" />
-      <item itemvalue="Python.977 有序数组的平方" />
       <item itemvalue="Python.test456" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.test123" />
         <item itemvalue="Python.test456" />
-        <item itemvalue="Python.977 有序数组的平方" />
         <item itemvalue="Python.json序列化" />
         <item itemvalue="Python.pickle模块" />
       </list>
@@ -346,7 +345,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="183" y="162" width="1530" height="788" extended-state="0" />
+    <frame x="183" y="162" width="1607" height="788" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -354,13 +353,12 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31222385" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.43740794" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13738441" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17473288" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3298969" />
-      <window_info active="true" anchor="right" id="SciView" order="3" visible="true" weight="0.32232496" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32232496" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39911634" />
@@ -370,6 +368,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3298969" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -384,6 +383,16 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/PracticePY/test123.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+          <folding>
+            <element signature="e#46#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode_GT/70爬楼梯.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="840">
@@ -696,9 +705,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PracticePY/data.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/PracticePY/test456.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
@@ -708,8 +714,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PracticePY/test123.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        <state relative-caret-position="280">
+          <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
           <folding>
             <element signature="e#46#64#0" expanded="true" />
           </folding>

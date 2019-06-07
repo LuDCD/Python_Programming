@@ -1,14 +1,20 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
 
-# import numpy as np
-# import matplotlib.pyplot as plt
 
-import pandas as pd
+file_name = "G:/t\# 空天杯\data\红外图像数据及标签\data1.txt"
 
-data = pd.read_csv("G:/t\# 空天杯\data\红外图像数据及标签\data1.txt", sep="\t", engine='python')
+data = []
+
+file = open(file_name)
+for line in file:
+
+    a = line.strip().split(sep='\t')
+    data.append(a)
+    print(a)
+file.close()
+print(data)
+
+
 # print(data)
-print(data[1,:])
-
-# plt.scatter(data[:,0],data[:,1])
-# plt.show()
+# print(type(a))

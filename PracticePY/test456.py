@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 # -*- coding:utf8 -*-
 
-from nltk.corpus import brown
-print(brown.words())
+import numpy as np
+
+a = np.zeros((100, 2))
+a[0]
+print(a.shape,a[0])

@@ -25,7 +25,7 @@ class Solution:
         l1 = l2 = len(nums)
         # print(nums)
 
-        cmpNum = [ i-target for i in num]
+        cmpNum = [i-target for i in num]
         if 0 in cmpNum and target != 0:
             l2 = cmpNum.index(0)
         elif cmpNum[-1] > 0:
@@ -45,10 +45,7 @@ class Solution:
                     q = nums.index(num[j])
                     return [p,q]
 
-
-
 def test():
-
     # nums = [2, 7, 11, 15];target = 9
     # nums  = [3, 3]; target = 6
     # nums = [-3,4,3,90]; target = 0
@@ -57,6 +54,7 @@ def test():
     s = Solution()
     a = s.twoSum(nums, target)
     print( a )
+
 
 if __name__ == "__main__":
     test()

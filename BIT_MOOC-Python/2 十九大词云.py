@@ -22,12 +22,11 @@ txt = ' '.join(ls)
 
 # 产生WordCloud对象
 w = wordcloud.WordCloud( font_path = "C:\Windows\Fonts\msyh.ttc", width=700, height=713, \
-                         mask=mask, background_color='white')
+                         mask=mask, background_color='red')
 # 生成词云
 w.generate(txt)
 # 输出到文件
-w.to_file('2CPC19th_badge_wordcloud.png')
-
+w.to_file('2CPC19th_badge_wordcloud2.png')
 
 
 if __name__ == "__main__":

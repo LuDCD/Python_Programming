@@ -15,17 +15,64 @@
 """
 
 class Solution:
+    def twoSum3(self,nums, target):
+        """
+        :type nums: List[int]
+        :type target: int
+        :rtype: List[int]
+        """
+        leg = len(nums)
+        for i in range(leg):
+            value = nums[i]
+            diff = target - value
+            nums[i] = 'used'
+            if diff in nums:
+                idx = nums.index(diff)
+                return [i, idx]
+
+            # 恢复
+            nums[i] = value
+
+
+    def twoSum2(self,nums, target):
+        """
+        :type nums: List[int]
+        :type target: int
+        :rtype: List[int]
+        """
+        # 使用哈希映射
+        # 根据已有数据创建字典
+        leg = len(nums)
+        hashMap = dict( zip(range(leg), nums) )
+        # hashMap = dict( zip(nums, range(leg)) )  # 不行
+        # 在字典dict中，key值是唯一的，且不可变；而value可以随意取值，且不唯一。
+        for i in range(leg):
+            value = nums[i]
+            del hashMap[i]
+            diff = target - value
+            if diff in hashMap.values():
+                # 如何按value找key
+                idx = list(hashMap.keys())[list(hashMap.values()).index(diff)]
+                # python3 文档，
+                # 在你迭代的过程中如果没有发生对字典的修改，
+                # 那么.keys() and .values 这两个函数返回的 dict-view对象总是保持对应关系。
+                return [i, idx]
+
+
+
     def twoSum(self,nums, target):
         """
         :type nums: List[int]
         :type target: int
         :rtype: List[int]
         """
+        # 时间复杂度O(N^2)
+        
         num = sorted(nums)     # nums排序（从小到大）
         l1 = l2 = len(nums)
         # print(nums)
 
-        cmpNum = [ i-target for i in num]
+        cmpNum = [i-target for i in num]
         if 0 in cmpNum and target != 0:
             l2 = cmpNum.index(0)
         elif cmpNum[-1] > 0:
@@ -45,18 +92,18 @@ class Solution:
                     q = nums.index(num[j])
                     return [p,q]
 
-
-
 def test():
-
-    # nums = [2, 7, 11, 15];target = 9
+    nums = [2, 7, 11, 15];target = 9
     # nums  = [3, 3]; target = 6
     # nums = [-3,4,3,90]; target = 0
-    nums = [0,4,3,0];   target = 0
+    # nums = [0,4,3,0];   target = 0
 
     s = Solution()
-    a = s.twoSum(nums, target)
-    print( a )
+    a = s.twoSum(nums.copy(), target)
+    a2 = s.twoSum2(nums.copy(), target)
+    a3 = s.twoSum3(nums.copy(), target)
+    print( a, a2 , a3)
+
 
 if __name__ == "__main__":
     test()

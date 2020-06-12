@@ -7,13 +7,15 @@ File function
 @author: ZHOU Heng
 """
 
+
 class Solution:
     pass
+
 
 def test():
     sol = Solution()
 
-    print(  )
+    print()
 
 
 if __name__ == "__main__":

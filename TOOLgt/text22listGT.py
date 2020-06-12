@@ -44,7 +44,8 @@ def text_read( filename ):
 
 
 def test():
-    pass
+    data_lable = "F:\DeepLearning\DataSet\infrared image datasets\红外序列图像中弱小飞机目标检测跟踪数据集\dataset\data_label"
+    text_read("{}/data4.txt".format(data_lable))
 
 
 if __name__ == "__main__":

@@ -17,7 +17,7 @@ def text_save(content, filename, mode='a'):
     '''
     file = open(filename,mode)
     for i in range(len(content)):
-        file.write(str(content[i])+'\n')
+        file.write(str(content[i,:])+'\n')  # 按行存储
     file.close()
 
 def text_read( filename ):
@@ -43,10 +43,7 @@ def text_read( filename ):
 
 
 
-def test():
-    data_lable = "F:\DeepLearning\DataSet\infrared image datasets\红外序列图像中弱小飞机目标检测跟踪数据集\dataset\data_label"
-    text_read("{}/data4.txt".format(data_lable))
-
-
 if __name__ == "__main__":
-    test()
+    data_lable = "F:\DeepLearning\DataSet\infrared image datasets\红外序列图像中弱小飞机目标检测跟踪数据集\dataset\data_label"
+    content = text_read("{}/data4.txt".format(data_lable))
+    print(content)
